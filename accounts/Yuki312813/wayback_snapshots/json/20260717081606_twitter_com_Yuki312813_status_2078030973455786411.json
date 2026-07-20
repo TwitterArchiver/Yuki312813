@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077937952521351526",
+    "created_at": "2026-07-17T08:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078030973455786411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1990455987552256000",
+          "start": 0,
+          "username": "yikuqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078030973455786411",
+    "in_reply_to_user_id": "1990455987552256000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078023497935376869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yikuqwq 电子处方就能买，只是觉得有点好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077937952521351526",
+        "created_at": "2026-07-17T08:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078030973455786411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1990455987552256000",
+              "start": 0,
+              "username": "yikuqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078030973455786411",
+        "in_reply_to_user_id": "1990455987552256000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078023497935376869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yikuqwq 电子处方就能买，只是觉得有点好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990455987552256000",
+        "conversation_id": "2077937952521351526",
+        "created_at": "2026-07-17T07:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078023497935376869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078023497935376869",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077937952521351526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 加巴还用开方吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 125,
+          "like_count": 3230,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 2779
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-17T16:24:34.000Z",
+        "description": "能不能也对我留点爱？",
+        "id": "1990455987552256000",
+        "name": "世界消失之后",
+        "pinned_tweet_id": "2067643251918778426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076314114968928256/g9oQOzwL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 308,
+          "like_count": 3487,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "yikuqwq",
+        "verified": false
+      }
+    ]
+  }
+}

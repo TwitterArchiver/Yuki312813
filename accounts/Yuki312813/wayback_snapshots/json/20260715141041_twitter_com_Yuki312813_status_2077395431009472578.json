@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077355097324134626",
+    "created_at": "2026-07-15T14:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077395431009472578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974420946045071360",
+          "start": 0,
+          "username": "sunny98398"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077395431009472578",
+    "in_reply_to_user_id": "1974420946045071360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077395055258882206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunny98398 舍不得吃，留给你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077355097324134626",
+        "created_at": "2026-07-15T14:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077395431009472578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974420946045071360",
+              "start": 0,
+              "username": "sunny98398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077395431009472578",
+        "in_reply_to_user_id": "1974420946045071360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077395055258882206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunny98398 舍不得吃，留给你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974420946045071360",
+        "conversation_id": "2077355097324134626",
+        "created_at": "2026-07-15T14:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077395055258882206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077395055258882206",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077386681468993888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 （拿出一包）快吃！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 106,
+          "like_count": 2906,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 2665
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T10:27:10.000Z",
+        "description": "想跟大家互fo｜歡迎與我聊天 除了廣告其他基本不會拒絕 如果你的發言到令我感到不適我會選擇已讀不回 或是我會跟你跟你說明｜不定時出現與消失｜ 全友好LGBTQ+｜無立場｜無性別｜“想要救贖他人 逃離深淵 回到原本的軌道 順便拯救自己”",
+        "id": "1974420946045071360",
+        "name": "濪",
+        "pinned_tweet_id": "2038171627868070114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040996760517320704/yxiZJH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 94,
+          "like_count": 1431,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 765
+        },
+        "url": "",
+        "username": "sunny98398",
+        "verified": false
+      }
+    ]
+  }
+}

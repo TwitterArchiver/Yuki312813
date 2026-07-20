@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077927004507439517",
+    "created_at": "2026-07-17T04:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077980150260482135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077728357744275456",
+          "start": 0,
+          "username": "zerro00730"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077980150260482135",
+    "in_reply_to_user_id": "2077728357744275456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077927004507439517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zerro00730 求竹竿变肌肉男教程。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077927004507439517",
+        "created_at": "2026-07-17T04:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077980150260482135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077728357744275456",
+              "start": 0,
+              "username": "zerro00730"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077980150260482135",
+        "in_reply_to_user_id": "2077728357744275456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077927004507439517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zerro00730 求竹竿变肌肉男教程。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077728357744275456",
+        "conversation_id": "2077927004507439517",
+        "created_at": "2026-07-17T01:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077927004507439517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lover0066/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/lover0066/status/2077848059476914516",
+              "start": 17,
+              "url": "https://t.co/cbGar06VuE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077927004507439517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 715,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077848059476914516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝你是一个盗图都盗不明白的弱智 https://t.co/cbGar06VuE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 125,
+          "like_count": 3181,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 2765
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-16T12:14:42.000Z",
+        "description": "天使@Zzerro77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Zzerro77"
+              }
+            ]
+          }
+        },
+        "id": "2077728357744275456",
+        "name": "zero",
+        "pinned_tweet_id": "2077926252279898236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077728820925476864/9ut7nkb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 24,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "zerro00730",
+        "verified": false
+      }
+    ]
+  }
+}

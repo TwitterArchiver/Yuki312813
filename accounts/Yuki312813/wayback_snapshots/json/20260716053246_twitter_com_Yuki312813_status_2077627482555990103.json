@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077625871691853944",
+    "created_at": "2026-07-16T05:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T06:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077627482555990103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "357539288",
+          "start": 0,
+          "username": "Surajazeem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077627482555990103",
+    "in_reply_to_user_id": "357539288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077625871691853944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Surajazeem 你好，我想买普瑞但不敢吃缘分，你有\n可靠的药代能推给我嘛？提前感谢了\n                                                           下午4:23"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077625864939089921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNU1t2fbsAEqZft.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077625871691853944",
+        "created_at": "2026-07-16T05:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077627482555990103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "357539288",
+              "start": 0,
+              "username": "Surajazeem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077627482555990103",
+        "in_reply_to_user_id": "357539288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077625871691853944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Surajazeem 你好，我想买普瑞但不敢吃缘分，你有\n可靠的药代能推给我嘛？提前感谢了\n                                                           下午4:23"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077625864939089921"
+          ]
+        },
+        "author_id": "357539288",
+        "conversation_id": "2077625871691853944",
+        "created_at": "2026-07-16T05:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077625871691853944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tiCEBLuAf2",
+              "end": 26,
+              "expanded_url": "https://x.com/Surajazeem/status/2077625871691853944/photo/1",
+              "media_key": "3_2077625864939089921",
+              "start": 3,
+              "url": "https://t.co/tiCEBLuAf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077625871691853944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来啦 https://t.co/tiCEBLuAf2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 112,
+          "like_count": 2984,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2688
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n18.0\n辣条已过气。\n妈妈@Shivam3228\n牛马💊 @AminoXx_killer \n媳妇@Ririka12208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Ririka12208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/GEPRzkdFkj"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "location": "msk身后",
+        "name": "雨林18+",
+        "pinned_tweet_id": "2074845970169577745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074861255509307392/Y8tOJNW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 201,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/GEPRzkdFkj",
+        "username": "Surajazeem",
+        "verified": false
+      }
+    ]
+  }
+}

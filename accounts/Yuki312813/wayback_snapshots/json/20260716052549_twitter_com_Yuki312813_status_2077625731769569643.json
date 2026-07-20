@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077586813146009887",
+    "created_at": "2026-07-16T05:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T06:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077625731769569643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2076972197776875520",
+          "start": 0,
+          "username": "meng26kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077625731769569643",
+    "in_reply_to_user_id": "2076972197776875520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077586813146009887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meng26kk 我的绷力是53万😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077586813146009887",
+        "created_at": "2026-07-16T05:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077625731769569643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076972197776875520",
+              "start": 0,
+              "username": "meng26kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077625731769569643",
+        "in_reply_to_user_id": "2076972197776875520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077586813146009887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meng26kk 我的绷力是53万😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076972197776875520",
+        "conversation_id": "2077586813146009887",
+        "created_at": "2026-07-16T02:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077586813146009887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077586813146009887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们的绷度太低了，永远无法理解我现在的绷态，我是一个时代孕育出的唯一，既然敢舍弃绷者的身份，自然是能轻松绷住的，我们之间的差距就犹如难绷之人与轻松绷住之人之间，看似相似的形体，实则是截然不同的绷态，我能绷住过去、现在、未来，当世人绷不住的那一刻，我将显化于世，彻底终结难绷时代"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 112,
+          "like_count": 2980,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2687
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-14T10:10:05.000Z",
+        "description": "三叶草在风里摇摇晃晃，就像幸福悄悄站在你路过的地方₌᳐･֊･₌᳐੭\n死宅，偶尔发发自己莫名其妙的碎碎念，喜欢和别人互动聊天呀(o･･o)/欢迎来和我交朋友😌",
+        "id": "2076972197776875520",
+        "location": "👾",
+        "name": "金花世一",
+        "pinned_tweet_id": "2077448304062079013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077262965401964544/loHBOyU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 98,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "meng26kk",
+        "verified": false
+      }
+    ]
+  }
+}

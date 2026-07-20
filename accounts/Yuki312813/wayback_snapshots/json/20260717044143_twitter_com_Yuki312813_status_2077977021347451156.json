@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077749912402370856",
+    "created_at": "2026-07-17T04:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077977021347451156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1456872541952229379",
+          "start": 0,
+          "username": "txqv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077977021347451156",
+    "in_reply_to_user_id": "1456872541952229379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077973134226198718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@txqv3 未解之谜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077749912402370856",
+        "created_at": "2026-07-17T04:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077977021347451156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1456872541952229379",
+              "start": 0,
+              "username": "txqv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077977021347451156",
+        "in_reply_to_user_id": "1456872541952229379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077973134226198718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@txqv3 未解之谜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456872541952229379",
+        "conversation_id": "2077749912402370856",
+        "created_at": "2026-07-17T04:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077973134226198718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077973134226198718",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077749912402370856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 宝宝你在说什么？😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 125,
+          "like_count": 3178,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 2763
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-06T06:34:26.000Z",
+        "description": "涩涩高手梦梦，进群自由交流XP，不涩的不给过，看置顶，亮点里是我的作品，可以直接给梦梦发自己的变态涩涩哦😋，给点门槛费和自主吧，梦梦穷死了😢，给我钱我什么都会做的）",
+        "id": "1456872541952229379",
+        "location": "未知",
+        "name": "躲在被子里的梦梦",
+        "pinned_tweet_id": "2058423290138329200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975479370476363779/b9hRy7Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2384,
+          "following_count": 742,
+          "like_count": 72993,
+          "listed_count": 7,
+          "media_count": 1707,
+          "tweet_count": 21167
+        },
+        "url": "",
+        "username": "txqv3",
+        "verified": true
+      }
+    ]
+  }
+}

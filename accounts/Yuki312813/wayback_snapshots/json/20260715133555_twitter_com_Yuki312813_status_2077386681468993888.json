@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077355097324134626",
+    "created_at": "2026-07-15T13:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077386681468993888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974420946045071360",
+          "start": 0,
+          "username": "sunny98398"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077386681468993888",
+    "in_reply_to_user_id": "1974420946045071360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077355097324134626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunny98398 何意味杯面仙人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077355087668854784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ_cijaQAAKRw9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077355097324134626",
+        "created_at": "2026-07-15T13:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077386681468993888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974420946045071360",
+              "start": 0,
+              "username": "sunny98398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077386681468993888",
+        "in_reply_to_user_id": "1974420946045071360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077355097324134626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunny98398 何意味杯面仙人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077355087668854784"
+          ]
+        },
+        "author_id": "1974420946045071360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077355097324134626",
+        "created_at": "2026-07-15T11:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077355097324134626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cb59kYdwQq",
+              "end": 41,
+              "expanded_url": "https://x.com/sunny98398/status/2077355097324134626/photo/1",
+              "media_key": "3_2077355087668854784",
+              "start": 18,
+              "url": "https://t.co/Cb59kYdwQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077355097324134626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "續命美食(不要管那些碼掉的 很亂) https://t.co/Cb59kYdwQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 104,
+          "like_count": 2887,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 2660
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T10:27:10.000Z",
+        "description": "想跟大家互fo｜歡迎與我聊天 除了廣告其他基本不會拒絕 如果你的發言到令我感到不適我會選擇已讀不回 或是我會跟你跟你說明｜不定時出現與消失｜ 全友好LGBTQ+｜無立場｜無性別｜“想要救贖他人 逃離深淵 回到原本的軌道 順便拯救自己”",
+        "id": "1974420946045071360",
+        "name": "濪",
+        "pinned_tweet_id": "2038171627868070114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040996760517320704/yxiZJH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 93,
+          "like_count": 1430,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 764
+        },
+        "url": "",
+        "username": "sunny98398",
+        "verified": false
+      }
+    ]
+  }
+}

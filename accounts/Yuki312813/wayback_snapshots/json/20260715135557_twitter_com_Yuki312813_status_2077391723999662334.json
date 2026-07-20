@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077391723999662334",
+    "created_at": "2026-07-15T13:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077391723999662334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1850329593728917504",
+          "start": 3,
+          "username": "Tristesse_demer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077391723999662334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077362235404615888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tristesse_demer: 我要當一個永遠只能嗑藥的傻逼喔耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077391723999662334",
+        "created_at": "2026-07-15T13:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077391723999662334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1850329593728917504",
+              "start": 3,
+              "username": "Tristesse_demer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077391723999662334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077362235404615888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tristesse_demer: 我要當一個永遠只能嗑藥的傻逼喔耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850329593728917504",
+        "conversation_id": "2077362235404615888",
+        "created_at": "2026-07-15T11:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077362235404615888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077362235404615888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我要當一個永遠只能嗑藥的傻逼喔耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 106,
+          "like_count": 2901,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 2663
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-27T00:12:15.000Z",
+        "description": "🚪52 （請隨意打賞w會掛帖）日常調戲警察 憂鬱逼 酗酒逼 嗑藥逼 溫良 非國人約的別找我 看完主頁一般都回",
+        "id": "1850329593728917504",
+        "location": "London, England",
+        "name": "Douleur",
+        "pinned_tweet_id": "2076656977380569207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076953843062222848/4jevFyqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 215,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "Tristesse_demer",
+        "verified": false
+      }
+    ]
+  }
+}

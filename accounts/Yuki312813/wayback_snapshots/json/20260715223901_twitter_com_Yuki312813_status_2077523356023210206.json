@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077523347341000704"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077523356023210206",
+    "created_at": "2026-07-15T22:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T23:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077523356023210206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ap5q8KHP9d",
+          "end": 68,
+          "expanded_url": "https://x.com/Yuki312813/status/2077523356023210206/photo/1",
+          "media_key": "3_2077523347341000704",
+          "start": 45,
+          "url": "https://t.co/Ap5q8KHP9d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077523356023210206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "封号的前提是检测你的贴文有没有敏感词汇，就连“切割”这两个字被检测了一样封，我算是明白了 https://t.co/Ap5q8KHP9d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077523347341000704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNTYeirXQAA-f8R.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077523347341000704"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077523356023210206",
+        "created_at": "2026-07-15T22:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T23:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077523356023210206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ap5q8KHP9d",
+              "end": 68,
+              "expanded_url": "https://x.com/Yuki312813/status/2077523356023210206/photo/1",
+              "media_key": "3_2077523347341000704",
+              "start": 45,
+              "url": "https://t.co/Ap5q8KHP9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077523356023210206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "封号的前提是检测你的贴文有没有敏感词汇，就连“切割”这两个字被检测了一样封，我算是明白了 https://t.co/Ap5q8KHP9d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 109,
+          "like_count": 2917,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2670
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078133705194008818",
+    "created_at": "2026-07-17T15:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078134124863222061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786771245750755328",
+          "start": 0,
+          "username": "Ayanekawaii2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078134124863222061",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078133705194008818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanekawaii2 不愿忘记美好的回忆即便会有一些伤害，但它至少真实存在过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078133705194008818",
+        "created_at": "2026-07-17T15:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078134124863222061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078134124863222061",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078133705194008818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 不愿忘记美好的回忆即便会有一些伤害，但它至少真实存在过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786771245750755328",
+        "conversation_id": "2078133705194008818",
+        "created_at": "2026-07-17T15:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078133705194008818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuki312813/sta…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/yuki312813/status/2077752160473727109",
+              "start": 48,
+              "url": "https://t.co/4R84YqR1DD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078133705194008818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077752160473727109",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉我又陷入了回忆，虽然以前的大部分时候也是一个人在承受药效吧，但还是会怀念那些被大脑美化过的事 https://t.co/4R84YqR1DD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 128,
+          "like_count": 3274,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 2810
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual丨🇯🇵東京留学生/学部考学中/日本語N2レベル丨低精力低能量社交苦手 没有回消息的义务丨视奸随意 我开心全世界第一重要",
+        "id": "1786771245750755328",
+        "location": "不死会相逢",
+        "name": "萌小月",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074153384484188160/dVNrgQnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 280,
+          "like_count": 1144,
+          "listed_count": 2,
+          "media_count": 290,
+          "tweet_count": 2736
+        },
+        "url": "",
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077962814233215222",
+    "created_at": "2026-07-17T03:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077962814233215222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1317689258052710400",
+          "start": 3,
+          "username": "5oke_k29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077962814233215222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077935463416107480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5oke_k29: 墙内墙外你妈了个臭逼呢跟你爹叫你妈了个逼 老子骂的就是你这死母狗 母人叫唤你妈了个逼呢啊？还墙内跟你骂 你骂得明白？狗叫你妈了逼呢 逼养的 你od不算吸毒？有本事你他妈去派出所说你od啊 还我吸毒女挂你 我他妈就指着你这死母人鼻子骂你咋了啊？逼逼什么…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077934861432885248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZOv0IbkAA2-XR.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077934861424414720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZOv0GaUAA_4A1.jpg",
+        "width": 942
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2077935435658256384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZPRPSbYAAh3Vm.jpg",
+        "width": 472
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077934861432795136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZOv0IaMAAmgHp.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077962814233215222",
+        "created_at": "2026-07-17T03:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077962814233215222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1317689258052710400",
+              "start": 3,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077962814233215222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077935463416107480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5oke_k29: 墙内墙外你妈了个臭逼呢跟你爹叫你妈了个逼 老子骂的就是你这死母狗 母人叫唤你妈了个逼呢啊？还墙内跟你骂 你骂得明白？狗叫你妈了逼呢 逼养的 你od不算吸毒？有本事你他妈去派出所说你od啊 还我吸毒女挂你 我他妈就指着你这死母人鼻子骂你咋了啊？逼逼什么…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077934861432885248",
+            "3_2077934861424414720",
+            "3_2077935435658256384",
+            "3_2077934861432795136"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2077935463416107480",
+        "created_at": "2026-07-17T01:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077935463416107480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SlZVMmIsz",
+              "end": 155,
+              "expanded_url": "https://x.com/5oke_k29/status/2077935463416107480/photo/1",
+              "media_key": "3_2077934861432885248",
+              "start": 132,
+              "url": "https://t.co/6SlZVMmIsz"
+            },
+            {
+              "display_url": "pic.x.com/6SlZVMmIsz",
+              "end": 155,
+              "expanded_url": "https://x.com/5oke_k29/status/2077935463416107480/photo/1",
+              "media_key": "3_2077934861424414720",
+              "start": 132,
+              "url": "https://t.co/6SlZVMmIsz"
+            },
+            {
+              "display_url": "pic.x.com/6SlZVMmIsz",
+              "end": 155,
+              "expanded_url": "https://x.com/5oke_k29/status/2077935463416107480/photo/1",
+              "media_key": "3_2077935435658256384",
+              "start": 132,
+              "url": "https://t.co/6SlZVMmIsz"
+            },
+            {
+              "display_url": "pic.x.com/6SlZVMmIsz",
+              "end": 155,
+              "expanded_url": "https://x.com/5oke_k29/status/2077935463416107480/photo/1",
+              "media_key": "3_2077934861432795136",
+              "start": 132,
+              "url": "https://t.co/6SlZVMmIsz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077935463416107480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "墙内墙外你妈了个臭逼呢跟你爹叫你妈了个逼 老子骂的就是你这死母狗 母人叫唤你妈了个逼呢啊？还墙内跟你骂 你骂得明白？狗叫你妈了逼呢 逼养的 你od不算吸毒？有本事你他妈去派出所说你od啊 还我吸毒女挂你 我他妈就指着你这死母人鼻子骂你咋了啊？逼逼什么玩意呢 贱逼 https://t.co/6SlZVMmIsz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 125,
+          "like_count": 3173,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 2760
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5167,
+          "following_count": 151,
+          "like_count": 963,
+          "listed_count": 9,
+          "media_count": 303,
+          "tweet_count": 2665
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

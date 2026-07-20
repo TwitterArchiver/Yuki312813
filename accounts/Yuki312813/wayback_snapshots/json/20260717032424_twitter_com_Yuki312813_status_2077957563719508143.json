@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077752160473727109",
+    "created_at": "2026-07-17T03:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077957563719508143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1280505058380128257",
+          "start": 0,
+          "username": "hhhiwa0406"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077957563719508143",
+    "in_reply_to_user_id": "1280505058380128257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077955601758597482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhiwa0406 这种情况没人陪着真的会感觉很无助，无论是焦虑恐慌发作还是恐怖的幻觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077752160473727109",
+        "created_at": "2026-07-17T03:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077957563719508143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1280505058380128257",
+              "start": 0,
+              "username": "hhhiwa0406"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077957563719508143",
+        "in_reply_to_user_id": "1280505058380128257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077955601758597482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhiwa0406 这种情况没人陪着真的会感觉很无助，无论是焦虑恐慌发作还是恐怖的幻觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280505058380128257",
+        "conversation_id": "2077752160473727109",
+        "created_at": "2026-07-17T03:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077955601758597482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077955601758597482",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077752160473727109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 bad trip的时候真的很希望有人陪在身边。。！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 125,
+          "like_count": 3170,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 2758
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-07T14:13:00.000Z",
+        "description": "恋父癖，最近在暗恋和爸爸相似的男生",
+        "id": "1280505058380128257",
+        "location": "广东，不接非绿半绿也不接",
+        "name": "hiwa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809283933974278144/s0lhLjv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 28,
+          "like_count": 1058,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 538
+        },
+        "url": "",
+        "username": "hhhiwa0406",
+        "verified": false
+      }
+    ]
+  }
+}

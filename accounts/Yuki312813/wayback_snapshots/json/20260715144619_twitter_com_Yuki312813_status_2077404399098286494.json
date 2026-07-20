@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077397872040128512"
+      ],
+      "media_source_tweet_id": [
+        "2077397907339358656"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077404399098286494",
+    "created_at": "2026-07-15T14:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077404399098286494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1640751385502425088",
+          "start": 3,
+          "username": "aiaiaiai_9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wlNIk69qie",
+          "end": 44,
+          "expanded_url": "https://x.com/aiaiaiai_9/status/2077397907339358656/photo/1",
+          "media_key": "3_2077397872040128512",
+          "start": 21,
+          "url": "https://t.co/wlNIk69qie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077404399098286494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077397907339358656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiaiaiai_9: 泉👽👽👽 https://t.co/wlNIk69qie"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077397872040128512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRmW6wasAAhw4j.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077397872040128512"
+          ],
+          "media_source_tweet_id": [
+            "2077397907339358656"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077404399098286494",
+        "created_at": "2026-07-15T14:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077404399098286494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1640751385502425088",
+              "start": 3,
+              "username": "aiaiaiai_9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wlNIk69qie",
+              "end": 44,
+              "expanded_url": "https://x.com/aiaiaiai_9/status/2077397907339358656/photo/1",
+              "media_key": "3_2077397872040128512",
+              "start": 21,
+              "url": "https://t.co/wlNIk69qie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077404399098286494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077397907339358656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiaiaiai_9: 泉👽👽👽 https://t.co/wlNIk69qie"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077397872040128512"
+          ]
+        },
+        "author_id": "1640751385502425088",
+        "conversation_id": "2077397907339358656",
+        "created_at": "2026-07-15T14:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077397907339358656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wlNIk69qie",
+              "end": 28,
+              "expanded_url": "https://x.com/aiaiaiai_9/status/2077397907339358656/photo/1",
+              "media_key": "3_2077397872040128512",
+              "start": 5,
+              "url": "https://t.co/wlNIk69qie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077397907339358656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "泉👽👽👽 https://t.co/wlNIk69qie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 107,
+          "like_count": 2913,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 2667
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-28T16:23:24.000Z",
+        "description": "🪦魂兮归来～同类互fo大欢迎！\n06女/双相/坐标北京/od自伤💕尼古丁💕典型NPD缺爱女🥺🩷本质寄生虫 后老公招募中💕\n没回复就是被吞评论了",
+        "id": "1640751385502425088",
+        "name": "Naomin💵✨",
+        "pinned_tweet_id": "2075621297179287725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077030321720279040/Yp2xnY-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 117,
+          "like_count": 3943,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 699
+        },
+        "url": "",
+        "username": "aiaiaiai_9",
+        "verified": false
+      }
+    ]
+  }
+}

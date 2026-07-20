@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077749868353687553",
+        "3_2077749880500502528",
+        "3_2077749891997077504",
+        "3_2077749902600208384"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077749912402370856",
+    "created_at": "2026-07-16T13:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077749912402370856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8opu15p1rf",
+          "end": 75,
+          "expanded_url": "https://x.com/Yuki312813/status/2077749912402370856/photo/1",
+          "media_key": "3_2077749868353687553",
+          "start": 52,
+          "url": "https://t.co/8opu15p1rf"
+        },
+        {
+          "display_url": "pic.x.com/8opu15p1rf",
+          "end": 75,
+          "expanded_url": "https://x.com/Yuki312813/status/2077749912402370856/photo/1",
+          "media_key": "3_2077749880500502528",
+          "start": 52,
+          "url": "https://t.co/8opu15p1rf"
+        },
+        {
+          "display_url": "pic.x.com/8opu15p1rf",
+          "end": 75,
+          "expanded_url": "https://x.com/Yuki312813/status/2077749912402370856/photo/1",
+          "media_key": "3_2077749891997077504",
+          "start": 52,
+          "url": "https://t.co/8opu15p1rf"
+        },
+        {
+          "display_url": "pic.x.com/8opu15p1rf",
+          "end": 75,
+          "expanded_url": "https://x.com/Yuki312813/status/2077749912402370856/photo/1",
+          "media_key": "3_2077749902600208384",
+          "start": 52,
+          "url": "https://t.co/8opu15p1rf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077749912402370856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "十年内没人看得懂昨晚o大了最后跟亲友说了什么。\n我只记得醒的时候在楼底下睡的，屋里的空调和灯开了一晚上 https://t.co/8opu15p1rf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2077749868353687553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWmfzNWEAEUZPz.jpg",
+        "width": 908
+      },
+      {
+        "height": 1383,
+        "media_key": "3_2077749880500502528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWmggdXwAAcUlo.jpg",
+        "width": 921
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2077749891997077504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWmhLSXkAAilqU.jpg",
+        "width": 912
+      },
+      {
+        "height": 1687,
+        "media_key": "3_2077749902600208384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWmhyyWgAA-yfq.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077749868353687553",
+            "3_2077749880500502528",
+            "3_2077749891997077504",
+            "3_2077749902600208384"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077749912402370856",
+        "created_at": "2026-07-16T13:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077749912402370856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8opu15p1rf",
+              "end": 75,
+              "expanded_url": "https://x.com/Yuki312813/status/2077749912402370856/photo/1",
+              "media_key": "3_2077749868353687553",
+              "start": 52,
+              "url": "https://t.co/8opu15p1rf"
+            },
+            {
+              "display_url": "pic.x.com/8opu15p1rf",
+              "end": 75,
+              "expanded_url": "https://x.com/Yuki312813/status/2077749912402370856/photo/1",
+              "media_key": "3_2077749880500502528",
+              "start": 52,
+              "url": "https://t.co/8opu15p1rf"
+            },
+            {
+              "display_url": "pic.x.com/8opu15p1rf",
+              "end": 75,
+              "expanded_url": "https://x.com/Yuki312813/status/2077749912402370856/photo/1",
+              "media_key": "3_2077749891997077504",
+              "start": 52,
+              "url": "https://t.co/8opu15p1rf"
+            },
+            {
+              "display_url": "pic.x.com/8opu15p1rf",
+              "end": 75,
+              "expanded_url": "https://x.com/Yuki312813/status/2077749912402370856/photo/1",
+              "media_key": "3_2077749902600208384",
+              "start": 52,
+              "url": "https://t.co/8opu15p1rf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077749912402370856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十年内没人看得懂昨晚o大了最后跟亲友说了什么。\n我只记得醒的时候在楼底下睡的，屋里的空调和灯开了一晚上 https://t.co/8opu15p1rf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 125,
+          "like_count": 3104,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 2727
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077266897838526800",
+    "created_at": "2026-07-15T13:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077390558805279153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2071514720037752832",
+          "start": 0,
+          "username": "nigg3rinurphone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077390558805279153",
+    "in_reply_to_user_id": "2071514720037752832",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077266897838526800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nigg3rinurphone Cool"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1221,
+        "media_key": "3_2077266891190448128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPvO1EWMAAAgIX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077266897838526800",
+        "created_at": "2026-07-15T13:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077390558805279153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2071514720037752832",
+              "start": 0,
+              "username": "nigg3rinurphone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077390558805279153",
+        "in_reply_to_user_id": "2071514720037752832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077266897838526800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nigg3rinurphone Cool"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077266891190448128"
+          ]
+        },
+        "author_id": "2071514720037752832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2077266897838526800",
+        "created_at": "2026-07-15T05:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077266897838526800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOYTUSp3qv",
+              "end": 106,
+              "expanded_url": "https://x.com/nigg3rinurphone/status/2077266897838526800/photo/1",
+              "media_key": "3_2077266891190448128",
+              "start": 83,
+              "url": "https://t.co/jOYTUSp3qv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077266897838526800",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 11639,
+          "like_count": 2991,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 389
+        },
+        "reply_settings": "everyone",
+        "text": "ALL FAKE!! SFX MAKEUP! HALLOWEEN MAKEUP 🎃💄!!\n\nola si siempre es el mismo brazo xdd https://t.co/jOYTUSp3qv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 106,
+          "like_count": 2898,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 2662
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-29T08:45:19.000Z",
+        "description": "JUGANDO CHATIANDO TUITEANDO PERO JAMAS LABURANDO!!! #wehatemiguels u.u",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 52,
+                "tag": "wehatemiguels"
+              }
+            ]
+          }
+        },
+        "id": "2071514720037752832",
+        "location": "viendo anime | 15",
+        "name": "hanji",
+        "pinned_tweet_id": "2076824238854443334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076819206469734400/OUNb07EE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 190,
+          "like_count": 2206,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1140
+        },
+        "url": "",
+        "username": "nigg3rinurphone",
+        "verified": false
+      }
+    ]
+  }
+}

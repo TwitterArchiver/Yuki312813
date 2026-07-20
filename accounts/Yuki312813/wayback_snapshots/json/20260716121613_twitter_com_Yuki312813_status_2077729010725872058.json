@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077715785867567443",
+    "created_at": "2026-07-16T12:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077729010725872058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2075131696488525824",
+          "start": 0,
+          "username": "a321908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077729010725872058",
+    "in_reply_to_user_id": "2075131696488525824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077715785867567443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a321908 吃啥了😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077715785867567443",
+        "created_at": "2026-07-16T12:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077729010725872058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2075131696488525824",
+              "start": 0,
+              "username": "a321908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077729010725872058",
+        "in_reply_to_user_id": "2075131696488525824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077715785867567443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a321908 吃啥了😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075131696488525824",
+        "conversation_id": "2077715785867567443",
+        "created_at": "2026-07-16T11:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077715785867567443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077715785867567443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我已经快要精神分裂了，真的，瞳孔已经不受控制了，聚焦不上了，我好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 122,
+          "like_count": 3085,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2719
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-09T08:17:41.000Z",
+        "description": "含丹吞药解旧愁，\n芙肌进展女儿柔。\n纵使他人千般语，\n心向清娥死不休。\nMTF 🏳️‍⚧ | HRT 🧬2026 4.25无证含糖 出厂日期2009 1.18 |家长反对党||od|紫残|精神状态堪忧|重焦焦虑ing|正在想着续糖😳欢迎互fo呀 同类有看见必回fo\n永远会怀念和记住与他点点滴滴人:于杰",
+        "id": "2075131696488525824",
+        "location": "jilin",
+        "name": "321908🍥🏳️‍️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075135379255214081/Xav5vJPR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 207,
+          "like_count": 313,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "a321908",
+        "verified": false
+      }
+    ]
+  }
+}
