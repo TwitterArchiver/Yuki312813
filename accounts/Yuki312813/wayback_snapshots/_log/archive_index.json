@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-20T08:52:02",
+  "last_updated": "2026-07-20T08:52:21",
   "html": {
     "https://web.archive.org/web/20260715101445if_/https://twitter.com/Yuki312813/status/2077336056190419166": {
       "status": "done",
@@ -1024,9 +1024,9 @@
       "referenced_by": [
         "20260717042338_twitter_com_Yuki312813_status_2077972470179455046.json"
       ],
-      "last_updated": "2026-07-20T08:50:42",
+      "last_updated": "2026-07-20T08:52:21",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260717042338/https://pbs.twimg.com/media/HNWq6L7aEAAujsI.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HNZ1p2waMAAl132.jpg": {
       "status": "done",
