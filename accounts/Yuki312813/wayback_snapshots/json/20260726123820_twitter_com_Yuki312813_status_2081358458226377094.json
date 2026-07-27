@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081358458226377094",
+    "created_at": "2026-07-26T12:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081358458226377094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1671184573198131200",
+          "start": 3,
+          "username": "Rainmoon0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081358458226377094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081274708008525973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainmoon0721: 我的推特好难看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081358458226377094",
+        "created_at": "2026-07-26T12:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081358458226377094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1671184573198131200",
+              "start": 3,
+              "username": "Rainmoon0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081358458226377094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081274708008525973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainmoon0721: 我的推特好难看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671184573198131200",
+        "conversation_id": "2081274708008525973",
+        "created_at": "2026-07-26T07:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081274708008525973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081274708008525973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特好难看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 289,
+          "like_count": 4848,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3628
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-20T15:53:57.000Z",
+        "description": "生理男/心理男/泛性恋/age:17/ip:🌐\n你喜欢我＝我喜欢你🥰\n有心理疾病/脑子不太正常/休学中\n暂时不od自残\n不及时回复抱歉\n唯一爱好:玩fps游戏(cs2/瓦/洲但是是一个本质菜逼\n政治立场为降临派😇人类自愿灭绝计划支持者\nx目前用得不太熟练 正在慢慢学习中📖\n懒得充蓝v了 一分钱不想给msk爆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ra1nm00n",
+                "end": 23,
+                "expanded_url": "https://t.me/Ra1nm00n",
+                "start": 0,
+                "url": "https://t.co/APcoUKwYqX"
+              }
+            ]
+          }
+        },
+        "id": "1671184573198131200",
+        "location": "江西南昌",
+        "name": "雨月Ugetsu🌧️🌙",
+        "pinned_tweet_id": "2080969827737534716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081280403210723328/OECbufRX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 164,
+          "like_count": 721,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 212
+        },
+        "url": "https://t.co/APcoUKwYqX",
+        "username": "Rainmoon0721",
+        "verified": false
+      }
+    ]
+  }
+}
