@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079541884226007146",
+    "created_at": "2026-07-23T00:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T01:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080086298396852594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863619831657832448",
+          "start": 0,
+          "username": "daiquiriicechip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080086298396852594",
+    "in_reply_to_user_id": "1863619831657832448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079985931432652856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daiquiriicechip 咋这样。太坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079541884226007146",
+        "created_at": "2026-07-23T00:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080086298396852594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863619831657832448",
+              "start": 0,
+              "username": "daiquiriicechip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080086298396852594",
+        "in_reply_to_user_id": "1863619831657832448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079985931432652856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daiquiriicechip 咋这样。太坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863619831657832448",
+        "conversation_id": "2079541884226007146",
+        "created_at": "2026-07-22T17:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079985931432652856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079985931432652856",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079541884226007146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 我也想吃我都没机会买…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 267,
+          "like_count": 4542,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 3504
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T16:23:06.000Z",
+        "description": "she/they 无浪漫倾向泛性恋/双相/努力活成健全人/影迷/raver",
+        "id": "1863619831657832448",
+        "name": "三羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057067608403505152/azWe_boD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 323,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "daiquiriicechip",
+        "verified": false
+      }
+    ]
+  }
+}

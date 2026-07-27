@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079544124273745955",
+    "created_at": "2026-07-21T12:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079544124273745955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1640751385502425088",
+          "start": 3,
+          "username": "aiaiaiai_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079544124273745955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079517641149235341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiaiaiai_9: 致敬最不崇洋媚外，最不媚富，最不跟风的粉红抖人🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079544124273745955",
+        "created_at": "2026-07-21T12:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079544124273745955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1640751385502425088",
+              "start": 3,
+              "username": "aiaiaiai_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079544124273745955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079517641149235341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiaiaiai_9: 致敬最不崇洋媚外，最不媚富，最不跟风的粉红抖人🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640751385502425088",
+        "conversation_id": "2079517641149235341",
+        "created_at": "2026-07-21T10:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079517641149235341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079517641149235341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "致敬最不崇洋媚外，最不媚富，最不跟风的粉红抖人🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 241,
+          "like_count": 4239,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 3298
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-28T16:23:24.000Z",
+        "description": "爱无能乐子人\n世人害我，妒我，怨我，我却握紧手中的愈美一笑而过❤️https://t.co/zTLe1aRKzm⬅️提问箱\n没回复就是被吞评论了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naomin86665",
+                "end": 56,
+                "expanded_url": "https://ngl.link/naomin86665",
+                "start": 33,
+                "url": "https://t.co/zTLe1aRKzm"
+              }
+            ]
+          }
+        },
+        "id": "1640751385502425088",
+        "name": "Naomin💵✨",
+        "pinned_tweet_id": "2075621297179287725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077030321720279040/Yp2xnY-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 133,
+          "like_count": 4288,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 962
+        },
+        "url": "",
+        "username": "aiaiaiai_9",
+        "verified": false
+      }
+    ]
+  }
+}

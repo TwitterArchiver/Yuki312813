@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078683492972658954",
+    "created_at": "2026-07-19T09:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078772761011363855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058029942198374400",
+          "start": 0,
+          "username": "yudia666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078772761011363855",
+    "in_reply_to_user_id": "2058029942198374400",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078683492972658954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yudia666 👅👅👅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 645,
+        "media_key": "3_2078683490003091456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNj3nu4agAA6QQf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078683492972658954",
+        "created_at": "2026-07-19T09:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078772761011363855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058029942198374400",
+              "start": 0,
+              "username": "yudia666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078772761011363855",
+        "in_reply_to_user_id": "2058029942198374400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078683492972658954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yudia666 👅👅👅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078683490003091456"
+          ]
+        },
+        "author_id": "2058029942198374400",
+        "conversation_id": "2078683492972658954",
+        "created_at": "2026-07-19T03:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078683492972658954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFkKhq0Whd",
+              "end": 32,
+              "expanded_url": "https://x.com/yudia666/status/2078683492972658954/photo/1",
+              "media_key": "3_2078683490003091456",
+              "start": 9,
+              "url": "https://t.co/cFkKhq0Whd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078683492972658954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不加料的我不吃👅 https://t.co/cFkKhq0Whd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 185,
+          "like_count": 3666,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 2988
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者 155",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuda21436",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuda21436",
+                "start": 0,
+                "url": "https://t.co/BUKnKIH0FA"
+              }
+            ]
+          }
+        },
+        "id": "2058029942198374400",
+        "location": "محافظة شرق الدولة الإسلامية",
+        "name": "𝖞𝖚𝖉𝖆",
+        "pinned_tweet_id": "2071924273778921875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 167,
+          "like_count": 17368,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1617
+        },
+        "url": "https://t.co/BUKnKIH0FA",
+        "username": "yudia666",
+        "verified": false
+      }
+    ]
+  }
+}

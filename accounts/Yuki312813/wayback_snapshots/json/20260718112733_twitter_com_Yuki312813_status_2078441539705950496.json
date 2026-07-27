@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078391671017054593",
+    "created_at": "2026-07-18T11:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078441539705950496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2063169843671793664",
+          "start": 0,
+          "username": "Mercyvxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078441539705950496",
+    "in_reply_to_user_id": "2063169843671793664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078391671017054593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercyvxv 蹲蹲，不过这个有点多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078391671017054593",
+        "created_at": "2026-07-18T11:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078441539705950496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078441539705950496",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078391671017054593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 蹲蹲，不过这个有点多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2078391671017054593",
+        "created_at": "2026-07-18T08:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078391671017054593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078391671017054593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 919,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚吃唑吡坦！！！6t测试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 162,
+          "like_count": 3430,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 2876
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 357,
+          "like_count": 2083,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 738
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

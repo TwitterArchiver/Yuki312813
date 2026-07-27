@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079441537117942190",
+    "created_at": "2026-07-21T06:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079460786896835051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967736228725575681",
+          "start": 0,
+          "username": "shier6639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079460786896835051",
+    "in_reply_to_user_id": "1967736228725575681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079441537117942190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shier6639 相见恨晚了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079441537117942190",
+        "created_at": "2026-07-21T06:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079460786896835051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967736228725575681",
+              "start": 0,
+              "username": "shier6639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079460786896835051",
+        "in_reply_to_user_id": "1967736228725575681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079441537117942190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shier6639 相见恨晚了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967736228725575681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2079441537117942190",
+        "created_at": "2026-07-21T05:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079441537117942190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079441537117942190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 488,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天那个男生真的太能聊到一块去了呀 爸妈是高知家庭 他爸虽然是人大代表 但他不是基本盘 他说将来想去日本留学 学服装设计 问我去不去 我真的很无奈呀 我说我妈妈不让 他说以我俩现在的成绩好歹也能上个211 他说让我将来好好考本科 以后经济独立了就有能力自己掌控人生了 工作后再去日本读研也可以的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 237,
+          "like_count": 4173,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3257
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-15T23:44:17.000Z",
+        "description": "",
+        "id": "1967736228725575681",
+        "name": "十二点",
+        "pinned_tweet_id": "2077404107611205678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076650614541737984/StRKTJau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 146,
+          "like_count": 1741,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "shier6639",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080138335956152691",
+    "created_at": "2026-07-23T04:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080147807436976340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2078831035694116864",
+          "start": 0,
+          "username": "QiJiGus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080147807436976340",
+    "in_reply_to_user_id": "2078831035694116864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080139168974586028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiJiGus 我的日常："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080138335956152691",
+        "created_at": "2026-07-23T04:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080147807436976340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2078831035694116864",
+              "start": 0,
+              "username": "QiJiGus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080147807436976340",
+        "in_reply_to_user_id": "2078831035694116864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080139168974586028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiJiGus 我的日常："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078831035694116864",
+        "conversation_id": "2080138335956152691",
+        "created_at": "2026-07-23T03:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080139168974586028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080139168974586028",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080138335956152691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 是的长官，这轻而易举😛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 269,
+          "like_count": 4625,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3534
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-19T13:18:36.000Z",
+        "description": "🇨🇳/互fo/音乐（特别是摇滚）,游戏,动画重度爱好者/准大一（专科）想要升学/正在学习电吉他🎸中/有机会想去国外看看或生活\n\n曾经得过抑郁症，用了三年走出来，所以想用X多交点朋友\n加我的话用Telegram",
+        "id": "2078831035694116864",
+        "name": "奇迹顾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078906059419459584/V1B3TZXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 188,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "QiJiGus",
+        "verified": false
+      }
+    ]
+  }
+}

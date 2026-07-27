@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078801342227689472"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078801353489740164",
+    "created_at": "2026-07-19T11:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078801353489740164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uOoLFEVuUb",
+          "end": 172,
+          "expanded_url": "https://x.com/Yuki312813/status/2078801353489740164/photo/1",
+          "media_key": "3_2078801342227689472",
+          "start": 149,
+          "url": "https://t.co/uOoLFEVuUb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078801353489740164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "「愚者说平等」\n\n「但世人皆知世上没什么平等」\n\n「愚者说自由！」\n\n「但世人皆知世上没什么自由」\n\n「愚者说爱情！」\n\n「但世人皆知爱情随时会背叛」\n\n「愚者说切莫杀人！」\n\n「但世人皆知世界充满着杀戮\n\n「愚者说切莫说谎！」\n\n「但世人皆知愚者就在说谎」\n\n「不假思索便被愚者骗了的人是蠢货」 https://t.co/uOoLFEVuUb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_2078801342227689472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlizooWMAANOWm.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078801342227689472"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078801353489740164",
+        "created_at": "2026-07-19T11:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078801353489740164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOoLFEVuUb",
+              "end": 172,
+              "expanded_url": "https://x.com/Yuki312813/status/2078801353489740164/photo/1",
+              "media_key": "3_2078801342227689472",
+              "start": 149,
+              "url": "https://t.co/uOoLFEVuUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078801353489740164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「愚者说平等」\n\n「但世人皆知世上没什么平等」\n\n「愚者说自由！」\n\n「但世人皆知世上没什么自由」\n\n「愚者说爱情！」\n\n「但世人皆知爱情随时会背叛」\n\n「愚者说切莫杀人！」\n\n「但世人皆知世界充满着杀戮\n\n「愚者说切莫说谎！」\n\n「但世人皆知愚者就在说谎」\n\n「不假思索便被愚者骗了的人是蠢货」 https://t.co/uOoLFEVuUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 186,
+          "like_count": 3703,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 3018
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

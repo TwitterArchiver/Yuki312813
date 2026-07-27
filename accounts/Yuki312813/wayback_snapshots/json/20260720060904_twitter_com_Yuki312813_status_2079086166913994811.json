@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079051105741250706",
+    "created_at": "2026-07-20T06:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079086166913994811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025216486760157184",
+          "start": 0,
+          "username": "Cosmo2267651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079086166913994811",
+    "in_reply_to_user_id": "2025216486760157184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079084660492263779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cosmo2267651 rc不会，而且我有间隔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079051105741250706",
+        "created_at": "2026-07-20T06:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079086166913994811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025216486760157184",
+              "start": 0,
+              "username": "Cosmo2267651"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079086166913994811",
+        "in_reply_to_user_id": "2025216486760157184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079084660492263779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cosmo2267651 rc不会，而且我有间隔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025216486760157184",
+        "conversation_id": "2079051105741250706",
+        "created_at": "2026-07-20T06:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079084660492263779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079084660492263779",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079051105741250706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 这两个连用不会血清素综合症吗👀👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 218,
+          "like_count": 3922,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3118
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-21T14:30:21.000Z",
+        "description": "额💊🔪同类互fo。男的，很友好的，欢迎扩列，https://t.co/ngyfA7Q25G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhhhhh79341",
+                "end": 45,
+                "expanded_url": "https://ngl.link/hhhhhh79341",
+                "start": 22,
+                "url": "https://t.co/ngyfA7Q25G"
+              }
+            ]
+          }
+        },
+        "id": "2025216486760157184",
+        "location": "成都",
+        "name": "renhaoqiguai",
+        "pinned_tweet_id": "2077278367787978891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076599066172239872/T_QdGKWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 516,
+          "like_count": 2504,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "Cosmo2267651",
+        "verified": false
+      }
+    ]
+  }
+}

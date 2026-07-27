@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078781973817090183",
+    "created_at": "2026-07-19T10:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078781973817090183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198847698337792",
+          "start": 3,
+          "username": "mzmorz8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078781973817090183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078767367803609304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mzmorz8964: 如果在大多数时间充当倾听者，主体性就会被逐渐忽视，此时作为倾听者的你已经丧失了倾诉的权利，他人会默认你的状态稳定，只有需要时你才会被提起\n  就比如说我今天已经表现出了强烈的死亡驱力，但事实就是已经没有人会通过我的言语判断我的状态，我没有这种需求…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078781973817090183",
+        "created_at": "2026-07-19T10:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078781973817090183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198847698337792",
+              "start": 3,
+              "username": "mzmorz8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078781973817090183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078767367803609304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mzmorz8964: 如果在大多数时间充当倾听者，主体性就会被逐渐忽视，此时作为倾听者的你已经丧失了倾诉的权利，他人会默认你的状态稳定，只有需要时你才会被提起\n  就比如说我今天已经表现出了强烈的死亡驱力，但事实就是已经没有人会通过我的言语判断我的状态，我没有这种需求…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198847698337792",
+        "conversation_id": "2078767367803609304",
+        "created_at": "2026-07-19T09:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078767367803609304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078767367803609304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果在大多数时间充当倾听者，主体性就会被逐渐忽视，此时作为倾听者的你已经丧失了倾诉的权利，他人会默认你的状态稳定，只有需要时你才会被提起\n  就比如说我今天已经表现出了强烈的死亡驱力，但事实就是已经没有人会通过我的言语判断我的状态，我没有这种需求已经被固化为标签了\n  已经无所谓了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 185,
+          "like_count": 3679,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 3000
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T22:27:35.000Z",
+        "description": "亿万人必须回归天空\n用于夺舍的信徒@fmf5y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "fmf5y"
+              }
+            ]
+          }
+        },
+        "id": "2065198847698337792",
+        "location": "終ノ空",
+        "name": "翻过护栏即可通往天堂",
+        "pinned_tweet_id": "2074371652646015157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072879285581545472/OSEMd5Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 81,
+          "like_count": 1015,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 387
+        },
+        "url": "",
+        "username": "mzmorz8964",
+        "verified": false
+      }
+    ]
+  }
+}

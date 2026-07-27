@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079731497980842122",
+    "created_at": "2026-07-22T00:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079731497980842122"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079731497980842122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我闭口不认罪的时候，因终日唉哼而骨头枯干，黑夜白日，你的手在我身上沉重，我的精力耗尽，如同夏天的干旱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079731497980842122",
+        "created_at": "2026-07-22T00:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079731497980842122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079731497980842122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我闭口不认罪的时候，因终日唉哼而骨头枯干，黑夜白日，你的手在我身上沉重，我的精力耗尽，如同夏天的干旱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079722649282891777/Z1WbYktU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 254,
+          "like_count": 4417,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 3419
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": false
+      }
+    ]
+  }
+}

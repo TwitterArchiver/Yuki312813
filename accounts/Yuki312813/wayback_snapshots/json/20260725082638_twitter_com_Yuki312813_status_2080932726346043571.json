@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080932726346043571",
+    "created_at": "2026-07-25T08:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080932726346043571"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080932726346043571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "令人震惊难绷的的是一个oder跟警哥说过量用药和产生出被摄入阿片依替和幻觉（当时是认为事实）的事他表现的毫无震惊，说一次没事九点去报道就行了，然后清醒了就又打个电话取消报案了，然后自我感动了一波想着下辈子见了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080932726346043571",
+        "created_at": "2026-07-25T08:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080932726346043571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080932726346043571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "令人震惊难绷的的是一个oder跟警哥说过量用药和产生出被摄入阿片依替和幻觉（当时是认为事实）的事他表现的毫无震惊，说一次没事九点去报道就行了，然后清醒了就又打个电话取消报案了，然后自我感动了一波想着下辈子见了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 282,
+          "like_count": 4759,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3611
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

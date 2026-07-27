@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079746218071056617",
+    "created_at": "2026-07-22T01:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T02:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079746218071056617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928692640356134912",
+          "start": 3,
+          "username": "9way021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079746218071056617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079441045256028236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9way021: 那些恨对方的理由，也正是深爱对方的原因。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079746218071056617",
+        "created_at": "2026-07-22T01:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079746218071056617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928692640356134912",
+              "start": 3,
+              "username": "9way021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079746218071056617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079441045256028236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9way021: 那些恨对方的理由，也正是深爱对方的原因。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928692640356134912",
+        "conversation_id": "2079441045256028236",
+        "created_at": "2026-07-21T05:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079441045256028236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079441045256028236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那些恨对方的理由，也正是深爱对方的原因。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079722649282891777/Z1WbYktU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 254,
+          "like_count": 4429,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 3425
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T05:59:07.000Z",
+        "description": "vv二代TT | 2011 | 双子 | ISFP | ADHD | 查成分互fo | 上推只为发颠",
+        "id": "1928692640356134912",
+        "location": "🚪52 纯绿不线下",
+        "name": "Dennis Nilsen",
+        "pinned_tweet_id": "2079521179770167781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076929194685251585/UIXxFdlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 64,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "9way021",
+        "verified": false
+      }
+    ]
+  }
+}

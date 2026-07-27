@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2076617713745809664",
+    "created_at": "2026-07-18T03:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T04:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078317708634935463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060709640652914690",
+          "start": 0,
+          "username": "czhbgygtlwpjib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078317708634935463",
+    "in_reply_to_user_id": "2060709640652914690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076617713745809664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@czhbgygtlwpjib _脂肪层，注意消毒哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3642,
+        "media_key": "3_2076617653284917248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGgwNZaUAA95NW.jpg",
+        "width": 3055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2076617713745809664",
+        "created_at": "2026-07-18T03:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078317708634935463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060709640652914690",
+              "start": 0,
+              "username": "czhbgygtlwpjib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078317708634935463",
+        "in_reply_to_user_id": "2060709640652914690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076617713745809664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@czhbgygtlwpjib _脂肪层，注意消毒哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076617653284917248"
+          ]
+        },
+        "author_id": "2060709640652914690",
+        "conversation_id": "2076617713745809664",
+        "created_at": "2026-07-13T10:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076617713745809664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UvncSw2iFR",
+              "end": 34,
+              "expanded_url": "https://x.com/czhbgygtlwpjib/status/2076617713745809664/photo/1",
+              "media_key": "3_2076617653284917248",
+              "start": 11,
+              "url": "https://t.co/UvncSw2iFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076617713745809664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这神他妈到底割到哪了 https://t.co/UvncSw2iFR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 153,
+          "like_count": 3372,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 2853
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T13:07:49.000Z",
+        "description": "我们只是网友 Ok？你把手机砸了，我就死了",
+        "id": "2060709640652914690",
+        "name": "aska二世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076313287382405120/Ah6kjXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 28,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "czhbgygtlwpjib",
+        "verified": false
+      }
+    ]
+  }
+}

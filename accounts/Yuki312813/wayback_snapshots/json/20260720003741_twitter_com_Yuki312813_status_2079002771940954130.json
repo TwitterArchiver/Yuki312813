@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078352122916069376"
+      ],
+      "media_source_tweet_id": [
+        "2078352147016548443"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079002771940954130",
+    "created_at": "2026-07-20T00:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T01:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079002771940954130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464746458872172553",
+          "start": 3,
+          "username": "27ihc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/grF1guWish",
+          "end": 34,
+          "expanded_url": "https://x.com/27ihv/status/2078352147016548443/video/1",
+          "media_key": "13_2078352122916069376",
+          "start": 11,
+          "url": "https://t.co/grF1guWish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079002771940954130",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 593
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078352147016548443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @27ihc: https://t.co/grF1guWish"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13677,
+        "height": 576,
+        "media_key": "13_2078352122916069376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078352122916069376/img/qLoO4xd_yLtk88rw.jpg",
+        "public_metrics": {
+          "view_count": 29795
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078352122916069376/vid/avc1/360x270/vVuyk98jREb9dduf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078352122916069376/vid/avc1/480x360/gNIP5SWYSf6uTlO_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078352122916069376/vid/avc1/768x576/Q134YuvIVBOkBnsu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078352122916069376/pl/2BceTfrxxSgT-fE1.m3u8?v=cfc"
+          }
+        ],
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078352122916069376"
+          ]
+        },
+        "author_id": "1464746458872172553",
+        "conversation_id": "2078352147016548443",
+        "created_at": "2026-07-18T05:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078352147016548443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/grF1guWish",
+              "end": 23,
+              "expanded_url": "https://x.com/27ihv/status/2078352147016548443/video/1",
+              "media_key": "13_2078352122916069376",
+              "start": 0,
+              "url": "https://t.co/grF1guWish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078352147016548443",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 782,
+          "impression_count": 72671,
+          "like_count": 3390,
+          "quote_count": 14,
+          "reply_count": 8,
+          "retweet_count": 593
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/grF1guWish"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078352122916069376"
+          ],
+          "media_source_tweet_id": [
+            "2078352147016548443"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079002771940954130",
+        "created_at": "2026-07-20T00:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079002771940954130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464746458872172553",
+              "start": 3,
+              "username": "27ihc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/grF1guWish",
+              "end": 34,
+              "expanded_url": "https://x.com/27ihv/status/2078352147016548443/video/1",
+              "media_key": "13_2078352122916069376",
+              "start": 11,
+              "url": "https://t.co/grF1guWish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079002771940954130",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 593
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078352147016548443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @27ihc: https://t.co/grF1guWish"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 207,
+          "like_count": 3834,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3076
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-28T00:03:09.000Z",
+        "description": "ִ ࣪ ˖ ࣪ ハンナ。! ᰔ ִ ִׄ ࣪ ˖ 🎐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "guns.lol/27ihv",
+                "end": 23,
+                "expanded_url": "https://guns.lol/27ihv",
+                "start": 0,
+                "url": "https://t.co/aPAYW49YCB"
+              }
+            ]
+          }
+        },
+        "id": "1464746458872172553",
+        "name": "🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078902078013919232/de--zdpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 172,
+          "like_count": 531,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/aPAYW49YCB",
+        "username": "27ihc",
+        "verified": true
+      }
+    ]
+  }
+}

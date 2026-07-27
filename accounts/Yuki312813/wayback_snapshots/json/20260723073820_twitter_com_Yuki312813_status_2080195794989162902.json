@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079607165279523204",
+    "created_at": "2026-07-23T07:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080195794989162902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2070535590194655233",
+          "start": 0,
+          "username": "11pmhg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080195794989162902",
+    "in_reply_to_user_id": "2070535590194655233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080171010163384617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11pmhg 老大，你叒被🐜🐉搞了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079607165279523204",
+        "created_at": "2026-07-23T07:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080195794989162902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2070535590194655233",
+              "start": 0,
+              "username": "11pmhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080195794989162902",
+        "in_reply_to_user_id": "2070535590194655233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080171010163384617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11pmhg 老大，你叒被🐜🐉搞了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070535590194655233",
+        "conversation_id": "2079607165279523204",
+        "created_at": "2026-07-23T05:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080171010163384617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080171010163384617",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079607165279523204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 273,
+          "like_count": 4663,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3544
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-26T15:52:54.000Z",
+        "description": "电瓶车又被封了，我有精神病，有血负面文，来互fo",
+        "id": "2070535590194655233",
+        "location": "电瓶车上",
+        "name": "电瓶车3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080114070276153344/k1a-L4t2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 61,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "11pmhg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079632047581134857",
+    "created_at": "2026-07-21T19:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T20:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079643039023378480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1671107111810482176",
+          "start": 0,
+          "username": "oo988p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079643039023378480",
+    "in_reply_to_user_id": "1671107111810482176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079642658889445665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oo988p 原料真的有用吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079632047581134857",
+        "created_at": "2026-07-21T19:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079643039023378480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1671107111810482176",
+              "start": 0,
+              "username": "oo988p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079643039023378480",
+        "in_reply_to_user_id": "1671107111810482176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079642658889445665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oo988p 原料真的有用吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671107111810482176",
+        "conversation_id": "2079632047581134857",
+        "created_at": "2026-07-21T19:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079642658889445665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079642658889445665",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079642209335283968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 嗯很难受我只能说哎我还想要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 250,
+          "like_count": 4344,
+          "listed_count": 0,
+          "media_count": 358,
+          "tweet_count": 3380
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-20T10:46:09.000Z",
+        "description": "",
+        "id": "1671107111810482176",
+        "name": "lljn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671107161236152320/GJ8JDPZf_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 127,
+          "like_count": 1198,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "oo988p",
+        "verified": false
+      }
+    ]
+  }
+}

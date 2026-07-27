@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079488326797602856",
+    "created_at": "2026-07-21T08:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T09:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079488326797602856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2063169843671793664",
+          "start": 3,
+          "username": "Mercyvxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079488326797602856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079437195392455146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercyvxv: 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079488326797602856",
+        "created_at": "2026-07-21T08:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079488326797602856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2063169843671793664",
+              "start": 3,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079488326797602856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079437195392455146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercyvxv: 我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2079437195392455146",
+        "created_at": "2026-07-21T05:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079437195392455146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/user0000o0/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/user0000o0/status/2079046683879444939",
+              "start": 2,
+              "url": "https://t.co/feF7wxkRnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079437195392455146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 300,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079046683879444939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/feF7wxkRnG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 238,
+          "like_count": 4220,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3287
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 411,
+          "like_count": 2769,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 951
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

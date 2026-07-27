@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077713120496112016",
+    "created_at": "2026-07-16T11:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077716743066116379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2063159075572158465",
+          "start": 0,
+          "username": "Bochichan250hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077716743066116379",
+    "in_reply_to_user_id": "2063159075572158465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077713120496112016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bochichan250hh 全世界吉他手用完找不到的拨片其实都是掉后室了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 859,
+        "media_key": "3_2077713064854462464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWFBjfWoAA0fD-.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077713120496112016",
+        "created_at": "2026-07-16T11:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077716743066116379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2063159075572158465",
+              "start": 0,
+              "username": "Bochichan250hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077716743066116379",
+        "in_reply_to_user_id": "2063159075572158465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077713120496112016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bochichan250hh 全世界吉他手用完找不到的拨片其实都是掉后室了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077713064854462464"
+          ]
+        },
+        "author_id": "2063159075572158465",
+        "conversation_id": "2077713120496112016",
+        "created_at": "2026-07-16T11:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077713120496112016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LSAIMlTKKY",
+              "end": 30,
+              "expanded_url": "https://x.com/Bochichan250hh/status/2077713120496112016/photo/1",
+              "media_key": "3_2077713064854462464",
+              "start": 7,
+              "url": "https://t.co/LSAIMlTKKY"
+            },
+            {
+              "display_url": "x.com/Bochichan250hh…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Bochichan250hh/status/2077707230124655003",
+              "start": 31,
+              "url": "https://t.co/vIvVwtSiJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077713120496112016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077707230124655003",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找到了（喜） https://t.co/LSAIMlTKKY https://t.co/vIvVwtSiJK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 121,
+          "like_count": 3063,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2713
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T07:21:34.000Z",
+        "description": "it is too late…. \n@Yokuso_desu的小账户可以关注大号谢谢咯~\n苦练electric guitar 🎸\n查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Yokuso_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan250",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan250",
+                "start": 0,
+                "url": "https://t.co/dkFNyeybig"
+              }
+            ]
+          }
+        },
+        "id": "2063159075572158465",
+        "name": "防尘迷呀awa🇰🇵🎸（互关）",
+        "pinned_tweet_id": "2077086358259081675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068608809841696768/DCfkJfRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 109,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/dkFNyeybig",
+        "username": "Bochichan250hh",
+        "verified": false
+      }
+    ]
+  }
+}

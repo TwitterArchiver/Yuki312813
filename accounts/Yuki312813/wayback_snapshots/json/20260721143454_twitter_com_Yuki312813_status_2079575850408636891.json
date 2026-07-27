@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079575841609011200"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079575850408636891",
+    "created_at": "2026-07-21T14:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079575850408636891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hBd0KGHZFF",
+          "end": 29,
+          "expanded_url": "https://x.com/Yuki312813/status/2079575850408636891/photo/1",
+          "media_key": "3_2079575841609011200",
+          "start": 6,
+          "url": "https://t.co/hBd0KGHZFF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079575850408636891",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好朋友很懂 https://t.co/hBd0KGHZFF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_2079575841609011200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwjNbqW0AAYE3y.jpg",
+        "width": 905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079575841609011200"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079575850408636891",
+        "created_at": "2026-07-21T14:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079575850408636891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBd0KGHZFF",
+              "end": 29,
+              "expanded_url": "https://x.com/Yuki312813/status/2079575850408636891/photo/1",
+              "media_key": "3_2079575841609011200",
+              "start": 6,
+              "url": "https://t.co/hBd0KGHZFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079575850408636891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好朋友很懂 https://t.co/hBd0KGHZFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 243,
+          "like_count": 4294,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 3329
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

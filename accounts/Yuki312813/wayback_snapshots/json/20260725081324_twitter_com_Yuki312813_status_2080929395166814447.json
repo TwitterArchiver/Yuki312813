@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080929308101525612",
+    "created_at": "2026-07-25T08:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080929395166814447"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080929395166814447",
+    "in_reply_to_user_id": "2008420775204896768",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080929308101525612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080929308101525612",
+        "created_at": "2026-07-25T08:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080929395166814447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080929395166814447",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080929308101525612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080929308101525612",
+        "created_at": "2026-07-25T08:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080929308101525612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bp01110526/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/bp01110526/status/2080926907588358202",
+              "start": 9,
+              "url": "https://t.co/YsofP0KfL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080929308101525612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080926907588358202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💀永远别碰晚安💀 https://t.co/YsofP0KfL3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 282,
+          "like_count": 4750,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3610
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

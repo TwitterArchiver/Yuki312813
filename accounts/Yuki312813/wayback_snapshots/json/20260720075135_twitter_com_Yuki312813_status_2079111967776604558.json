@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079111967776604558",
+    "created_at": "2026-07-20T07:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T08:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079111967776604558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2077000098836545536",
+          "start": 3,
+          "username": "wwwyizhiku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079111967776604558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079094366724133234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wwwyizhiku: 好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079111967776604558",
+        "created_at": "2026-07-20T07:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079111967776604558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2077000098836545536",
+              "start": 3,
+              "username": "wwwyizhiku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079111967776604558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079094366724133234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wwwyizhiku: 好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077000098836545536",
+        "conversation_id": "2079094366724133234",
+        "created_at": "2026-07-20T06:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079094366724133234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079094366724133234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹好想嗑药😭老子的耐受😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 220,
+          "like_count": 3946,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3126
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-14T12:04:19.000Z",
+        "description": "kk/哭哭 一只海豹，努力游出贝加尔湖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sealak",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sealak",
+                "start": 0,
+                "url": "https://t.co/mJiD4M1sS9"
+              }
+            ]
+          }
+        },
+        "id": "2077000098836545536",
+        "location": "贝加尔湖畔",
+        "name": "总而言之我哥哥非常非常好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077002116032303104/OOsRJMcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 55,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/mJiD4M1sS9",
+        "username": "wwwyizhiku",
+        "verified": false
+      }
+    ]
+  }
+}

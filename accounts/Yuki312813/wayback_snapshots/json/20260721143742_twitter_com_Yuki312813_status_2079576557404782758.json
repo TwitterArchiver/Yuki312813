@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079576557404782758",
+    "created_at": "2026-07-21T14:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079576557404782758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/angel_OvO27/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/angel_OvO27/status/2079574502246339033",
+          "start": 24,
+          "url": "https://t.co/YJix11leRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079576557404782758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079574502246339033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "青少年不自残，你白活了，你白长了个胳膊知道吗？ https://t.co/YJix11leRR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079576557404782758",
+        "created_at": "2026-07-21T14:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079576557404782758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angel_OvO27/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/angel_OvO27/status/2079574502246339033",
+              "start": 24,
+              "url": "https://t.co/YJix11leRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079576557404782758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079574502246339033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "青少年不自残，你白活了，你白长了个胳膊知道吗？ https://t.co/YJix11leRR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2079574502246339033",
+        "created_at": "2026-07-21T14:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079574502246339033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079574502246339033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "青少年不自残，你白活了，你白长了个胳膊知道吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 243,
+          "like_count": 4296,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 3331
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "小众活法不喜勿喷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068721135324385280/FkNg_ewA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 66,
+          "like_count": 2663,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 5488
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "angel_OvO27",
+        "verified": false
+      }
+    ]
+  }
+}

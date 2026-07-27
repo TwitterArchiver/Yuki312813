@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078787387300127212",
+    "created_at": "2026-07-19T10:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078787387300127212"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078787387300127212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你岐哥就是一个特别容易心软婊子人格😂虽然嘴硬但还是会偶尔给朋友支援点小钱，虽然我现在还没找到工作坐吃山空但就是那种圣母婊子人格你懂吧笑死我了😂警察叔叔我不嗑药了我要戒毒我自首了我再也不磕了再也不吸了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078787387300127212",
+        "created_at": "2026-07-19T10:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078787387300127212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078787387300127212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你岐哥就是一个特别容易心软婊子人格😂虽然嘴硬但还是会偶尔给朋友支援点小钱，虽然我现在还没找到工作坐吃山空但就是那种圣母婊子人格你懂吧笑死我了😂警察叔叔我不嗑药了我要戒毒我自首了我再也不磕了再也不吸了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 185,
+          "like_count": 3688,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 3008
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

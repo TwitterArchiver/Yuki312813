@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080696415505023224",
+    "created_at": "2026-07-25T01:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T02:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080835069380280757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062372266613338112",
+          "start": 0,
+          "username": "scarymq69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080835069380280757",
+    "in_reply_to_user_id": "2062372266613338112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080696415505023224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scarymq69 我也要看数学作业😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080696412212527104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAeXOdbgAAWyUp.jpg",
+        "width": 970
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080696411260387328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAeXK6bAAAXCk_.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080696415505023224",
+        "created_at": "2026-07-25T01:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080835069380280757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062372266613338112",
+              "start": 0,
+              "username": "scarymq69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080835069380280757",
+        "in_reply_to_user_id": "2062372266613338112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080696415505023224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scarymq69 我也要看数学作业😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080696412212527104",
+            "3_2080696411260387328"
+          ]
+        },
+        "author_id": "2062372266613338112",
+        "conversation_id": "2080696415505023224",
+        "created_at": "2026-07-24T16:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080696415505023224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7krAtjazNW",
+              "end": 64,
+              "expanded_url": "https://x.com/scarymq69/status/2080696415505023224/photo/1",
+              "media_key": "3_2080696412212527104",
+              "start": 41,
+              "url": "https://t.co/7krAtjazNW"
+            },
+            {
+              "display_url": "pic.x.com/7krAtjazNW",
+              "end": 64,
+              "expanded_url": "https://x.com/scarymq69/status/2080696415505023224/photo/1",
+              "media_key": "3_2080696411260387328",
+              "start": 41,
+              "url": "https://t.co/7krAtjazNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080696415505023224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 125,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想加入的可以加入了，还有kuuki的Photo😋😋\n人少好管，人多热闹\n还有作业 https://t.co/7krAtjazNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 280,
+          "like_count": 4747,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 3601
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-04T03:15:29.000Z",
+        "description": "discord:https://t.co/kRTt0dGT36\nngl:https://t.co/W9W5MzrfJz\nFb:https://t.co/4mJfWTZyVM\n和平ID：4755553056，加好友之前备注我在Twitter的姓名🤪",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/QBbCYht86Y",
+                "end": 31,
+                "expanded_url": "http://discord.gg/QBbCYht86Y",
+                "start": 8,
+                "url": "https://t.co/kRTt0dGT36"
+              },
+              {
+                "display_url": "ngl.link/pp19goo7h52573",
+                "end": 59,
+                "expanded_url": "http://ngl.link/pp19goo7h52573",
+                "start": 36,
+                "url": "https://t.co/W9W5MzrfJz"
+              },
+              {
+                "display_url": "facebook.com/share/1PfyiiDe…",
+                "end": 86,
+                "expanded_url": "http://facebook.com/share/1PfyiiDefn/",
+                "start": 63,
+                "url": "https://t.co/4mJfWTZyVM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=a97f90…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=a97f9025-e48f-4ad9-8389-f612693bdff6",
+                "start": 0,
+                "url": "https://t.co/ptenaS3SIa"
+              }
+            ]
+          }
+        },
+        "id": "2062372266613338112",
+        "location": "Hong Kong",
+        "name": "scary farmer",
+        "pinned_tweet_id": "2076671011718902212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078452074422177792/AvbpxN3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 204,
+          "like_count": 4050,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 2142
+        },
+        "url": "https://t.co/ptenaS3SIa",
+        "username": "scarymq69",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078474907105567061",
+    "created_at": "2026-07-18T14:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078482249599926369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850329593728917504",
+          "start": 0,
+          "username": "Tristesse_demer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078482249599926369",
+    "in_reply_to_user_id": "1850329593728917504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078481553080865227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tristesse_demer 小池其实这是我们这边的一个梗就是“你说话很机车诶”🥺开个玩笑，总之就是要好好保重身体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078474907105567061",
+        "created_at": "2026-07-18T14:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078482249599926369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850329593728917504",
+              "start": 0,
+              "username": "Tristesse_demer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078482249599926369",
+        "in_reply_to_user_id": "1850329593728917504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078481553080865227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tristesse_demer 小池其实这是我们这边的一个梗就是“你说话很机车诶”🥺开个玩笑，总之就是要好好保重身体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850329593728917504",
+        "conversation_id": "2078474907105567061",
+        "created_at": "2026-07-18T14:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078481553080865227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078481553080865227",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078481335975284773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 哪裡機車了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 166,
+          "like_count": 3481,
+          "listed_count": 0,
+          "media_count": 338,
+          "tweet_count": 2899
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-27T00:12:15.000Z",
+        "description": "可以叫我小池 泛🚪88｜188｜520｜888（歡迎隨意打賞）沒過🚪不閒聊 不賣不約 憂鬱逼 酗酒逼 嗑藥逼 很溫良 非國人約的別找我 雙相精分自傷傻逼妳去死好了 查成分回fo",
+        "id": "1850329593728917504",
+        "name": "離離池上喵",
+        "pinned_tweet_id": "2078453816815432016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078044988307595264/nRv5N80d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 398,
+          "like_count": 3824,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 893
+        },
+        "url": "",
+        "username": "Tristesse_demer",
+        "verified": false
+      }
+    ]
+  }
+}

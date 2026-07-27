@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079374804889768428",
+    "created_at": "2026-07-21T01:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079375367341592934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079375367341592934",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079374804889768428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1212s1212bs1242 收到 执行"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15426,
+        "height": 1280,
+        "media_key": "13_2079374768399327233",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079374768399327233/img/flqk2Q47mGy1b1ia.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079374768399327233/vid/avc1/320x568/8EV2XVai-VkFtxq8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079374768399327233/vid/avc1/480x852/xlIxkz1Vl2k5ecXa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079374768399327233/vid/avc1/720x1280/-Kp5WFRAxcnUwnBR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079374768399327233/pl/y76Bd-WM89Bwk3q0.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079374804889768428",
+        "created_at": "2026-07-21T01:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079375367341592934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079375367341592934",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079374804889768428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 收到 执行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079374768399327233"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2079374804889768428",
+        "created_at": "2026-07-21T01:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079374804889768428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aavDcNRSBV",
+              "end": 29,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2079374804889768428/video/1",
+              "media_key": "13_2079374768399327233",
+              "start": 6,
+              "url": "https://t.co/aavDcNRSBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079374804889768428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们 抽烟 https://t.co/aavDcNRSBV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 235,
+          "like_count": 4121,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3232
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b/欢迎跟我谈论现象学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 929,
+          "like_count": 17192,
+          "listed_count": 1,
+          "media_count": 1063,
+          "tweet_count": 10384
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

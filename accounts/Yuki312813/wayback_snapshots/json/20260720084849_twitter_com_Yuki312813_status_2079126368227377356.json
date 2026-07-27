@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079116164287062323",
+    "created_at": "2026-07-20T08:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T09:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079126368227377356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1880803334405435393",
+          "start": 0,
+          "username": "tiantmaoshenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079126368227377356",
+    "in_reply_to_user_id": "1880803334405435393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079116164287062323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiantmaoshenshi 老板来根大麻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_2079116161267191808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqBIg8a0AA90rH.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079116164287062323",
+        "created_at": "2026-07-20T08:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079126368227377356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1880803334405435393",
+              "start": 0,
+              "username": "tiantmaoshenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079126368227377356",
+        "in_reply_to_user_id": "1880803334405435393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079116164287062323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiantmaoshenshi 老板来根大麻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079116161267191808"
+          ]
+        },
+        "author_id": "1880803334405435393",
+        "conversation_id": "2079116164287062323",
+        "created_at": "2026-07-20T08:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079116164287062323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H5BrnhAJRV",
+              "end": 23,
+              "expanded_url": "https://x.com/tiantmaoshenshi/status/2079116164287062323/photo/1",
+              "media_key": "3_2079116161267191808",
+              "start": 0,
+              "url": "https://t.co/H5BrnhAJRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079116164287062323",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/H5BrnhAJRV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 223,
+          "like_count": 3959,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3130
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子         \n喜歡視奸喜歡犯病\n有一群非常善良的天使陪著我🥹🥹",
+        "id": "1880803334405435393",
+        "location": "中北海 🚪44",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2072983024334189012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973409019516821504/5wMTL0Wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 967,
+          "like_count": 11643,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 8180
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false
+      }
+    ]
+  }
+}

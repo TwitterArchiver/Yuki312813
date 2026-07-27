@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079128394747310413",
+    "created_at": "2026-07-20T09:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079132395853246583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1518254263457431552",
+          "start": 0,
+          "username": "ShawnX_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079132395853246583",
+    "in_reply_to_user_id": "1518254263457431552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079131737725284714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShawnX_nya 其实本源来自一个博主叫豪哥，梦想哭了，我觉得好抽象好自由啊绷不住了😂，我就取了个岐哥（由岐），梦想跳了（指跳楼）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079128394747310413",
+        "created_at": "2026-07-20T09:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079132395853246583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1518254263457431552",
+              "start": 0,
+              "username": "ShawnX_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079132395853246583",
+        "in_reply_to_user_id": "1518254263457431552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079131737725284714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShawnX_nya 其实本源来自一个博主叫豪哥，梦想哭了，我觉得好抽象好自由啊绷不住了😂，我就取了个岐哥（由岐），梦想跳了（指跳楼）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518254263457431552",
+        "conversation_id": "2079128394747310413",
+        "created_at": "2026-07-20T09:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079131737725284714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079131737725284714",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079128394747310413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 224,
+          "like_count": 3975,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 3145
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-24T15:43:43.000Z",
+        "description": "！！！血图预警！！！\nCN/EN OK | JP 勉強中 | RU 还没开始学\nMTX 任何称呼OK\n双相 服药治疗中 不好的评论我会删\n十八线coder 主Go\n日常发癫/emo  fo都会回\n长文参见 https://t.co/jb5NgL6g4G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xuanpt2.org",
+                "end": 126,
+                "expanded_url": "http://xuanpt2.org",
+                "start": 103,
+                "url": "https://t.co/jb5NgL6g4G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuanpt2.org",
+                "end": 23,
+                "expanded_url": "http://xuanpt2.org",
+                "start": 0,
+                "url": "https://t.co/jb5NgL6g4G"
+              }
+            ]
+          }
+        },
+        "id": "1518254263457431552",
+        "name": "ShawnNya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925603292085903360/tTQlXEXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 370,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/jb5NgL6g4G",
+        "username": "ShawnX_nya",
+        "verified": true
+      }
+    ]
+  }
+}

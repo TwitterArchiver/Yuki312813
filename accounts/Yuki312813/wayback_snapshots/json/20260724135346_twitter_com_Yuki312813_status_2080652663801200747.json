@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080652663801200747",
+    "created_at": "2026-07-24T13:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080652663801200747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038184435477319680",
+          "start": 3,
+          "username": "MIMIsamaOvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080652663801200747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080485977152471068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MIMIsamaOvo: oder请停下来，听我一句真心话\n你现在可能觉得药物能暂时缓解痛苦、逃避现实、带来快感，但这是一条单行道，越走越黑，最终毁掉的不是别人，而是你自己，你值得过上清醒自由有尊严的生活\n你的家人还在等你回来，那个没被药物控制的你，其实一直都在\n迈出第…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080652663801200747",
+        "created_at": "2026-07-24T13:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080652663801200747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038184435477319680",
+              "start": 3,
+              "username": "MIMIsamaOvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080652663801200747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080485977152471068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MIMIsamaOvo: oder请停下来，听我一句真心话\n你现在可能觉得药物能暂时缓解痛苦、逃避现实、带来快感，但这是一条单行道，越走越黑，最终毁掉的不是别人，而是你自己，你值得过上清醒自由有尊严的生活\n你的家人还在等你回来，那个没被药物控制的你，其实一直都在\n迈出第…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038184435477319680",
+        "conversation_id": "2080485977152471068",
+        "created_at": "2026-07-24T02:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080485977152471068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080485977152471068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1118,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "oder请停下来，听我一句真心话\n你现在可能觉得药物能暂时缓解痛苦、逃避现实、带来快感，但这是一条单行道，越走越黑，最终毁掉的不是别人，而是你自己，你值得过上清醒自由有尊严的生活\n你的家人还在等你回来，那个没被药物控制的你，其实一直都在\n迈出第一步自愿戒毒，丢掉你手中的药片还来得及！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 281,
+          "like_count": 4718,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3573
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-29T09:21:29.000Z",
+        "description": "梦到什么发什么，关注mimi谢谢喵\n戒毒中day0",
+        "id": "2038184435477319680",
+        "location": "戒毒所",
+        "name": "MIMI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069136182697672704/2H0_ygY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 43,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "MIMIsamaOvo",
+        "verified": false
+      }
+    ]
+  }
+}

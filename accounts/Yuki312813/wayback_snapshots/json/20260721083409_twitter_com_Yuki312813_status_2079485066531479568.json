@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079458875405898141",
+    "created_at": "2026-07-21T08:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T09:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079485066531479568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "sleeping_dsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079485066531479568",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079458875405898141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sleeping_dsc 我不耍了哥几个我要退出了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079458875405898141",
+        "created_at": "2026-07-21T08:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079485066531479568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "sleeping_dsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079485066531479568",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079458875405898141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleeping_dsc 我不耍了哥几个我要退出了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2079458875405898141",
+        "created_at": "2026-07-21T06:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079458875405898141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tixitem4527/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/tixitem4527/status/2078911565999599628",
+              "start": 8,
+              "url": "https://t.co/7mPWdOc7MJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079458875405898141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078911565999599628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幺幺过来吃饭了 https://t.co/7mPWdOc7MJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 238,
+          "like_count": 4217,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3285
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079483648592818176/x-LbR8yu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 305,
+          "like_count": 5479,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1572
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "sleeping_dsc",
+        "verified": false
+      }
+    ]
+  }
+}

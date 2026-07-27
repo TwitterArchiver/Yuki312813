@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079020020005470351",
+    "created_at": "2026-07-20T03:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079049715295871271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079049715295871271",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079020020005470351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 我也感觉出手控好涩啊🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079020020005470351",
+        "created_at": "2026-07-20T03:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079049715295871271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079049715295871271",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079020020005470351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 我也感觉出手控好涩啊🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956958284310818816",
+        "conversation_id": "2079020020005470351",
+        "created_at": "2026-07-20T01:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079020020005470351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079020020005470351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又发情了……好想被……抱住我、把那个放进来…撞击我的敏感点…好变态呀……我怎么这么缺爱……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 212,
+          "like_count": 3898,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3108
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "mtx | 泛性恋 | 无糖 | 精神状态不佳 | 称小千就好 半家长党💛🤍💜🖤sub 称它/it 愛所有人，但不会愛人，简/繁/en 不ban真人 常发布nsfw，满脑子黄色废料 分身@qian68069\n\n（在互联网攻受可切的触手娘）\n\n学习🎹ing，爱鱼韵、回春丹，研究各种电子软硬件。1.77m57kg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 93,
+                "username": "qian68069"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "name": "🏳️‍⚧️Qian触手小千🏳️‍🌈",
+        "pinned_tweet_id": "2078442206738985281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 1001,
+          "like_count": 6793,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 2279
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": false
+      }
+    ]
+  }
+}

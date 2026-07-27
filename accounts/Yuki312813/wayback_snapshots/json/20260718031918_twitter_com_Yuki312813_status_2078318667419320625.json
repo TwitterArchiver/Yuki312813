@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076990984651788288",
+        "3_2076990984681066496",
+        "3_2076990984626581504",
+        "3_2076990984643297280"
+      ],
+      "media_source_tweet_id": [
+        "2076991010757038166",
+        "2076991010757038166",
+        "2076991010757038166",
+        "2076991010757038166"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078318667419320625",
+    "created_at": "2026-07-18T03:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T04:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078318667419320625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2049325513379123200",
+          "start": 3,
+          "username": "Satoukawaii0514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7jlCxGndGO",
+          "end": 88,
+          "expanded_url": "https://x.com/Satoukawaii0514/status/2076991010757038166/photo/1",
+          "media_key": "3_2076990984651788288",
+          "start": 65,
+          "url": "https://t.co/7jlCxGndGO"
+        },
+        {
+          "display_url": "pic.x.com/7jlCxGndGO",
+          "end": 88,
+          "expanded_url": "https://x.com/Satoukawaii0514/status/2076991010757038166/photo/1",
+          "media_key": "3_2076990984681066496",
+          "start": 65,
+          "url": "https://t.co/7jlCxGndGO"
+        },
+        {
+          "display_url": "pic.x.com/7jlCxGndGO",
+          "end": 88,
+          "expanded_url": "https://x.com/Satoukawaii0514/status/2076991010757038166/photo/1",
+          "media_key": "3_2076990984626581504",
+          "start": 65,
+          "url": "https://t.co/7jlCxGndGO"
+        },
+        {
+          "display_url": "pic.x.com/7jlCxGndGO",
+          "end": 88,
+          "expanded_url": "https://x.com/Satoukawaii0514/status/2076991010757038166/photo/1",
+          "media_key": "3_2076990984643297280",
+          "start": 65,
+          "url": "https://t.co/7jlCxGndGO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078318667419320625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076991010757038166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Satoukawaii0514: 18岁刚成年被父母拉去贷款23万 我现在搬出来一个人住一个人工作 可以的话请帮帮我谢谢 https://t.co/7jlCxGndGO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2076990984651788288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL0S9Hb0AAP8bb.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1075,
+        "media_key": "3_2076990984681066496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL0S9OakAA0L8j.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076990984626581504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL0S9BbMAA3naG.jpg",
+        "width": 945
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2076990984643297280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL0S9FaQAAiYGB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076990984651788288",
+            "3_2076990984681066496",
+            "3_2076990984626581504",
+            "3_2076990984643297280"
+          ]
+        },
+        "author_id": "2049325513379123200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076991010757038166",
+        "created_at": "2026-07-14T11:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076991010757038166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jlCxGndGO",
+              "end": 67,
+              "expanded_url": "https://x.com/Satoukawaii0514/status/2076991010757038166/photo/1",
+              "media_key": "3_2076990984651788288",
+              "start": 44,
+              "url": "https://t.co/7jlCxGndGO"
+            },
+            {
+              "display_url": "pic.x.com/7jlCxGndGO",
+              "end": 67,
+              "expanded_url": "https://x.com/Satoukawaii0514/status/2076991010757038166/photo/1",
+              "media_key": "3_2076990984681066496",
+              "start": 44,
+              "url": "https://t.co/7jlCxGndGO"
+            },
+            {
+              "display_url": "pic.x.com/7jlCxGndGO",
+              "end": 67,
+              "expanded_url": "https://x.com/Satoukawaii0514/status/2076991010757038166/photo/1",
+              "media_key": "3_2076990984626581504",
+              "start": 44,
+              "url": "https://t.co/7jlCxGndGO"
+            },
+            {
+              "display_url": "pic.x.com/7jlCxGndGO",
+              "end": 67,
+              "expanded_url": "https://x.com/Satoukawaii0514/status/2076991010757038166/photo/1",
+              "media_key": "3_2076990984643297280",
+              "start": 44,
+              "url": "https://t.co/7jlCxGndGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076991010757038166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3374,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "18岁刚成年被父母拉去贷款23万 我现在搬出来一个人住一个人工作 可以的话请帮帮我谢谢 https://t.co/7jlCxGndGO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076990984651788288",
+            "3_2076990984681066496",
+            "3_2076990984626581504",
+            "3_2076990984643297280"
+          ],
+          "media_source_tweet_id": [
+            "2076991010757038166",
+            "2076991010757038166",
+            "2076991010757038166",
+            "2076991010757038166"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078318667419320625",
+        "created_at": "2026-07-18T03:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078318667419320625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2049325513379123200",
+              "start": 3,
+              "username": "Satoukawaii0514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jlCxGndGO",
+              "end": 88,
+              "expanded_url": "https://x.com/Satoukawaii0514/status/2076991010757038166/photo/1",
+              "media_key": "3_2076990984651788288",
+              "start": 65,
+              "url": "https://t.co/7jlCxGndGO"
+            },
+            {
+              "display_url": "pic.x.com/7jlCxGndGO",
+              "end": 88,
+              "expanded_url": "https://x.com/Satoukawaii0514/status/2076991010757038166/photo/1",
+              "media_key": "3_2076990984681066496",
+              "start": 65,
+              "url": "https://t.co/7jlCxGndGO"
+            },
+            {
+              "display_url": "pic.x.com/7jlCxGndGO",
+              "end": 88,
+              "expanded_url": "https://x.com/Satoukawaii0514/status/2076991010757038166/photo/1",
+              "media_key": "3_2076990984626581504",
+              "start": 65,
+              "url": "https://t.co/7jlCxGndGO"
+            },
+            {
+              "display_url": "pic.x.com/7jlCxGndGO",
+              "end": 88,
+              "expanded_url": "https://x.com/Satoukawaii0514/status/2076991010757038166/photo/1",
+              "media_key": "3_2076990984643297280",
+              "start": 65,
+              "url": "https://t.co/7jlCxGndGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078318667419320625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076991010757038166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Satoukawaii0514: 18岁刚成年被父母拉去贷款23万 我现在搬出来一个人住一个人工作 可以的话请帮帮我谢谢 https://t.co/7jlCxGndGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 153,
+          "like_count": 3375,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 2854
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-29T03:11:14.000Z",
+        "description": "请叫我猫猫/小猫＞𐋣＜ 焦虑症 喜欢舟 邦 烤 途 扭 167 135斤（减肥ing）接线下/委托 常驻ip广州 🚪30 🚪好友位➕朋友圈➕聊天 过🚪发课表",
+        "id": "2049325513379123200",
+        "location": "广州",
+        "name": "流泪猫猫头",
+        "pinned_tweet_id": "2076991010757038166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075056761632096257/ANmhEVvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 201,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "Satoukawaii0514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078973227213484074",
+    "created_at": "2026-07-21T03:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079403900315078844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003845262557827072",
+          "start": 0,
+          "username": "lizim493978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079403900315078844",
+    "in_reply_to_user_id": "2003845262557827072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079403721126228038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizim493978 大胃王来了！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078973227213484074",
+        "created_at": "2026-07-21T03:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079403900315078844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003845262557827072",
+              "start": 0,
+              "username": "lizim493978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079403900315078844",
+        "in_reply_to_user_id": "2003845262557827072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079403721126228038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizim493978 大胃王来了！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003845262557827072",
+        "conversation_id": "2078973227213484074",
+        "created_at": "2026-07-21T03:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079403721126228038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079403721126228038",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079351448526106973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 我寻思你吃了300粒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 236,
+          "like_count": 4143,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3244
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-24T15:09:10.000Z",
+        "description": "太阳还会出来吗…",
+        "id": "2003845262557827072",
+        "name": "Dove.",
+        "pinned_tweet_id": "2075103322424607004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074545882113175552/FkKVCOGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 40,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "lizim493978",
+        "verified": false
+      }
+    ]
+  }
+}

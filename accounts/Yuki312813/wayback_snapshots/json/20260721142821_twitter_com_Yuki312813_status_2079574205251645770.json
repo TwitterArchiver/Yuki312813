@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079567237594386835",
+    "created_at": "2026-07-21T14:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079574205251645770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2059212406451240960",
+          "start": 0,
+          "username": "Cxq6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079574205251645770",
+    "in_reply_to_user_id": "2059212406451240960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079567237594386835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cxq6666 玩笑气伤脑子呀😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8801,
+        "height": 1280,
+        "media_key": "13_2079567203834478593",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079567203834478593/img/d9Czv-wbOq1CdZpn.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079567203834478593/vid/avc1/320x568/aBIb0oZvR2CfAC_W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079567203834478593/vid/avc1/480x852/suR7K0j0T6rzuPVz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079567203834478593/vid/avc1/720x1280/tzdNiuvH9s3NBgPo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079567203834478593/pl/Mv_YSRtr13guOKm-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079567237594386835",
+        "created_at": "2026-07-21T14:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079574205251645770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2059212406451240960",
+              "start": 0,
+              "username": "Cxq6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079574205251645770",
+        "in_reply_to_user_id": "2059212406451240960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079567237594386835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cxq6666 玩笑气伤脑子呀😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079567203834478593"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2079567237594386835",
+        "created_at": "2026-07-21T14:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079567237594386835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHTzRE95OY",
+              "end": 32,
+              "expanded_url": "https://x.com/Cxq6666/status/2079567237594386835/video/1",
+              "media_key": "13_2079567203834478593",
+              "start": 9,
+              "url": "https://t.co/UHTzRE95OY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079567237594386835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再也不玩N2O了 https://t.co/UHTzRE95OY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 243,
+          "like_count": 4292,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 3324
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "19｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "id": "2059212406451240960",
+        "location": "浙江",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 92,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

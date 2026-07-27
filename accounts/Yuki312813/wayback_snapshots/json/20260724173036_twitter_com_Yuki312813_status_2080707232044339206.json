@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080707232044339206",
+    "created_at": "2026-07-24T17:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080707232044339206"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080707232044339206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的很感激博主的个帖子我明明对昨晚的一切明明光怪陆离又疲倦不堪，我没有任何头绪指导刚刚看完才知道看完大概全貌就消失了，也很希望网友理性吃瓜，当圈内笑话看了就行，他们这样的活法是他们的选择，不是因为家里人不给力，是我自己没有理性不信邪非要连着吃鸡尘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080707232044339206",
+        "created_at": "2026-07-24T17:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080707232044339206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080707232044339206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很感激博主的个帖子我明明对昨晚的一切明明光怪陆离又疲倦不堪，我没有任何头绪指导刚刚看完才知道看完大概全貌就消失了，也很希望网友理性吃瓜，当圈内笑话看了就行，他们这样的活法是他们的选择，不是因为家里人不给力，是我自己没有理性不信邪非要连着吃鸡尘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 281,
+          "like_count": 4731,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3583
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079550291582517248",
+        "3_2079550311052587008"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079550321550905651",
+    "created_at": "2026-07-21T12:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079550321550905651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AxyJUN1XXv",
+          "end": 137,
+          "expanded_url": "https://x.com/Yuki312813/status/2079550321550905651/photo/1",
+          "media_key": "3_2079550291582517248",
+          "start": 114,
+          "url": "https://t.co/AxyJUN1XXv"
+        },
+        {
+          "display_url": "pic.x.com/AxyJUN1XXv",
+          "end": 137,
+          "expanded_url": "https://x.com/Yuki312813/status/2079550321550905651/photo/1",
+          "media_key": "3_2079550311052587008",
+          "start": 114,
+          "url": "https://t.co/AxyJUN1XXv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079550321550905651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "和好朋友交流我哭了好无力我没法为他做到任何实质性帮助\n理性良知一边清醒的谴责自己overdose却又因为不堪的现实无法停止，只能在边缘不断徘徊挣扎陷入是相当一部分oder的心境状态，这个世界太坏了，坏到连这样的好孩子都不会放过\n互联网作为心理存续的最后港湾也被劣根性的人摧毁，人们互相攻击彼此，很少有友好的交流环境，但很多人又无法脱离互联网融入现实\n美好的每一天吗？到底在哪里，人真的能够幸福吗"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和好朋友交流我哭了好无力我没法为他做到任何实质性帮助\n理性良知一边清醒的谴责自己overdose却又因为不堪的现实无法停止，只能在边缘不断徘徊挣扎陷入是相当一部分oder的心境状态，这个世界太坏了，坏到连这样的好孩子都不会放过 https://t.co/AxyJUN1XXv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2079550291582517248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwL-OZWAAAsHbn.jpg",
+        "width": 1899
+      },
+      {
+        "height": 1984,
+        "media_key": "3_2079550311052587008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwL_W7XsAA3Neh.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079550291582517248",
+            "3_2079550311052587008"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079550321550905651",
+        "created_at": "2026-07-21T12:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079550321550905651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AxyJUN1XXv",
+              "end": 137,
+              "expanded_url": "https://x.com/Yuki312813/status/2079550321550905651/photo/1",
+              "media_key": "3_2079550291582517248",
+              "start": 114,
+              "url": "https://t.co/AxyJUN1XXv"
+            },
+            {
+              "display_url": "pic.x.com/AxyJUN1XXv",
+              "end": 137,
+              "expanded_url": "https://x.com/Yuki312813/status/2079550321550905651/photo/1",
+              "media_key": "3_2079550311052587008",
+              "start": 114,
+              "url": "https://t.co/AxyJUN1XXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079550321550905651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "和好朋友交流我哭了好无力我没法为他做到任何实质性帮助\n理性良知一边清醒的谴责自己overdose却又因为不堪的现实无法停止，只能在边缘不断徘徊挣扎陷入是相当一部分oder的心境状态，这个世界太坏了，坏到连这样的好孩子都不会放过\n互联网作为心理存续的最后港湾也被劣根性的人摧毁，人们互相攻击彼此，很少有友好的交流环境，但很多人又无法脱离互联网融入现实\n美好的每一天吗？到底在哪里，人真的能够幸福吗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和好朋友交流我哭了好无力我没法为他做到任何实质性帮助\n理性良知一边清醒的谴责自己overdose却又因为不堪的现实无法停止，只能在边缘不断徘徊挣扎陷入是相当一部分oder的心境状态，这个世界太坏了，坏到连这样的好孩子都不会放过 https://t.co/AxyJUN1XXv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 241,
+          "like_count": 4241,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 3301
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

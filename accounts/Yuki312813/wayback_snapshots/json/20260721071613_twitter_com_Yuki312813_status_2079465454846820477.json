@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079465454846820477",
+    "created_at": "2026-07-21T07:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079465454846820477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2003845262557827072",
+          "start": 3,
+          "username": "lizim493978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079465454846820477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079431923064279380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lizim493978: 我去，磕药是一个好麻烦的事啊，就不能我什么也不干，躺着就上劲吗🤐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079465454846820477",
+        "created_at": "2026-07-21T07:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079465454846820477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2003845262557827072",
+              "start": 3,
+              "username": "lizim493978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079465454846820477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079431923064279380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lizim493978: 我去，磕药是一个好麻烦的事啊，就不能我什么也不干，躺着就上劲吗🤐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003845262557827072",
+        "conversation_id": "2079431923064279380",
+        "created_at": "2026-07-21T05:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079431923064279380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079431923064279380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我去，磕药是一个好麻烦的事啊，就不能我什么也不干，躺着就上劲吗🤐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 238,
+          "like_count": 4179,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3267
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-24T15:09:10.000Z",
+        "description": "太阳还会出来吗…",
+        "id": "2003845262557827072",
+        "name": "Dove.",
+        "pinned_tweet_id": "2075103322424607004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074545882113175552/FkKVCOGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 40,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "lizim493978",
+        "verified": false
+      }
+    ]
+  }
+}

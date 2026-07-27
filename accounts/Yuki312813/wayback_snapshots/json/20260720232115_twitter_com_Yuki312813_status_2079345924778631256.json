@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079176540995428662",
+    "created_at": "2026-07-20T23:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T00:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079345924778631256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1890814268767150080",
+          "start": 0,
+          "username": "wanghongwencao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079345924778631256",
+    "in_reply_to_user_id": "1890814268767150080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079180723538501686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanghongwencao 可以在krvy账号了解到事情原委，此号是他朋友在代发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079176540995428662",
+        "created_at": "2026-07-20T23:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T00:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079345924778631256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1890814268767150080",
+              "start": 0,
+              "username": "wanghongwencao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079345924778631256",
+        "in_reply_to_user_id": "1890814268767150080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079180723538501686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanghongwencao 可以在krvy账号了解到事情原委，此号是他朋友在代发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890814268767150080",
+        "conversation_id": "2079176540995428662",
+        "created_at": "2026-07-20T12:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079180723538501686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079180723538501686",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079176540995428662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 你好 我想了解下Krvy的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 229,
+          "like_count": 4061,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3196
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T17:24:14.000Z",
+        "description": "1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/esperanto69150",
+                "end": 23,
+                "expanded_url": "https://ngl.link/esperanto69150",
+                "start": 0,
+                "url": "https://t.co/N0gNGjhe1H"
+              }
+            ]
+          }
+        },
+        "id": "1890814268767150080",
+        "location": "浮世幻梦",
+        "name": "柠柠檬檬檬🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077798954100797440/UvOcbToi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 329,
+          "like_count": 2368,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/N0gNGjhe1H",
+        "username": "wanghongwencao",
+        "verified": false
+      }
+    ]
+  }
+}

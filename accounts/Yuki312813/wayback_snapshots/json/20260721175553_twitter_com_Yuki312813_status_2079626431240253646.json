@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068356265252995072",
+        "3_2068356268969127936"
+      ],
+      "media_source_tweet_id": [
+        "2068356273662500966",
+        "2068356273662500966"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079626431240253646",
+    "created_at": "2026-07-21T17:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T18:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079626431240253646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1937925047458664449",
+          "start": 3,
+          "username": "WiaAir"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EzzvZoXn5G",
+          "end": 103,
+          "expanded_url": "https://x.com/WiaAir/status/2068356273662500966/photo/1",
+          "media_key": "3_2068356265252995072",
+          "start": 80,
+          "url": "https://t.co/EzzvZoXn5G"
+        },
+        {
+          "display_url": "pic.x.com/EzzvZoXn5G",
+          "end": 103,
+          "expanded_url": "https://x.com/WiaAir/status/2068356273662500966/photo/1",
+          "media_key": "3_2068356268969127936",
+          "start": 80,
+          "url": "https://t.co/EzzvZoXn5G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079626431240253646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068356273662500966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WiaAir: 你好这里小寒2.0，这个号只会扔碎碎念，血图和OD内容会放在一个神秘的号里，欢迎互fo交友！\n纯绿聊\n♂加好友打赏5元及以上谢谢喵❤️ https://t.co/EzzvZoXn5G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1387,
+        "media_key": "3_2068356265252995072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRHEItbwAA_KQh.jpg",
+        "width": 940
+      },
+      {
+        "height": 1187,
+        "media_key": "3_2068356268969127936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRHEWjbcAAPv8u.jpg",
+        "width": 1187
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068356265252995072",
+            "3_2068356268969127936"
+          ]
+        },
+        "author_id": "1937925047458664449",
+        "conversation_id": "2068356273662500966",
+        "created_at": "2026-06-20T15:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068356273662500966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EzzvZoXn5G",
+              "end": 91,
+              "expanded_url": "https://x.com/WiaAir/status/2068356273662500966/photo/1",
+              "media_key": "3_2068356265252995072",
+              "start": 68,
+              "url": "https://t.co/EzzvZoXn5G"
+            },
+            {
+              "display_url": "pic.x.com/EzzvZoXn5G",
+              "end": 91,
+              "expanded_url": "https://x.com/WiaAir/status/2068356273662500966/photo/1",
+              "media_key": "3_2068356268969127936",
+              "start": 68,
+              "url": "https://t.co/EzzvZoXn5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068356273662500966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你好这里小寒2.0，这个号只会扔碎碎念，血图和OD内容会放在一个神秘的号里，欢迎互fo交友！\n纯绿聊\n♂加好友打赏5元及以上谢谢喵❤️ https://t.co/EzzvZoXn5G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068356265252995072",
+            "3_2068356268969127936"
+          ],
+          "media_source_tweet_id": [
+            "2068356273662500966",
+            "2068356273662500966"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079626431240253646",
+        "created_at": "2026-07-21T17:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079626431240253646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1937925047458664449",
+              "start": 3,
+              "username": "WiaAir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EzzvZoXn5G",
+              "end": 103,
+              "expanded_url": "https://x.com/WiaAir/status/2068356273662500966/photo/1",
+              "media_key": "3_2068356265252995072",
+              "start": 80,
+              "url": "https://t.co/EzzvZoXn5G"
+            },
+            {
+              "display_url": "pic.x.com/EzzvZoXn5G",
+              "end": 103,
+              "expanded_url": "https://x.com/WiaAir/status/2068356273662500966/photo/1",
+              "media_key": "3_2068356268969127936",
+              "start": 80,
+              "url": "https://t.co/EzzvZoXn5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079626431240253646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068356273662500966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WiaAir: 你好这里小寒2.0，这个号只会扔碎碎念，血图和OD内容会放在一个神秘的号里，欢迎互fo交友！\n纯绿聊\n♂加好友打赏5元及以上谢谢喵❤️ https://t.co/EzzvZoXn5G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 248,
+          "like_count": 4329,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 3360
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-25T17:26:44.000Z",
+        "description": "=小寒/She Her/自伤/od/精神状态不稳定/文艺比/消肿比/纯血铜仁钕/交友大欢迎/LGBTQ+全肯定\n1.0：@AirWiaAir\n🦋指路：ChillyWinter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "AirWiaAir"
+              }
+            ]
+          }
+        },
+        "id": "1937925047458664449",
+        "name": "故我遠涉她方〔小寒2.0〕",
+        "pinned_tweet_id": "2068356273662500966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061314473768718337/LusnPfoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 119,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "WiaAir",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079075592591606223",
+    "created_at": "2026-07-20T06:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079085088113877276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045598149704818688",
+          "start": 0,
+          "username": "Dodioibs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079085088113877276",
+    "in_reply_to_user_id": "2045598149704818688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079075592591606223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dodioibs 已经开启全球大系度时代"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079075592591606223",
+        "created_at": "2026-07-20T06:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079085088113877276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079085088113877276",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079075592591606223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 已经开启全球大系度时代"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2079075592591606223",
+        "created_at": "2026-07-20T05:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079075592591606223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079075592591606223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝死藤水是系度 吃k粉是系度 抽大麻是系度 滥用阿片是系度 磕右美沙芬是系度 吃pr愚昧是系度 吃ss是系度 抽烟上瘾是系度 ed依赖是系度 酒精滥用是系度 你我都是瘾君子[擦汗]"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 218,
+          "like_count": 3922,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3117
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n老婆3.0 @lyxz738",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "username": "lyxz738"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2066254611145691260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 268,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1015
+        },
+        "url": "",
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

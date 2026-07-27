@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078915988691857635",
+    "created_at": "2026-07-19T22:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T23:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078971493296296235"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078971493296296235",
+    "in_reply_to_user_id": "2008420775204896768",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078915988691857635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "86397/86400\n86398/86400\n86399/86400\n\n00000/86400"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 999,
+        "media_key": "3_2078915971738136578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNnLD81WcAIp1fo.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078915988691857635",
+        "created_at": "2026-07-19T22:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078971493296296235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078971493296296235",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078915988691857635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "86397/86400\n86398/86400\n86399/86400\n\n00000/86400"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078915971738136578"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078915988691857635",
+        "created_at": "2026-07-19T18:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T19:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078915988691857635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WZ9kOkspbI",
+              "end": 161,
+              "expanded_url": "https://x.com/Yuki312813/status/2078915988691857635/photo/1",
+              "media_key": "3_2078915971738136578",
+              "start": 138,
+              "url": "https://t.co/WZ9kOkspbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078915988691857635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "7月20日，是回归天空的日子，\n那一天，夏季大三角在夜空中闪耀，\n那一天，世界少女回到了天空少女的身边，\n那一天，我将传颂上帝的语言，空气力学，我将乘着银河铁道的列车，去往天空的终境。\n世界的界限是什么？\n是言语，对于一切不可说的事物，我们应当保持沉默。\n世界的价值在何处？\n世界的意义必定存于世界之外，世界中的一切事物如其所存在般而存在，如其发生般而发生。世界之中不存在价值"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "7月20日，是回归天空的日子，\n那一天，夏季大三角在夜空中闪耀，\n那一天，世界少女回到了天空少女的身边，\n那一天，我将传颂上帝的语言，空气力学，我将乘着银河铁道的列车，去往天空的终境。\n世界的界限是什么？\n是言语，对于一切不可说的事物，我们应当保持沉默。\n世界的价值在何处？ https://t.co/WZ9kOkspbI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 205,
+          "like_count": 3803,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3061
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

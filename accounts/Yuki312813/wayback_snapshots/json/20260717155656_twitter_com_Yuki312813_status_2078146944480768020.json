@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078136779333628267",
+    "created_at": "2026-07-17T15:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078146944480768020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933651983443111938",
+          "start": 0,
+          "username": "qichuanshangshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078146944480768020",
+    "in_reply_to_user_id": "1933651983443111938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078136779333628267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qichuanshangshu 普瑞赛斯妈妈！🥰大好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1842,
+        "media_key": "3_2078136762778656768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcGYBQaIAAFOZy.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078136779333628267",
+        "created_at": "2026-07-17T15:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078146944480768020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933651983443111938",
+              "start": 0,
+              "username": "qichuanshangshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078146944480768020",
+        "in_reply_to_user_id": "1933651983443111938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078136779333628267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qichuanshangshu 普瑞赛斯妈妈！🥰大好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078136762778656768"
+          ]
+        },
+        "author_id": "1933651983443111938",
+        "conversation_id": "2078136779333628267",
+        "created_at": "2026-07-17T15:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078136779333628267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7KSkUylEpx",
+              "end": 28,
+              "expanded_url": "https://x.com/qichuanshangshu/status/2078136779333628267/photo/1",
+              "media_key": "3_2078136762778656768",
+              "start": 5,
+              "url": "https://t.co/7KSkUylEpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078136779333628267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粉丝先看 https://t.co/7KSkUylEpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "何億もの人々が再び空へと帰らなければならない",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 130,
+          "like_count": 3292,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 2818
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-13T22:25:42.000Z",
+        "description": "我是雨が降る｜主人@Sep_Hyxw｜友跨顺女｜同类互fo大欢迎｜舞萌/负能/餐券｜请来找我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Sep_Hyxw"
+              }
+            ]
+          }
+        },
+        "id": "1933651983443111938",
+        "location": "你心里♡",
+        "name": "雨が降る",
+        "pinned_tweet_id": "2021621168936264092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021118445761462273/VKiW9Yoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 168,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 393
+        },
+        "url": "",
+        "username": "qichuanshangshu",
+        "verified": false
+      }
+    ]
+  }
+}

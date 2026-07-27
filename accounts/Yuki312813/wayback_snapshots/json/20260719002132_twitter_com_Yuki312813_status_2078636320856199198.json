@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078333873172423140",
+    "created_at": "2026-07-19T00:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T01:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078636320856199198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675444856288870401",
+          "start": 0,
+          "username": "Maedarikuonly1"
+        },
+        {
+          "end": 24,
+          "id": "1935535718933090304",
+          "start": 16,
+          "username": "Ytkk999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078636320856199198",
+    "in_reply_to_user_id": "1675444856288870401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078522414187843731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maedarikuonly1 @Ytkk999 绷不住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078522409309913088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhlHmibQAAZxvV.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078333873172423140",
+        "created_at": "2026-07-19T00:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078636320856199198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675444856288870401",
+              "start": 0,
+              "username": "Maedarikuonly1"
+            },
+            {
+              "end": 24,
+              "id": "1935535718933090304",
+              "start": 16,
+              "username": "Ytkk999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078636320856199198",
+        "in_reply_to_user_id": "1675444856288870401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078522414187843731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maedarikuonly1 @Ytkk999 绷不住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078522409309913088"
+          ]
+        },
+        "author_id": "1675444856288870401",
+        "conversation_id": "2078333873172423140",
+        "created_at": "2026-07-18T16:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078522414187843731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1935535718933090304",
+              "start": 0,
+              "username": "Ytkk999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/npmWBL4t9A",
+              "end": 42,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2078522414187843731/photo/1",
+              "media_key": "3_2078522409309913088",
+              "start": 19,
+              "url": "https://t.co/npmWBL4t9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078522414187843731",
+        "in_reply_to_user_id": "1935535718933090304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8937,
+          "like_count": 491,
+          "quote_count": 5,
+          "reply_count": 35,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078333873172423140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ytkk999 你自己不也在发吗？ https://t.co/npmWBL4t9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 177,
+          "like_count": 3593,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2948
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "Украина",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 240,
+          "like_count": 3938,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1312
+        },
+        "url": "",
+        "username": "Maedarikuonly1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T03:10:59.000Z",
+        "description": "你如冬天般流淌 而我甚至不认识白色\n\n不线下不加v",
+        "id": "1935535718933090304",
+        "location": "BJ",
+        "name": "K k",
+        "pinned_tweet_id": "2060743740852256813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935548487283687424/DXQxhi7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 73,
+          "like_count": 1454,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1261
+        },
+        "url": "",
+        "username": "Ytkk999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079566621849641305",
+    "created_at": "2026-07-21T14:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079568252317868417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1812193973001129985",
+          "start": 0,
+          "username": "affect1217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079568252317868417",
+    "in_reply_to_user_id": "1812193973001129985",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079566621849641305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@affect1217 耍起嘛耍起哥几个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079566611250626560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwa0J5bQAAe-3i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079566621849641305",
+        "created_at": "2026-07-21T14:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079568252317868417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1812193973001129985",
+              "start": 0,
+              "username": "affect1217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079568252317868417",
+        "in_reply_to_user_id": "1812193973001129985",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079566621849641305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@affect1217 耍起嘛耍起哥几个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079566611250626560"
+          ]
+        },
+        "author_id": "1812193973001129985",
+        "conversation_id": "2079566621849641305",
+        "created_at": "2026-07-21T13:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079566621849641305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xn2FCCPi8H",
+              "end": 23,
+              "expanded_url": "https://x.com/affect1217/status/2079566621849641305/photo/1",
+              "media_key": "3_2079566611250626560",
+              "start": 0,
+              "url": "https://t.co/xn2FCCPi8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079566621849641305",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xn2FCCPi8H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 242,
+          "like_count": 4265,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 3316
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-13T18:35:10.000Z",
+        "description": "08.12月/isfp/偏内向/高三在上学中/中抑轻焦/想要互fo/友跨/发碎碎念",
+        "id": "1812193973001129985",
+        "name": "晨",
+        "pinned_tweet_id": "2079099698942734355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012718687308914688/pUJyycg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 470,
+          "like_count": 19775,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 490
+        },
+        "url": "",
+        "username": "affect1217",
+        "verified": false
+      }
+    ]
+  }
+}

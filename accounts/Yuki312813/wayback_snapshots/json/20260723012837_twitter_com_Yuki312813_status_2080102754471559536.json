@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080102754471559536",
+    "created_at": "2026-07-23T01:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T02:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080102754471559536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2074270585396531200",
+          "start": 3,
+          "username": "Chenpui2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080102754471559536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079989544208978207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chenpui2: 解离剂是对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080102754471559536",
+        "created_at": "2026-07-23T01:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080102754471559536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2074270585396531200",
+              "start": 3,
+              "username": "Chenpui2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080102754471559536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079989544208978207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chenpui2: 解离剂是对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074270585396531200",
+        "conversation_id": "2079989544208978207",
+        "created_at": "2026-07-22T17:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079989544208978207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079989544208978207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "解离剂是对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 268,
+          "like_count": 4578,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 3519
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-06T23:14:58.000Z",
+        "description": "小辰\n💊🩸🔪/LGBTQ友好/有fo就回 没回请私信我🥺/梦到什么发什么",
+        "id": "2074270585396531200",
+        "name": "辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074271271358230528/h-KK1N-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 149,
+          "like_count": 2487,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "Chenpui2",
+        "verified": false
+      }
+    ]
+  }
+}

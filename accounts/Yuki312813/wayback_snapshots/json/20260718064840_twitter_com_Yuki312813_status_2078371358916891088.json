@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078319433957978240",
+    "created_at": "2026-07-18T06:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078371358916891088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905299964332544000",
+          "start": 0,
+          "username": "LixuL83526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078371358916891088",
+    "in_reply_to_user_id": "1905299964332544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078319433957978240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LixuL83526 滥用就是用毒，本质是医用麻醉药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078319433957978240",
+        "created_at": "2026-07-18T06:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078371358916891088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905299964332544000",
+              "start": 0,
+              "username": "LixuL83526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078371358916891088",
+        "in_reply_to_user_id": "1905299964332544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078319433957978240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LixuL83526 滥用就是用毒，本质是医用麻醉药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905299964332544000",
+        "conversation_id": "2078319433957978240",
+        "created_at": "2026-07-18T03:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078319433957978240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078319433957978240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在好像依托咪酯好像也是算du，但平常用没有像一二类精神药品那样，我记得以前无聊自己带回去，是因为他们说这个用来擦鞋子很好用！惊呆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 154,
+          "like_count": 3398,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 2863
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-27T16:45:08.000Z",
+        "description": "",
+        "id": "1905299964332544000",
+        "name": "皮特",
+        "pinned_tweet_id": "2078314750187045376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058901431319736320/lux5TMnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 55,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "LixuL83526",
+        "verified": false
+      }
+    ]
+  }
+}

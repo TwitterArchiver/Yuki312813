@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080152553522626570",
+    "created_at": "2026-07-23T07:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080188386967437535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080188386967437535",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080174537682076005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 说的也是呢，内心丰盈而认知浅显是乐观，内心虚无但认知较高是傲慢（均不指代任何人）像我这种不上不下半罐水装忧郁起来就像是给猪的皮打上LV印花一样抽象，其实也看个人的环境和一个人格状态吧！，也有极端环境下成长的人知晓痛苦，便布施行善，知晓奢靡，便骄纵骄奢的人，谢谢交流🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080152553522626570",
+        "created_at": "2026-07-23T07:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080188386967437535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080188386967437535",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080174537682076005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 说的也是呢，内心丰盈而认知浅显是乐观，内心虚无但认知较高是傲慢（均不指代任何人）像我这种不上不下半罐水装忧郁起来就像是给猪的皮打上LV印花一样抽象，其实也看个人的环境和一个人格状态吧！，也有极端环境下成长的人知晓痛苦，便布施行善，知晓奢靡，便骄纵骄奢的人，谢谢交流🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956958284310818816",
+        "conversation_id": "2080152553522626570",
+        "created_at": "2026-07-23T06:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080174537682076005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080174537682076005",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080152553522626570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 那要看內心豐盈是知識認知上或者情感上了。真的現實充實情感光明的人也許不會來吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 272,
+          "like_count": 4646,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3540
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "无糖MtX💛🤍💜🖤半家長黨 | 泛性恋 | 精神状态不佳 | 称小千就好\n它/it\n简/繁/en\n不ban真人 常发布nsfw，满脑子黄色废料 \n分身@qian68069\n在互联网攻受可切的触手娘\n愛所有人，但不会愛人 \n学习🎹ing，爱鱼韵、回春丹，研究各种电子软硬件。1.77m57kg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "qian68069"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "name": "🏳️‍⚧️Qian触手小千🏳️‍🌈",
+        "pinned_tweet_id": "2079745966102700096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 1118,
+          "like_count": 7815,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 2652
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": true
+      }
+    ]
+  }
+}

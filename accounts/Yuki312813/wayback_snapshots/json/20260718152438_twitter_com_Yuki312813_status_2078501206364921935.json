@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078500971412410368"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078501206364921935",
+    "created_at": "2026-07-18T15:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078501206364921935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B8sLTDEOtA",
+          "end": 64,
+          "expanded_url": "https://x.com/Yuki312813/status/2078501206364921935/video/1",
+          "media_key": "13_2078500971412410368",
+          "start": 41,
+          "url": "https://t.co/B8sLTDEOtA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078501206364921935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "洗完头有种屌丝感，不知道为啥从鼻子吐烟根本看不出来，做不到那种浓浓的感觉，失败了 https://t.co/B8sLTDEOtA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55116,
+        "height": 1280,
+        "media_key": "13_2078500971412410368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078500971412410368/img/8TjdxHLC-kjmPH06.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078500971412410368/vid/avc1/320x568/ZhithEh_Vc2C8Hak.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078500971412410368/vid/avc1/480x852/pdSH-fs1B8ogfoQH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078500971412410368/vid/avc1/720x1280/ZgpH-WjfHFU4NvdE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078500971412410368/pl/TcMvcrXwd1mfrUIT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078500971412410368"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078501206364921935",
+        "created_at": "2026-07-18T15:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078501206364921935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8sLTDEOtA",
+              "end": 64,
+              "expanded_url": "https://x.com/Yuki312813/status/2078501206364921935/video/1",
+              "media_key": "13_2078500971412410368",
+              "start": 41,
+              "url": "https://t.co/B8sLTDEOtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078501206364921935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗完头有种屌丝感，不知道为啥从鼻子吐烟根本看不出来，做不到那种浓浓的感觉，失败了 https://t.co/B8sLTDEOtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 169,
+          "like_count": 3511,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2918
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

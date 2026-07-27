@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078153437108134383",
+    "created_at": "2026-07-18T10:54:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078433252675621370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044567923130298369",
+          "start": 0,
+          "username": "MintOwOill"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078433252675621370",
+    "in_reply_to_user_id": "2044567923130298369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078432528323522871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MintOwOill 好建议！🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078153437108134383",
+        "created_at": "2026-07-18T10:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078433252675621370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044567923130298369",
+              "start": 0,
+              "username": "MintOwOill"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078433252675621370",
+        "in_reply_to_user_id": "2044567923130298369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078432528323522871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MintOwOill 好建议！🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044567923130298369",
+        "conversation_id": "2078153437108134383",
+        "created_at": "2026-07-18T10:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078432528323522871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078432528323522871",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078153437108134383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 我也不知道 我几乎对所有药物都没有上瘾的迹象 哪怕连续od好几个月天天吃也没上瘾想停就停 看你自己怎么对待的吧（？ 也许是因为我吃药基础的欣快感都没有单纯是想逃避难受一点点就没力气想不开心的了^_^ 为了安全能戒还是戒吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 160,
+          "like_count": 3405,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 2868
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-16T00:06:44.000Z",
+        "description": "备用号 乱发负能 \n🚪52/88/188\n大号营业指路@Mint0v033\n谢谢(^ ^)你们的观看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Mint0v033"
+              }
+            ]
+          }
+        },
+        "id": "2044567923130298369",
+        "location": "不约不线下不视频",
+        "name": "薄荷",
+        "pinned_tweet_id": "2065729559010435387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059072339082403840/WUTugqZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2478,
+          "following_count": 13,
+          "like_count": 241,
+          "listed_count": 9,
+          "media_count": 101,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "MintOwOill",
+        "verified": false
+      }
+    ]
+  }
+}

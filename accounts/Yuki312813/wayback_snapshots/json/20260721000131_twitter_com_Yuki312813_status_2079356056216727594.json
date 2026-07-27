@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079209797908570262",
+    "created_at": "2026-07-21T00:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079356056216727594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050369449463865344",
+          "start": 0,
+          "username": "tea_clear_dream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079356056216727594",
+    "in_reply_to_user_id": "2050369449463865344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079209797908570262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tea_clear_dream 经典战役之我打我自己给自己捅了一刀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1299,
+        "media_key": "3_2079209788106592256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrWSUGb0AAPUcA.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079209797908570262",
+        "created_at": "2026-07-21T00:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079356056216727594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050369449463865344",
+              "start": 0,
+              "username": "tea_clear_dream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079356056216727594",
+        "in_reply_to_user_id": "2050369449463865344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079209797908570262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tea_clear_dream 经典战役之我打我自己给自己捅了一刀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079209788106592256"
+          ]
+        },
+        "author_id": "2050369449463865344",
+        "conversation_id": "2079209797908570262",
+        "created_at": "2026-07-20T14:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079209797908570262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UY4F9vKKSt",
+              "end": 23,
+              "expanded_url": "https://x.com/tea_clear_dream/status/2079209797908570262/photo/1",
+              "media_key": "3_2079209788106592256",
+              "start": 0,
+              "url": "https://t.co/UY4F9vKKSt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079209797908570262",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UY4F9vKKSt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 232,
+          "like_count": 4084,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3212
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-02T00:19:20.000Z",
+        "description": "",
+        "id": "2050369449463865344",
+        "name": "水无月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079209584921853952/ctI6OuH-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 75,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "tea_clear_dream",
+        "verified": false
+      }
+    ]
+  }
+}

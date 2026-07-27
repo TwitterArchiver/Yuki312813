@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080080033423429679",
+    "created_at": "2026-07-23T02:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080116448547020928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2047425753227333632",
+          "start": 0,
+          "username": "YuganQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080116448547020928",
+    "in_reply_to_user_id": "2047425753227333632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080080033423429679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuganQwQ 互动太频繁会被ban"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080080033423429679",
+        "created_at": "2026-07-23T02:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080116448547020928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2047425753227333632",
+              "start": 0,
+              "username": "YuganQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080116448547020928",
+        "in_reply_to_user_id": "2047425753227333632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080080033423429679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuganQwQ 互动太频繁会被ban"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047425753227333632",
+        "conversation_id": "2080080033423429679",
+        "created_at": "2026-07-22T23:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080080033423429679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080080033423429679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跟你们互动你们看得见吗。而且人家明明没有取关谁呀为啥我的关注变成只有几个人了😢😢😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 269,
+          "like_count": 4599,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 3526
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |永远怀念@yuganbb823我的号不知道怎么了显示我的关注人只有几个，但是我从来没有取关过任何人。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "name": "为何人生如此悲惨2.0互关巡回",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 183,
+          "like_count": 1124,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "YuganQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078933152748425506",
+    "created_at": "2026-07-19T20:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T21:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078933152748425506"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078933152748425506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的是。。。bzd和z药物不能配酒喝，因为最开始是没有喝酒的，但是后面O大了上头了就喝酒了，然后就晕死过去了😇，然后垂死病中惊坐起😇😇不喝酒的话我还能多多互动一会等12点准时回归天空来的，气死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078933152748425506",
+        "created_at": "2026-07-19T20:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078933152748425506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078933152748425506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的是。。。bzd和z药物不能配酒喝，因为最开始是没有喝酒的，但是后面O大了上头了就喝酒了，然后就晕死过去了😇，然后垂死病中惊坐起😇😇不喝酒的话我还能多多互动一会等12点准时回归天空来的，气死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 203,
+          "like_count": 3771,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 3053
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

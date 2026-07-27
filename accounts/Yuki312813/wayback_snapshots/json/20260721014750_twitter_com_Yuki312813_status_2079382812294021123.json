@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079301708438790503",
+    "created_at": "2026-07-21T01:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079382812294021123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1438420916518539267",
+          "start": 0,
+          "username": "200x0x1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079382812294021123",
+    "in_reply_to_user_id": "1438420916518539267",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079301708438790503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@200x0x1x 你才是中推忧郁神"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3625,
+        "height": 1920,
+        "media_key": "13_2079301685680480256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079301685680480256/img/OGDM0QdTjnfYcbji.jpg",
+        "public_metrics": {
+          "view_count": 98
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079301685680480256/vid/avc1/720x1280/wGhKW0m3aQAdqMQU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079301685680480256/pl/Tne8rOdVToECxo7C.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079301685680480256/vid/avc1/480x852/JMCyGb0ab9iKyNmg.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079301685680480256/vid/avc1/320x568/-JkgXJyrK21ElRSC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079301685680480256/vid/avc1/1080x1920/v4QxbEydcmjXSeEf.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079301708438790503",
+        "created_at": "2026-07-21T01:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079382812294021123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079382812294021123",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079301708438790503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 你才是中推忧郁神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079301685680480256"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2079301708438790503",
+        "created_at": "2026-07-20T20:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079301708438790503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gc0fo0c8Py",
+              "end": 33,
+              "expanded_url": "https://x.com/200x0x1x/status/2079301708438790503/video/1",
+              "media_key": "13_2079301685680480256",
+              "start": 10,
+              "url": "https://t.co/Gc0fo0c8Py"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079301708438790503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈们看我抽烟好吗 https://t.co/Gc0fo0c8Py"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 236,
+          "like_count": 4132,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3238
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078680882622365696/Mc8raabD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 676,
+          "like_count": 28770,
+          "listed_count": 7,
+          "media_count": 2490,
+          "tweet_count": 27522
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079584683361533958",
+    "created_at": "2026-07-22T00:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079730036706312553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052432401289363456",
+          "start": 0,
+          "username": "hyacinthcxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079730036706312553",
+    "in_reply_to_user_id": "2052432401289363456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079584683361533958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyacinthcxi 我们早就已经疯了，无路可退了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079584683361533958",
+        "created_at": "2026-07-22T00:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079730036706312553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052432401289363456",
+              "start": 0,
+              "username": "hyacinthcxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079730036706312553",
+        "in_reply_to_user_id": "2052432401289363456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079584683361533958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyacinthcxi 我们早就已经疯了，无路可退了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052432401289363456",
+        "conversation_id": "2079584683361533958",
+        "created_at": "2026-07-21T15:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079584683361533958"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079584683361533958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我计划如果活该怎么活下去的时候，我真正觉得自己疯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079722649282891777/Z1WbYktU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 254,
+          "like_count": 4411,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 3416
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T17:02:25.000Z",
+        "description": "2009 休学4年 抑郁 ptsd bpd\n🚪45 好友位+陪聊 图包/线下另算 女生不用\n前世@camelliacxi @hyacxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "camelliacxi"
+              },
+              {
+                "end": 68,
+                "start": 61,
+                "username": "hyacxi"
+              }
+            ]
+          }
+        },
+        "id": "2052432401289363456",
+        "name": "Hyacinth",
+        "pinned_tweet_id": "2075831905199808582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075683920000225280/TEtE_bCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 14,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "hyacinthcxi",
+        "verified": false
+      }
+    ]
+  }
+}

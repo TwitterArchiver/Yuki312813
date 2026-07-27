@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079225652637757781",
+    "created_at": "2026-07-21T00:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079359338234400980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2071537565111578624",
+          "start": 0,
+          "username": "xsxnxb7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079359338234400980",
+    "in_reply_to_user_id": "2071537565111578624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079225652637757781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsxnxb7 不建议o，指的是不建议入这个圈子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079225652637757781",
+        "created_at": "2026-07-21T00:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079359338234400980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2071537565111578624",
+              "start": 0,
+              "username": "xsxnxb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079359338234400980",
+        "in_reply_to_user_id": "2071537565111578624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079225652637757781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsxnxb7 不建议o，指的是不建议入这个圈子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071537565111578624",
+        "conversation_id": "2079225652637757781",
+        "created_at": "2026-07-20T15:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079225652637757781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079225652637757781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚开始o的话加巴可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 235,
+          "like_count": 4089,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3216
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-29T10:15:05.000Z",
+        "description": "哔哔，外星人降临/二号机：\n@nixyng246039  三号机：@ovolook215\n//互fo会查成分男的大概率不过（友跨），直fo是喜欢你呀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "nixyng246039"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "ovolook215"
+              }
+            ]
+          }
+        },
+        "id": "2071537565111578624",
+        "name": "西南四号（互关巡回）",
+        "pinned_tweet_id": "2078908831195869353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071538274632601600/htnqN7C6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 36,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "xsxnxb7",
+        "verified": false
+      }
+    ]
+  }
+}

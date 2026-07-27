@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078786381837742491",
+    "created_at": "2026-07-19T10:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078786381837742491"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078786381837742491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我受不了了我好想杀人啊😂被圈了140不给我回应，我走渠道都能买两盒dxm了😂再不然就去买rc爽😂就是因为我这个人容易同情心泛滥和贪心了一波，因为我开的一个月思诺思在冷静期，我想着我去开一趟路费什么东西的也得140左右了，看主页还是个肾病患者说是也有其他人买sns，就同情了一下😂就被圈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078786381837742491",
+        "created_at": "2026-07-19T10:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078786381837742491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078786381837742491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我受不了了我好想杀人啊😂被圈了140不给我回应，我走渠道都能买两盒dxm了😂再不然就去买rc爽😂就是因为我这个人容易同情心泛滥和贪心了一波，因为我开的一个月思诺思在冷静期，我想着我去开一趟路费什么东西的也得140左右了，看主页还是个肾病患者说是也有其他人买sns，就同情了一下😂就被圈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 185,
+          "like_count": 3688,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 3007
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

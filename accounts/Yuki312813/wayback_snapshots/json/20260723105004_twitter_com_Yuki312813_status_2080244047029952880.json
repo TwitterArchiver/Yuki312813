@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080227467944415695",
+    "created_at": "2026-07-23T10:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080244047029952880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1906605092612227072",
+          "start": 0,
+          "username": "N9qHy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080244047029952880",
+    "in_reply_to_user_id": "1906605092612227072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080230154509688931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N9qHy 这野人跳了，是个鸡人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080227467944415695",
+        "created_at": "2026-07-23T10:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080244047029952880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1906605092612227072",
+              "start": 0,
+              "username": "N9qHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080244047029952880",
+        "in_reply_to_user_id": "1906605092612227072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080230154509688931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N9qHy 这野人跳了，是个鸡人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906605092612227072",
+        "conversation_id": "2080227467944415695",
+        "created_at": "2026-07-23T09:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080230154509688931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080230154509688931",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080227467944415695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 变鸡来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 278,
+          "like_count": 4695,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3562
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-31T07:11:09.000Z",
+        "description": "LV.4 - Angel Dust",
+        "id": "1906605092612227072",
+        "name": "明前",
+        "pinned_tweet_id": "2077445551428341961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992167258450509824/K5FSOyyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 1983,
+          "like_count": 6671,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 2201
+        },
+        "url": "",
+        "username": "N9qHy",
+        "verified": false
+      }
+    ]
+  }
+}

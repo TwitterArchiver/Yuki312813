@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079729744065515827",
+    "created_at": "2026-07-22T00:46:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:46:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079729744065515827"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079729744065515827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "曾经我质问祢为什么不讲下垂怜，其实到目前为止我都是在坚持让自己像个正常人，不想让其他人看出异样，现在我求祢不要再怜悯我了，我是个罪人，我会赎罪的，我也在忏悔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079729744065515827",
+        "created_at": "2026-07-22T00:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079729744065515827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079729744065515827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曾经我质问祢为什么不讲下垂怜，其实到目前为止我都是在坚持让自己像个正常人，不想让其他人看出异样，现在我求祢不要再怜悯我了，我是个罪人，我会赎罪的，我也在忏悔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079722649282891777/Z1WbYktU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 254,
+          "like_count": 4408,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 3414
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": false
+      }
+    ]
+  }
+}

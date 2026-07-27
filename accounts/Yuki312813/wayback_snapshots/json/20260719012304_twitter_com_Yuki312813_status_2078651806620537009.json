@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078447411312332974",
+    "created_at": "2026-07-19T01:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T02:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078651806620537009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "sleeping_dsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078651806620537009",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078447411312332974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sleeping_dsc 鸡哥背刺完后疑似地雷瘾犯了起号中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078447411312332974",
+        "created_at": "2026-07-19T01:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078651806620537009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "sleeping_dsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078651806620537009",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078447411312332974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleeping_dsc 鸡哥背刺完后疑似地雷瘾犯了起号中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2078447411312332974",
+        "created_at": "2026-07-18T11:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078447411312332974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/clem0216/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/clem0216/status/2078087129146794390",
+              "start": 33,
+              "url": "https://t.co/GaKJTD1ugN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078447411312332974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078087129146794390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鸡哥别瞎偷文案了，你们真的信那是他写出来的？那明显就是偷的别人的 https://t.co/GaKJTD1ugN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 181,
+          "like_count": 3612,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2959
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073538767760109569/4XfUE2Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 301,
+          "like_count": 5190,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1519
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "sleeping_dsc",
+        "verified": true
+      }
+    ]
+  }
+}

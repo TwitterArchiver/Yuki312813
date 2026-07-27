@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078738208809250827",
+    "created_at": "2026-07-19T22:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T23:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078968768869404887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916974498903166978",
+          "start": 0,
+          "username": "Sakura8964666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078968768869404887",
+    "in_reply_to_user_id": "1916974498903166978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078738208809250827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura8964666 日本鸡尘这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2078738191029583872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkpXwFbQAAfEHs.jpg",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "media_key": "3_2078738200546390016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkpYTiaMAAAsQz.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078738208809250827",
+        "created_at": "2026-07-19T22:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078968768869404887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916974498903166978",
+              "start": 0,
+              "username": "Sakura8964666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078968768869404887",
+        "in_reply_to_user_id": "1916974498903166978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078738208809250827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura8964666 日本鸡尘这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078738191029583872",
+            "3_2078738200546390016"
+          ]
+        },
+        "author_id": "1916974498903166978",
+        "conversation_id": "2078738208809250827",
+        "created_at": "2026-07-19T07:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078738208809250827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/61Ct7C9rI5",
+              "end": 39,
+              "expanded_url": "https://x.com/Sakura8964666/status/2078738208809250827/photo/1",
+              "media_key": "3_2078738191029583872",
+              "start": 16,
+              "url": "https://t.co/61Ct7C9rI5"
+            },
+            {
+              "display_url": "pic.x.com/61Ct7C9rI5",
+              "end": 39,
+              "expanded_url": "https://x.com/Sakura8964666/status/2078738208809250827/photo/1",
+              "media_key": "3_2078738200546390016",
+              "start": 16,
+              "url": "https://t.co/61Ct7C9rI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078738208809250827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3110,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "oder可以买点这个，力大无穷 https://t.co/61Ct7C9rI5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 204,
+          "like_count": 3795,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3059
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "现代极乐主义者、地雷系主义支持者\n化学极乐百科：https://t.co/BeprZt3OWA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 47,
+                "expanded_url": "https://jile.bid/",
+                "start": 24,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "Sakura",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 239,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 118
+        },
+        "url": "https://t.co/BeprZt3OWA",
+        "username": "Sakura8964666",
+        "verified": false
+      }
+    ]
+  }
+}

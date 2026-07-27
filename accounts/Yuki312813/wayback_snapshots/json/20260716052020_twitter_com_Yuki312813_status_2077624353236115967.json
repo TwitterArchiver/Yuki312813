@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077612968003715151",
+    "created_at": "2026-07-16T05:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T06:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077624353236115967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066715278873088000",
+          "start": 0,
+          "username": "AliceMeWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077624353236115967",
+    "in_reply_to_user_id": "2066715278873088000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077612968003715151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceMeWu 去职校出来再做打算吧，没满18很难找工作的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077612968003715151",
+        "created_at": "2026-07-16T05:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077624353236115967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066715278873088000",
+              "start": 0,
+              "username": "AliceMeWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077624353236115967",
+        "in_reply_to_user_id": "2066715278873088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077612968003715151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceMeWu 去职校出来再做打算吧，没满18很难找工作的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066715278873088000",
+        "conversation_id": "2077612968003715151",
+        "created_at": "2026-07-16T04:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077612968003715151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077612968003715151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好奇如果初中肄业的话，和初中毕业出社会有什么区别吗？最后是不是都是进厂或者做基本的工作呀？（已知成绩很差考不上高中，下一站职校）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 112,
+          "like_count": 2977,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2685
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-16T02:52:43.000Z",
+        "description": "我的人生充满了痛苦 16⬆️OD ZC ZS 精神疾病 休学中 我是女生 这是我第4个号了 我没有什么朋友 对不起不加墙内呀 被盒过有心理阴影谢谢宝宝们理解😭想和同类互fo🥹",
+        "id": "2066715278873088000",
+        "name": "アイレス🦴",
+        "pinned_tweet_id": "2069465574938390584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071797410100379648/8bPabf67_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 155,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "AliceMeWu",
+        "verified": false
+      }
+    ]
+  }
+}

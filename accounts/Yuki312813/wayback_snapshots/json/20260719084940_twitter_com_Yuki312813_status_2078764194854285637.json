@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078763536189423991",
+    "created_at": "2026-07-19T08:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078764194854285637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1641809327815290880",
+          "start": 0,
+          "username": "kotonami999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078764194854285637",
+    "in_reply_to_user_id": "1641809327815290880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078763536189423991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kotonami999 等会怎么一个个男女通吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078763536189423991",
+        "created_at": "2026-07-19T08:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078764194854285637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1641809327815290880",
+              "start": 0,
+              "username": "kotonami999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078764194854285637",
+        "in_reply_to_user_id": "1641809327815290880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078763536189423991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotonami999 等会怎么一个个男女通吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641809327815290880",
+        "conversation_id": "2078763536189423991",
+        "created_at": "2026-07-19T08:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078763536189423991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuki312813/sta…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/Yuki312813/status/2078454290880827874",
+              "start": 107,
+              "url": "https://t.co/QRVgB9Dqkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078763536189423991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078454290880827874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：✅\n有过男朋友：✅\n有过女朋友：✅\n嗑过药：✅\n喝过酒：✅  \n挂过科：小学学历🈚 \n去过夜店：✅ \n抽过烟/用过电子烟：✅\n吻过别人：✅\n被留堂：✅\n被课堂赶出去：✅\n考试作弊：✅\n偷偷溜出家门：✅ https://t.co/QRVgB9Dqkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 184,
+          "like_count": 3657,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 2982
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-31T14:27:22.000Z",
+        "description": "嗯。叫我小琴就好",
+        "id": "1641809327815290880",
+        "location": "666999",
+        "name": "呃呃",
+        "pinned_tweet_id": "2002579529865572866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970394553267167233/_Q3SRvH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 326,
+          "like_count": 2058,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 933
+        },
+        "url": "",
+        "username": "kotonami999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079410637428654080"
+      ],
+      "media_source_tweet_id": [
+        "2079410645326557204"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079462913501175841",
+    "created_at": "2026-07-21T07:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079462913501175841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2056307790264590336",
+          "start": 3,
+          "username": "dooaisuan"
+        },
+        {
+          "end": 56,
+          "id": "2045598149704818688",
+          "start": 47,
+          "username": "Dodioibs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PpDove41BW",
+          "end": 80,
+          "expanded_url": "https://x.com/dooaisuan/status/2079410645326557204/photo/1",
+          "media_key": "3_2079410637428654080",
+          "start": 57,
+          "url": "https://t.co/PpDove41BW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079462913501175841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079410645326557204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dooaisuan: 我是小酸 不知道为什么又封号了 麻烦帮忙转转哦🥹  前世2.0 @Dodioibs https://t.co/PpDove41BW"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Dodioibs].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Dodioibs",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Dodioibs"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2079410637428654080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuM9SIagAAVi--.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079410637428654080"
+          ]
+        },
+        "author_id": "2056307790264590336",
+        "conversation_id": "2079410645326557204",
+        "created_at": "2026-07-21T03:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079410645326557204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "2045598149704818688",
+              "start": 32,
+              "username": "Dodioibs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpDove41BW",
+              "end": 65,
+              "expanded_url": "https://x.com/dooaisuan/status/2079410645326557204/photo/1",
+              "media_key": "3_2079410637428654080",
+              "start": 42,
+              "url": "https://t.co/PpDove41BW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079410645326557204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 554,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我是小酸 不知道为什么又封号了 麻烦帮忙转转哦🥹  前世2.0 @Dodioibs https://t.co/PpDove41BW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079410637428654080"
+          ],
+          "media_source_tweet_id": [
+            "2079410645326557204"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079462913501175841",
+        "created_at": "2026-07-21T07:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079462913501175841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056307790264590336",
+              "start": 3,
+              "username": "dooaisuan"
+            },
+            {
+              "end": 56,
+              "id": "2045598149704818688",
+              "start": 47,
+              "username": "Dodioibs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpDove41BW",
+              "end": 80,
+              "expanded_url": "https://x.com/dooaisuan/status/2079410645326557204/photo/1",
+              "media_key": "3_2079410637428654080",
+              "start": 57,
+              "url": "https://t.co/PpDove41BW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079462913501175841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079410645326557204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dooaisuan: 我是小酸 不知道为什么又封号了 麻烦帮忙转转哦🥹  前世2.0 @Dodioibs https://t.co/PpDove41BW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 238,
+          "like_count": 4174,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3260
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-18T09:36:23.000Z",
+        "description": "又封号了 \n爱人@c10n3_f\n老婆3.0 @lyxz738",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 31,
+                "start": 23,
+                "username": "lyxz738"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 0,
+                "url": "https://t.co/u5ZQlDChqF"
+              }
+            ]
+          }
+        },
+        "id": "2056307790264590336",
+        "name": "小酸3.0 （巡回好友）",
+        "pinned_tweet_id": "2079410645326557204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079409125084295168/6KQZscEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 46,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/u5ZQlDChqF",
+        "username": "dooaisuan",
+        "verified": false
+      }
+    ]
+  }
+}

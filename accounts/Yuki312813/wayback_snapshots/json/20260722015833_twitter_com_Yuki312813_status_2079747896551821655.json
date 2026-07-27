@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079397356940984820",
+    "created_at": "2026-07-22T01:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T02:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079747896551821655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769077710637375488",
+          "start": 0,
+          "username": "Overdose_BBC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079747896551821655",
+    "in_reply_to_user_id": "1769077710637375488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079397356940984820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_BBC 药物的过量使人欣快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079397356940984820",
+        "created_at": "2026-07-22T01:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079747896551821655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769077710637375488",
+              "start": 0,
+              "username": "Overdose_BBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079747896551821655",
+        "in_reply_to_user_id": "1769077710637375488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079397356940984820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_BBC 药物的过量使人欣快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769077710637375488",
+        "conversation_id": "2079397356940984820",
+        "created_at": "2026-07-21T02:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079397356940984820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079397356940984820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 570,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物的发现被人滥用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079722649282891777/Z1WbYktU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 255,
+          "like_count": 4434,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 3429
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:06:21.000Z",
+        "description": "",
+        "id": "1769077710637375488",
+        "name": "kanaiilq",
+        "pinned_tweet_id": "2052088814404051447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009685139513573377/zG1-j_tN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 436,
+          "like_count": 1965,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1007
+        },
+        "url": "",
+        "username": "Overdose_BBC",
+        "verified": false
+      }
+    ]
+  }
+}

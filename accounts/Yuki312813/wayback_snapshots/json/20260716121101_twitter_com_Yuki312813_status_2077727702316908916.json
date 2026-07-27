@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2077727702316908916",
+    "created_at": "2026-07-16T12:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077727702316908916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2058029942198374400",
+          "start": 3,
+          "username": "yudia666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077727702316908916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077678238621692333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yudia666: 别人:加巴喷丁类 右美沙芬 苯二氮卓类 读品\n我:感康 胶水 碘伏 淀粉片\n就很😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2077727702316908916",
+        "created_at": "2026-07-16T12:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077727702316908916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2058029942198374400",
+              "start": 3,
+              "username": "yudia666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077727702316908916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077678238621692333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yudia666: 别人:加巴喷丁类 右美沙芬 苯二氮卓类 读品\n我:感康 胶水 碘伏 淀粉片\n就很😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058029942198374400",
+        "conversation_id": "2077678238621692333",
+        "created_at": "2026-07-16T08:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077678238621692333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077678238621692333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 564,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人:加巴喷丁类 右美沙芬 苯二氮卓类 读品\n我:感康 胶水 碘伏 淀粉片\n就很😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2077261658754343013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 122,
+          "like_count": 3081,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2718
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者 139",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuda21436",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuda21436",
+                "start": 0,
+                "url": "https://t.co/BUKnKIH0FA"
+              }
+            ]
+          }
+        },
+        "id": "2058029942198374400",
+        "location": "القاعدة العامة للدولة الإسلامي",
+        "name": "𝖞𝖚𝖉𝖆",
+        "pinned_tweet_id": "2071924273778921875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 154,
+          "like_count": 15769,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1507
+        },
+        "url": "https://t.co/BUKnKIH0FA",
+        "username": "yudia666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080094150725365761",
+    "created_at": "2026-07-23T00:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T01:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080094150725365761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057008314320343040",
+          "start": 3,
+          "username": "Yuu0v0ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080094150725365761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080017355216687225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuu0v0ww: 我发誓下辈子一定要当健全人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080094150725365761",
+        "created_at": "2026-07-23T00:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080094150725365761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057008314320343040",
+              "start": 3,
+              "username": "Yuu0v0ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080094150725365761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080017355216687225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuu0v0ww: 我发誓下辈子一定要当健全人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057008314320343040",
+        "conversation_id": "2080017355216687225",
+        "created_at": "2026-07-22T19:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080017355216687225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080017355216687225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发誓下辈子一定要当健全人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 268,
+          "like_count": 4554,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 3511
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T08:00:44.000Z",
+        "description": "我只是一个过客，从你的世界路过",
+        "id": "2057008314320343040",
+        "location": "天空",
+        "name": "Misaki💕",
+        "pinned_tweet_id": "2065954926178824384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070588102058639360/21RQbOzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 22,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "Yuu0v0ww",
+        "verified": false
+      }
+    ]
+  }
+}

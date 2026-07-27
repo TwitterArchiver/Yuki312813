@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078857002160390565",
+    "created_at": "2026-07-20T00:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T01:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079004410500223340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908630026012004353",
+          "start": 0,
+          "username": "Oscxiar_0716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079004410500223340",
+    "in_reply_to_user_id": "1908630026012004353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078857002160390565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oscxiar_0716 系度喵喵来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_2078856991355883520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmVa1ya0AA1iyy.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078857002160390565",
+        "created_at": "2026-07-20T00:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079004410500223340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908630026012004353",
+              "start": 0,
+              "username": "Oscxiar_0716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079004410500223340",
+        "in_reply_to_user_id": "1908630026012004353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078857002160390565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oscxiar_0716 系度喵喵来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078856991355883520"
+          ]
+        },
+        "author_id": "1908630026012004353",
+        "conversation_id": "2078857002160390565",
+        "created_at": "2026-07-19T14:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078857002160390565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLjU3CbAwF",
+              "end": 36,
+              "expanded_url": "https://x.com/Oscxiar_0716/status/2078857002160390565/photo/1",
+              "media_key": "3_2078856991355883520",
+              "start": 13,
+              "url": "https://t.co/qLjU3CbAwF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078857002160390565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完全是我喜欢的类型啊喵… https://t.co/qLjU3CbAwF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 208,
+          "like_count": 3839,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3079
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-05T21:17:39.000Z",
+        "description": "蓝调，衰弱的人生，宽恕人类三秒钟 ✝️「我灵歌唱，赞美救主我神」「若不计较，就一次痛快燃烧」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oscxiaremax",
+                "end": 23,
+                "expanded_url": "https://t.me/Oscxiaremax",
+                "start": 0,
+                "url": "https://t.co/ArtAUcmE5i"
+              }
+            ]
+          }
+        },
+        "id": "1908630026012004353",
+        "location": "法兰西第五共和国",
+        "name": "玛非斯🦋",
+        "pinned_tweet_id": "1915064949577334911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908630471770091521/VfJHXLVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 458,
+          "like_count": 2514,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1456
+        },
+        "url": "https://t.co/ArtAUcmE5i",
+        "username": "Oscxiar_0716",
+        "verified": false
+      }
+    ]
+  }
+}

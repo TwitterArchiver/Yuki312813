@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080955087091110075",
+    "created_at": "2026-07-26T00:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T01:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081172579977465903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2067599818109984768",
+          "start": 0,
+          "username": "woapmpble"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081172579977465903",
+    "in_reply_to_user_id": "2067599818109984768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080955087091110075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woapmpble 😨小心一些啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_2080955022238683136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEJkT4aEAAmtlI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1126,
+        "media_key": "3_2080955041377296384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEJlbLaIAAS5zr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080955087091110075",
+        "created_at": "2026-07-26T00:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081172579977465903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067599818109984768",
+              "start": 0,
+              "username": "woapmpble"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081172579977465903",
+        "in_reply_to_user_id": "2067599818109984768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080955087091110075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woapmpble 😨小心一些啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080955022238683136",
+            "3_2080955041377296384"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080955087091110075",
+        "created_at": "2026-07-25T09:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080955087091110075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/48u4LvW8ht",
+              "end": 55,
+              "expanded_url": "https://x.com/woapmpble/status/2080955087091110075/photo/1",
+              "media_key": "3_2080955022238683136",
+              "start": 32,
+              "url": "https://t.co/48u4LvW8ht"
+            },
+            {
+              "display_url": "pic.x.com/48u4LvW8ht",
+              "end": 55,
+              "expanded_url": "https://x.com/woapmpble/status/2080955087091110075/photo/1",
+              "media_key": "3_2080955041377296384",
+              "start": 32,
+              "url": "https://t.co/48u4LvW8ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080955087091110075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很不爽所以发，我做了几手准备，all fake 假的，化妆特效 https://t.co/48u4LvW8ht"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 286,
+          "like_count": 4777,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3616
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 129,
+          "like_count": 2850,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

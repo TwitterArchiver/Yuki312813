@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080215877904224406",
+    "created_at": "2026-07-23T09:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080221094137540660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056307790264590336",
+          "start": 0,
+          "username": "dooaisuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080221094137540660",
+    "in_reply_to_user_id": "2056307790264590336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080215877904224406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dooaisuan 那还说啥了，耍起嘛耍起🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080215877904224406",
+        "created_at": "2026-07-23T09:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080221094137540660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056307790264590336",
+              "start": 0,
+              "username": "dooaisuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080221094137540660",
+        "in_reply_to_user_id": "2056307790264590336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080215877904224406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dooaisuan 那还说啥了，耍起嘛耍起🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056307790264590336",
+        "conversation_id": "2080215877904224406",
+        "created_at": "2026-07-23T08:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080215877904224406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080215877904224406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "金刚烷胺真是个让人又爱又恨。幻觉很好玩 半衰期真的难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 276,
+          "like_count": 4679,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3551
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-18T09:36:23.000Z",
+        "description": "又封号了  💊🔪🩸 最近爱发伤感文案\n爱人@c10n3_f\n老婆3.0 @lyxz738\n喜欢的人@xxxixixmwt @boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "lyxz738"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "xxxixixmwt"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "boqiaoahm4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 0,
+                "url": "https://t.co/u5ZQlDChqF"
+              }
+            ]
+          }
+        },
+        "id": "2056307790264590336",
+        "name": "小酸3.0 （巡回好友）",
+        "pinned_tweet_id": "2080218564511023143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079409125084295168/6KQZscEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 86,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/u5ZQlDChqF",
+        "username": "dooaisuan",
+        "verified": false
+      }
+    ]
+  }
+}

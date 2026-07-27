@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079424334628876480",
+    "created_at": "2026-07-21T08:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T09:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079484361368379661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1358075144900464640",
+          "start": 0,
+          "username": "Yukii11T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079484361368379661",
+    "in_reply_to_user_id": "1358075144900464640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079424334628876480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukii11T 嗯"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079424334628876480].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079424334628876480",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079424334628876480"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079424334628876480",
+        "created_at": "2026-07-21T08:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079484361368379661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1358075144900464640",
+              "start": 0,
+              "username": "Yukii11T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079484361368379661",
+        "in_reply_to_user_id": "1358075144900464640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079424334628876480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukii11T 嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 238,
+          "like_count": 4215,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3284
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-06T15:28:51.000Z",
+        "description": "明天不是世界末日",
+        "id": "1358075144900464640",
+        "name": "7soul",
+        "pinned_tweet_id": "2032244455596773647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822689100681678848/6v0P8vXn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 128,
+          "like_count": 2079,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "Yukii11T",
+        "verified": false
+      }
+    ]
+  }
+}

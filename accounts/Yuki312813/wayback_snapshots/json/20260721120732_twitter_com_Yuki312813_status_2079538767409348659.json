@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079468224564068807",
+    "created_at": "2026-07-21T12:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079538767409348659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056307790264590336",
+          "start": 0,
+          "username": "dooaisuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079538767409348659",
+    "in_reply_to_user_id": "2056307790264590336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079468224564068807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dooaisuan 马斯克求你对这个天使好一点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079468189055102976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvBTOpasAAKo9P.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079468224564068807",
+        "created_at": "2026-07-21T12:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079538767409348659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056307790264590336",
+              "start": 0,
+              "username": "dooaisuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079538767409348659",
+        "in_reply_to_user_id": "2056307790264590336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079468224564068807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dooaisuan 马斯克求你对这个天使好一点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079468189055102976"
+          ]
+        },
+        "author_id": "2056307790264590336",
+        "conversation_id": "2079468224564068807",
+        "created_at": "2026-07-21T07:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079468224564068807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6HhUzhOARp",
+              "end": 82,
+              "expanded_url": "https://x.com/dooaisuan/status/2079468224564068807/photo/1",
+              "media_key": "3_2079468189055102976",
+              "start": 59,
+              "url": "https://t.co/6HhUzhOARp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079468224564068807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我好感动都是我的好盆友最先过来 想哭 看到你们还好好的真的好感动我们几个一定要好好的呀 我的炸玉网警岐哥哥🥹🥹🥹 https://t.co/6HhUzhOARp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 241,
+          "like_count": 4226,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3292
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-18T09:36:23.000Z",
+        "description": "又封号了 \n爱人@c10n3_f\n老婆3.0 @lyxz738\n喜欢的人@xxxixixmwt @boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 31,
+                "start": 23,
+                "username": "lyxz738"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "xxxixixmwt"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "boqiaoahm4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 0,
+                "url": "https://t.co/u5ZQlDChqF"
+              }
+            ]
+          }
+        },
+        "id": "2056307790264590336",
+        "name": "小酸3.0 （巡回好友）",
+        "pinned_tweet_id": "2079410645326557204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079409125084295168/6KQZscEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 57,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/u5ZQlDChqF",
+        "username": "dooaisuan",
+        "verified": false
+      }
+    ]
+  }
+}

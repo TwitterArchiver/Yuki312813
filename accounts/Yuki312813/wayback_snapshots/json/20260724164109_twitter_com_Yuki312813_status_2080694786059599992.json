@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080691289025044670",
+    "created_at": "2026-07-24T16:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080694786059599992"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080694786059599992",
+    "in_reply_to_user_id": "2008420775204896768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080694443183620590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "订正：对我平常与大家的互动两面三刀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080691289025044670",
+        "created_at": "2026-07-24T16:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080694786059599992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080694786059599992",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080694443183620590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "订正：对我平常与大家的互动两面三刀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080691289025044670",
+        "created_at": "2026-07-24T16:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080694443183620590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080694443183620590",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "就让我整点烟，最后就是我自身的原因以及一下的为数不多的意识就是只剩早上还八点多久起来发现不对劲，13t的鸡尘怎么可能是这个体感，是我自己没做好准备跑出门后又被送回来这样搞出这种事情，一路没有任何清晰记忆跑出去被整了一次说实话我现在才从药效里出来，我也大概理解部分朋友对我两面三刀的样子"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080691289025044670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就让我整点烟，最后就是我自身的原因以及一下的为数不多的意识就是只剩早上还八点多久起来发现不对劲，13t的鸡尘怎么可能是这个体感，是我自己没做好准备跑出门后又被送回来这样搞出这种事情，一路没有任何清晰记忆跑出去被整了一次说实话我现在才从药效里出来，我也大概理解部分朋友对我两面三刀的样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 281,
+          "like_count": 4731,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3578
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

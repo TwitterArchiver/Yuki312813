@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080075892286492684",
+    "created_at": "2026-07-22T23:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T00:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080080269567053898"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080080269567053898",
+    "in_reply_to_user_id": "2008420775204896768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080075892286492684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "躺到昨晚八九点开始清醒期间跟朋友聊天的时候不知道什么原理居然自动解离了几次🤔到现在整个人一直都是麻木的状态和吸了后18小时左右差不多，但吸的肯定比晚安好吃，这个清醒时间太短半衰期太长了有点折磨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080075892286492684",
+        "created_at": "2026-07-22T23:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080080269567053898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080080269567053898",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080075892286492684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "躺到昨晚八九点开始清醒期间跟朋友聊天的时候不知道什么原理居然自动解离了几次🤔到现在整个人一直都是麻木的状态和吸了后18小时左右差不多，但吸的肯定比晚安好吃，这个清醒时间太短半衰期太长了有点折磨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080075892286492684",
+        "created_at": "2026-07-22T23:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080075892286492684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080075892286492684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我待会再试试有耐受的鸡尘是什么样的\n昨天服药后两小时开始感觉有什么东西在眼睛里飞）黑影？，这个解离爽感窗口期好少，视觉会持续性流动形变且我看见了头像活过来的幻觉，他们真的是会动的，这个时候还能勉强互动但大概在过半个多小时之后我的意识就被夺走了，接下来就是呓语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079722649282891777/Z1WbYktU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 266,
+          "like_count": 4539,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 3498
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

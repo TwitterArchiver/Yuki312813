@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078552210800279711",
+    "created_at": "2026-07-18T22:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T23:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078608376976511392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2068709144853708800",
+          "start": 0,
+          "username": "LDxxxDADA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078608376976511392",
+    "in_reply_to_user_id": "2068709144853708800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078552210800279711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LDxxxDADA 设置里找账号资料修改页"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078552210800279711",
+        "created_at": "2026-07-18T22:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T23:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078608376976511392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2068709144853708800",
+              "start": 0,
+              "username": "LDxxxDADA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078608376976511392",
+        "in_reply_to_user_id": "2068709144853708800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078552210800279711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LDxxxDADA 设置里找账号资料修改页"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068709144853708800",
+        "conversation_id": "2078552210800279711",
+        "created_at": "2026-07-18T18:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078552210800279711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078552210800279711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "换了一下推特名。谁能告诉我这个推特号咋换好弱智"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 176,
+          "like_count": 3540,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2926
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-21T14:55:11.000Z",
+        "description": "0.5 什么时候才能找到我的妹狗🥲\n乐子人/混沌中立",
+        "id": "2068709144853708800",
+        "name": "ShA_b1_M2",
+        "pinned_tweet_id": "2071935180361932964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122067123220480/C-tgOHc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 87,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "LDxxxDADA",
+        "verified": false
+      }
+    ]
+  }
+}

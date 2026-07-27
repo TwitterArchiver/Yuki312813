@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078787387300127212",
+    "created_at": "2026-07-19T10:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078790790558720135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905299964332544000",
+          "start": 0,
+          "username": "LixuL83526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078790790558720135",
+    "in_reply_to_user_id": "1905299964332544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078789806277214223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LixuL83526 你才是心软的神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078787387300127212",
+        "created_at": "2026-07-19T10:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078790790558720135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905299964332544000",
+              "start": 0,
+              "username": "LixuL83526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078790790558720135",
+        "in_reply_to_user_id": "1905299964332544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078789806277214223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LixuL83526 你才是心软的神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905299964332544000",
+        "conversation_id": "2078787387300127212",
+        "created_at": "2026-07-19T10:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078789806277214223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078789806277214223",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078787387300127212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 是的 我感觉也一样 我性瘾但我老是心软猛猛慈善绿推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 186,
+          "like_count": 3696,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 3012
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-27T16:45:08.000Z",
+        "description": "",
+        "id": "1905299964332544000",
+        "name": "皮特",
+        "pinned_tweet_id": "2078314750187045376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058901431319736320/lux5TMnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 65,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "LixuL83526",
+        "verified": false
+      }
+    ]
+  }
+}

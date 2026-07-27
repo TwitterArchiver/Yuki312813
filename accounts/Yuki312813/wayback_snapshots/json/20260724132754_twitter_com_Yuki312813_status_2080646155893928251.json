@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080365654834823168",
+        "3_2080365654784524288"
+      ],
+      "media_source_tweet_id": [
+        "2080365660702749131",
+        "2080365660702749131"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080646155893928251",
+    "created_at": "2026-07-24T13:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080646155893928251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2059212406451240960",
+          "start": 3,
+          "username": "Cxq6666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ouc5Dm3trh",
+          "end": 45,
+          "expanded_url": "https://x.com/Cxq6666/status/2080365660702749131/photo/1",
+          "media_key": "3_2080365654834823168",
+          "start": 22,
+          "url": "https://t.co/Ouc5Dm3trh"
+        },
+        {
+          "display_url": "pic.x.com/Ouc5Dm3trh",
+          "end": 45,
+          "expanded_url": "https://x.com/Cxq6666/status/2080365660702749131/photo/1",
+          "media_key": "3_2080365654784524288",
+          "start": 22,
+          "url": "https://t.co/Ouc5Dm3trh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080646155893928251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080365660702749131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cxq6666: 普瑞巴林尿检体验 https://t.co/Ouc5Dm3trh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080365654834823168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7xinNaQAAx5mt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2080365654784524288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7xinBawAAT356.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080365654834823168",
+            "3_2080365654784524288"
+          ]
+        },
+        "author_id": "2059212406451240960",
+        "conversation_id": "2080365660702749131",
+        "created_at": "2026-07-23T18:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080365660702749131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ouc5Dm3trh",
+              "end": 32,
+              "expanded_url": "https://x.com/Cxq6666/status/2080365660702749131/photo/1",
+              "media_key": "3_2080365654834823168",
+              "start": 9,
+              "url": "https://t.co/Ouc5Dm3trh"
+            },
+            {
+              "display_url": "pic.x.com/Ouc5Dm3trh",
+              "end": 32,
+              "expanded_url": "https://x.com/Cxq6666/status/2080365660702749131/photo/1",
+              "media_key": "3_2080365654784524288",
+              "start": 9,
+              "url": "https://t.co/Ouc5Dm3trh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080365660702749131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3184,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林尿检体验 https://t.co/Ouc5Dm3trh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080365654834823168",
+            "3_2080365654784524288"
+          ],
+          "media_source_tweet_id": [
+            "2080365660702749131",
+            "2080365660702749131"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080646155893928251",
+        "created_at": "2026-07-24T13:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080646155893928251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2059212406451240960",
+              "start": 3,
+              "username": "Cxq6666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ouc5Dm3trh",
+              "end": 45,
+              "expanded_url": "https://x.com/Cxq6666/status/2080365660702749131/photo/1",
+              "media_key": "3_2080365654834823168",
+              "start": 22,
+              "url": "https://t.co/Ouc5Dm3trh"
+            },
+            {
+              "display_url": "pic.x.com/Ouc5Dm3trh",
+              "end": 45,
+              "expanded_url": "https://x.com/Cxq6666/status/2080365660702749131/photo/1",
+              "media_key": "3_2080365654784524288",
+              "start": 22,
+              "url": "https://t.co/Ouc5Dm3trh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080646155893928251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080365660702749131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cxq6666: 普瑞巴林尿检体验 https://t.co/Ouc5Dm3trh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 280,
+          "like_count": 4705,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3570
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T09:58:33.000Z",
+        "description": "07｜餐券妹｜od｜轻松熊重度依赖\ncn陈弦清 叫我小清就好了 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aryiiii16",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aryiiii16",
+                "start": 0,
+                "url": "https://t.co/1R4XnbJN7q"
+              }
+            ]
+          }
+        },
+        "id": "2059212406451240960",
+        "location": "浙江 🚪20/50",
+        "name": "小清分享普瑞巴林不好体验",
+        "pinned_tweet_id": "2071497448288346609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072964374105649152/USHjrqAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 120,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/1R4XnbJN7q",
+        "username": "Cxq6666",
+        "verified": false
+      }
+    ]
+  }
+}

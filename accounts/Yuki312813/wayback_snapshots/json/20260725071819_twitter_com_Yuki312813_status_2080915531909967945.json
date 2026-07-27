@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080902400538190191",
+    "created_at": "2026-07-25T07:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080915531909967945"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080915531909967945",
+    "in_reply_to_user_id": "2008420775204896768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080902400538190191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "家具确实损坏了，但是更像是搀扶撞击导致的也是把手部位，但身上从初次清醒到3点去买了电解质水后的血痕和血迹以及我在五个社交平台都看见了这件事有存在的痕迹，然后开始进行一些列被害妄想症的操作到我慢慢去找证据到半衰期减退发现精分的幻觉根本不存在逻辑闭环后我才发现其实就只有一个条经历"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080902400538190191",
+        "created_at": "2026-07-25T07:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080915531909967945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080915531909967945",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080902400538190191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家具确实损坏了，但是更像是搀扶撞击导致的也是把手部位，但身上从初次清醒到3点去买了电解质水后的血痕和血迹以及我在五个社交平台都看见了这件事有存在的痕迹，然后开始进行一些列被害妄想症的操作到我慢慢去找证据到半衰期减退发现精分的幻觉根本不存在逻辑闭环后我才发现其实就只有一个条经历"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080902400538190191",
+        "created_at": "2026-07-25T06:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080902400538190191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080902400538190191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好恐怖一直在焦虑惊恐手在颤抖，到现在我都搜不到昨天和前天到底有没有发什么东西，总感觉他们在我身上真的存在过的但是我找不到他们存在的痕迹，一直在找但是没有存在过的迹象，一点钟呼吸抑制呛咳起来后一直没敢睡在是不是有这件事，找到三点钟的去报了警之后这段时间我的记忆才一点点回来太恐怖了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 280,
+          "like_count": 4748,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3604
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

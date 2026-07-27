@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080929308101525612",
+    "created_at": "2026-07-25T08:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080929308101525612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bp01110526/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/bp01110526/status/2080926907588358202",
+          "start": 9,
+          "url": "https://t.co/YsofP0KfL3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080929308101525612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080926907588358202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "💀永远别碰晚安💀 https://t.co/YsofP0KfL3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080929308101525612",
+        "created_at": "2026-07-25T08:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080929308101525612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bp01110526/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/bp01110526/status/2080926907588358202",
+              "start": 9,
+              "url": "https://t.co/YsofP0KfL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080929308101525612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080926907588358202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💀永远别碰晚安💀 https://t.co/YsofP0KfL3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859117911119720448",
+        "conversation_id": "2080926907588358202",
+        "created_at": "2026-07-25T08:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080926907588358202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuki312813/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yuki312813/status/2080924929290096911",
+              "start": 9,
+              "url": "https://t.co/QcHQumrZks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080926907588358202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080924929290096911",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💀永远别碰晚安💀 https://t.co/QcHQumrZks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 282,
+          "like_count": 4749,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3609
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "🚪\n99 纯绿\n199半绿",
+        "id": "1859117911119720448",
+        "location": "日本 東京",
+        "name": "bp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 94,
+          "like_count": 7399,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 4088
+        },
+        "url": "",
+        "username": "bp01110526",
+        "verified": false
+      }
+    ]
+  }
+}

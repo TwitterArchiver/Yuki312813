@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078501206364921935",
+    "created_at": "2026-07-21T02:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079399922151915937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2056401506791026689",
+          "start": 0,
+          "username": "entivv14xiRcrd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079399922151915937",
+    "in_reply_to_user_id": "2056401506791026689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079399398979797008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@entivv14xiRcrd 妈妈妈妈🦉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078501206364921935",
+        "created_at": "2026-07-21T02:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079399922151915937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2056401506791026689",
+              "start": 0,
+              "username": "entivv14xiRcrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079399922151915937",
+        "in_reply_to_user_id": "2056401506791026689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079399398979797008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@entivv14xiRcrd 妈妈妈妈🦉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056401506791026689",
+        "conversation_id": "2078501206364921935",
+        "created_at": "2026-07-21T02:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079399398979797008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079399398979797008",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078501206364921935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 236,
+          "like_count": 4140,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3242
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-18T15:49:48.000Z",
+        "description": "我喜欢温柔的人\n🐼我喜欢熊猫～\n来匿名提问我👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entivv14xirxrd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/entivv14xirxrd",
+                "start": 0,
+                "url": "https://t.co/xm6SjMmQ1w"
+              }
+            ]
+          }
+        },
+        "id": "2056401506791026689",
+        "location": "春",
+        "name": "なみだ",
+        "pinned_tweet_id": "2067093206500884952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079397349437341696/9qutUwYn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 65,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/xm6SjMmQ1w",
+        "username": "entivv14xiRcrd",
+        "verified": false
+      }
+    ]
+  }
+}

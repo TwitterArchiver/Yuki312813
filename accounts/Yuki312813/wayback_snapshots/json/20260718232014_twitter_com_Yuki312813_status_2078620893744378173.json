@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078521312604283108",
+    "created_at": "2026-07-18T23:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T00:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078620893744378173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1745160587292610560",
+          "start": 0,
+          "username": "GabrielFor6287"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078620893744378173",
+    "in_reply_to_user_id": "1745160587292610560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078521312604283108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GabrielFor6287 感觉好忧郁啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2078521303594848256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhkHPbaUAAUVp7.jpg",
+        "width": 2772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078521312604283108",
+        "created_at": "2026-07-18T23:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T00:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078620893744378173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1745160587292610560",
+              "start": 0,
+              "username": "GabrielFor6287"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078620893744378173",
+        "in_reply_to_user_id": "1745160587292610560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078521312604283108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GabrielFor6287 感觉好忧郁啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078521303594848256"
+          ]
+        },
+        "author_id": "1745160587292610560",
+        "conversation_id": "2078521312604283108",
+        "created_at": "2026-07-18T16:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078521312604283108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jNvyZTo8N",
+              "end": 45,
+              "expanded_url": "https://x.com/GabrielFor6287/status/2078521312604283108/photo/1",
+              "media_key": "3_2078521303594848256",
+              "start": 22,
+              "url": "https://t.co/3jNvyZTo8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078521312604283108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 704,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看起来感觉有点奇怪。但是具体是哪又说不出来 https://t.co/3jNvyZTo8N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 177,
+          "like_count": 3559,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2933
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-10T19:08:06.000Z",
+        "description": "屌丝来上网了，欢迎互fo",
+        "id": "1745160587292610560",
+        "location": "250m",
+        "name": "屑鱼屑屑",
+        "pinned_tweet_id": "1745161003019501957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005945705328959489/htAyuPqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 182,
+          "like_count": 2515,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "GabrielFor6287",
+        "verified": false
+      }
+    ]
+  }
+}

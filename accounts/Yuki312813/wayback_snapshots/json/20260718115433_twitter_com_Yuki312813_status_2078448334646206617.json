@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078447953870557184"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078448334646206617",
+    "created_at": "2026-07-18T11:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078448334646206617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/snuxGSD3XC",
+          "end": 44,
+          "expanded_url": "https://x.com/Yuki312813/status/2078448334646206617/video/1",
+          "media_key": "13_2078447953870557184",
+          "start": 21,
+          "url": "https://t.co/snuxGSD3XC"
+        },
+        {
+          "display_url": "x.com/1212s1212bs124…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/1212s1212bs1242/status/2078303971131986279",
+          "start": 45,
+          "url": "https://t.co/37Mn5iBCO4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078448334646206617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078303971131986279",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已完成今日12抽烟比赛，刚起床没洗头致歉 https://t.co/snuxGSD3XC https://t.co/37Mn5iBCO4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33850,
+        "height": 1280,
+        "media_key": "13_2078447953870557184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078447953870557184/img/N8nuafk-J_-zxzfw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078447953870557184/vid/avc1/320x568/jKt-GPUvVwg4pIPw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078447953870557184/vid/avc1/480x852/Z3n9yK1RfTICW7pi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078447953870557184/vid/avc1/720x1280/VaBErLQManfVTlv2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078447953870557184/pl/c3R_4lTS1rWZbxZm.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 42597,
+        "height": 1280,
+        "media_key": "7_2078303919785336832",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2078303919785336832/pu/img/KXweDbL837W-QK9S.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078303919785336832/pu/vid/avc1/320x568/b5rW3WwJpyv5Do1Y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078303919785336832/pu/vid/avc1/480x852/MwPj4wk4VBNnH4qY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078303919785336832/pu/vid/avc1/720x1280/3Pk5hK0fCBBZXyq9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2078303919785336832/pu/pl/uuUaMtaOlGtk3eAz.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078447953870557184"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078448334646206617",
+        "created_at": "2026-07-18T11:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078448334646206617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/snuxGSD3XC",
+              "end": 44,
+              "expanded_url": "https://x.com/Yuki312813/status/2078448334646206617/video/1",
+              "media_key": "13_2078447953870557184",
+              "start": 21,
+              "url": "https://t.co/snuxGSD3XC"
+            },
+            {
+              "display_url": "x.com/1212s1212bs124…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/1212s1212bs1242/status/2078303971131986279",
+              "start": 45,
+              "url": "https://t.co/37Mn5iBCO4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078448334646206617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078303971131986279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已完成今日12抽烟比赛，刚起床没洗头致歉 https://t.co/snuxGSD3XC https://t.co/37Mn5iBCO4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078303919785336832"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2078303971131986279",
+        "created_at": "2026-07-18T02:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078303971131986279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWM2pPHVBn",
+              "end": 32,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2078303971131986279/video/1",
+              "media_key": "7_2078303919785336832",
+              "start": 9,
+              "url": "https://t.co/qWM2pPHVBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078303971131986279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日大赛（抽烟） https://t.co/qWM2pPHVBn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 162,
+          "like_count": 3443,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 2884
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b/欢迎跟我谈论现象学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 929,
+          "like_count": 17188,
+          "listed_count": 1,
+          "media_count": 1058,
+          "tweet_count": 10374
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

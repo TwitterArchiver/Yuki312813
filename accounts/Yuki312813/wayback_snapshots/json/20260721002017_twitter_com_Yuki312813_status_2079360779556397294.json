@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078940953616781338",
+    "created_at": "2026-07-21T00:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079360779556397294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824282702599839745",
+          "start": 0,
+          "username": "F1rstk1nng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079360779556397294",
+    "in_reply_to_user_id": "1824282702599839745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079360425477702007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@F1rstk1nng 真的有😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078940953616781338",
+        "created_at": "2026-07-21T00:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079360779556397294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824282702599839745",
+              "start": 0,
+              "username": "F1rstk1nng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079360779556397294",
+        "in_reply_to_user_id": "1824282702599839745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079360425477702007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@F1rstk1nng 真的有😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824282702599839745",
+        "conversation_id": "2078940953616781338",
+        "created_at": "2026-07-21T00:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079360425477702007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079360425477702007",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078940953616781338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 扫了一下吓哭了我操。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 236,
+          "like_count": 4097,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3220
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-16T03:11:17.000Z",
+        "description": "ACAね最高 Nbuna最高/ヨルシカ/ずっと真夜中でいいのに/isfp/性别pr80/tele梦男/vrc/喜欢聪明的人/不o不割不抽不喝嗯对/无需在意我的帖文/如有冒犯对不起 快和我fo ただ花が降るだけ晴れり 今、春吹雪.",
+        "id": "1824282702599839745",
+        "name": "不快乐海胆栗子君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030806782327881728/PvdheVL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 44,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "F1rstk1nng",
+        "verified": false
+      }
+    ]
+  }
+}

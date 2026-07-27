@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078164198706626722",
+    "created_at": "2026-07-18T15:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078502227577291262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1751584887738716160",
+          "start": 0,
+          "username": "8964yekatinez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078502227577291262",
+    "in_reply_to_user_id": "1751584887738716160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078500847873650720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964yekatinez 岐哥已经从药效里清醒了🥰谢谢你喔我也爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078164198706626722",
+        "created_at": "2026-07-18T15:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078502227577291262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1751584887738716160",
+              "start": 0,
+              "username": "8964yekatinez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078502227577291262",
+        "in_reply_to_user_id": "1751584887738716160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078500847873650720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964yekatinez 岐哥已经从药效里清醒了🥰谢谢你喔我也爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751584887738716160",
+        "conversation_id": "2078164198706626722",
+        "created_at": "2026-07-18T15:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078500847873650720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078500847873650720",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078164198706626722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 岐哥别哭了我爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 169,
+          "like_count": 3511,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2920
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T12:36:02.000Z",
+        "description": "=怜/逃生舱@emiri7_/杯子@yu_huacs/心肝@SmoggyO_o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "emiri7_"
+              },
+              {
+                "end": 26,
+                "start": 17,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "SmoggyO_o"
+              }
+            ]
+          }
+        },
+        "id": "1751584887738716160",
+        "location": "宇宙",
+        "name": "emrio，我已成神，俗人勿扰。",
+        "pinned_tweet_id": "1884115787520303208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076350463696572416/sJae7a1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 266,
+          "like_count": 1625,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1621
+        },
+        "url": "",
+        "username": "8964yekatinez",
+        "verified": false
+      }
+    ]
+  }
+}

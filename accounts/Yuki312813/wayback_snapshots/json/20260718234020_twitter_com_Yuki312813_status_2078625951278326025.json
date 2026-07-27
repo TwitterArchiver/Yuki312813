@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078413292444561753",
+    "created_at": "2026-07-18T23:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T00:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078625951278326025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1629877998148042757",
+          "start": 0,
+          "username": "99905230523aol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078625951278326025",
+    "in_reply_to_user_id": "1629877998148042757",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078413292444561753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@99905230523aol 保持富态🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2078413288963268608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgB39kbYAAiViU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078413292444561753",
+        "created_at": "2026-07-18T23:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T00:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078625951278326025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1629877998148042757",
+              "start": 0,
+              "username": "99905230523aol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078625951278326025",
+        "in_reply_to_user_id": "1629877998148042757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078413292444561753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@99905230523aol 保持富态🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078413288963268608"
+          ]
+        },
+        "author_id": "1629877998148042757",
+        "conversation_id": "2078413292444561753",
+        "created_at": "2026-07-18T09:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078413292444561753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FV5OscaBet",
+              "end": 34,
+              "expanded_url": "https://x.com/99905230523aol/status/2078413292444561753/photo/1",
+              "media_key": "3_2078413288963268608",
+              "start": 11,
+              "url": "https://t.co/FV5OscaBet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078413292444561753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 522,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也是用上钞票吸管了 https://t.co/FV5OscaBet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 177,
+          "like_count": 3573,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2939
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-26T16:16:23.000Z",
+        "description": "一个激进分子，加速主义，后性别主义\n支持致幻剂合法化，大麻合法化\n/双性恋\n高功能孤独症谱系/支持神经多样性运动",
+        "id": "1629877998148042757",
+        "location": "激进主义分子",
+        "name": "无政府主义联盟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061047941188743168/OTSCZ730_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 73,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "99905230523aol",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078803889650839693",
+    "created_at": "2026-07-19T21:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T22:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078950091251937724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905524123889270789",
+          "start": 0,
+          "username": "xiuzhifu03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078950091251937724",
+    "in_reply_to_user_id": "1905524123889270789",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078885901116268990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiuzhifu03 一修尼！。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078803889650839693",
+        "created_at": "2026-07-19T21:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T22:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078950091251937724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905524123889270789",
+              "start": 0,
+              "username": "xiuzhifu03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078950091251937724",
+        "in_reply_to_user_id": "1905524123889270789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078885901116268990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiuzhifu03 一修尼！。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905524123889270789",
+        "conversation_id": "2078803889650839693",
+        "created_at": "2026-07-19T16:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078885901116268990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078885901116268990",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078803889650839693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 一起逃进药效里吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 204,
+          "like_count": 3784,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3057
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-28T07:35:35.000Z",
+        "description": "友跨｜od｜自伤🔪｜双相",
+        "id": "1905524123889270789",
+        "name": "休の符",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078447042624712704/qzT5mZM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 56,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "xiuzhifu03",
+        "verified": false
+      }
+    ]
+  }
+}

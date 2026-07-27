@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079165966743904355",
+    "created_at": "2026-07-20T11:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079169526600446292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1745160587292610560",
+          "start": 0,
+          "username": "GabrielFor6287"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079169526600446292",
+    "in_reply_to_user_id": "1745160587292610560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079165966743904355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GabrielFor6287 看得出来外面很热，头发都发光了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2956,
+        "media_key": "3_2079165953083129856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNquax6bQAACfVJ.jpg",
+        "width": 2770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079165966743904355",
+        "created_at": "2026-07-20T11:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079169526600446292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1745160587292610560",
+              "start": 0,
+              "username": "GabrielFor6287"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079169526600446292",
+        "in_reply_to_user_id": "1745160587292610560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079165966743904355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GabrielFor6287 看得出来外面很热，头发都发光了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079165953083129856"
+          ]
+        },
+        "author_id": "1745160587292610560",
+        "conversation_id": "2079165966743904355",
+        "created_at": "2026-07-20T11:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079165966743904355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntGano30CV",
+              "end": 35,
+              "expanded_url": "https://x.com/GabrielFor6287/status/2079165966743904355/photo/1",
+              "media_key": "3_2079165953083129856",
+              "start": 12,
+              "url": "https://t.co/ntGano30CV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079165966743904355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在外面豪了一天我就这样 https://t.co/ntGano30CV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 230,
+          "like_count": 4044,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 3179
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-10T19:08:06.000Z",
+        "description": "屌丝来上网了，欢迎互fo",
+        "id": "1745160587292610560",
+        "location": "250m",
+        "name": "屑鱼屑屑",
+        "pinned_tweet_id": "2077680598806900762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005945705328959489/htAyuPqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 216,
+          "like_count": 2969,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 609
+        },
+        "url": "",
+        "username": "GabrielFor6287",
+        "verified": false
+      }
+    ]
+  }
+}

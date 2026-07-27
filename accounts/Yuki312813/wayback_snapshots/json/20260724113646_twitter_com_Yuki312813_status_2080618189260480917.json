@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080227467944415695",
+    "created_at": "2026-07-24T11:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080618189260480917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2056401506791026689",
+          "start": 0,
+          "username": "entivv14xiRcrd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080618189260480917",
+    "in_reply_to_user_id": "2056401506791026689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080312905892044859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@entivv14xiRcrd 最后一次吃，太恐怖了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080227467944415695",
+        "created_at": "2026-07-24T11:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080618189260480917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2056401506791026689",
+              "start": 0,
+              "username": "entivv14xiRcrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080618189260480917",
+        "in_reply_to_user_id": "2056401506791026689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080312905892044859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@entivv14xiRcrd 最后一次吃，太恐怖了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056401506791026689",
+        "conversation_id": "2080227467944415695",
+        "created_at": "2026-07-23T15:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080312905892044859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080312905892044859",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080227467944415695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 不要变成鸡了。。我吃了12t第二天吐了一整天ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 277,
+          "like_count": 4702,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3570
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-18T15:49:48.000Z",
+        "description": "我喜欢温柔的人\n🐼我喜欢熊猫～\n来匿名提问我👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entivv14xirxrd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/entivv14xirxrd",
+                "start": 0,
+                "url": "https://t.co/xm6SjMmQ1w"
+              }
+            ]
+          }
+        },
+        "id": "2056401506791026689",
+        "location": "春",
+        "name": "なみだ",
+        "pinned_tweet_id": "2067093206500884952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079397349437341696/9qutUwYn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 70,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/xm6SjMmQ1w",
+        "username": "entivv14xiRcrd",
+        "verified": false
+      }
+    ]
+  }
+}

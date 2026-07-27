@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078862667016753621",
+    "created_at": "2026-07-20T02:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079034796919894321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1740684524646797312",
+          "start": 0,
+          "username": "juunisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079034796919894321",
+    "in_reply_to_user_id": "1740684524646797312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078862667016753621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juunisuki 最终决战。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2078862644107444224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmaj37agAA4c6W.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078862667016753621",
+        "created_at": "2026-07-20T02:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079034796919894321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1740684524646797312",
+              "start": 0,
+              "username": "juunisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079034796919894321",
+        "in_reply_to_user_id": "1740684524646797312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078862667016753621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juunisuki 最终决战。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078862644107444224"
+          ]
+        },
+        "author_id": "1740684524646797312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2078862667016753621",
+        "created_at": "2026-07-19T15:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078862667016753621"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 55,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbPGf0YLNS",
+              "end": 87,
+              "expanded_url": "https://x.com/juunisuki/status/2078862667016753621/photo/1",
+              "media_key": "3_2078862644107444224",
+              "start": 64,
+              "url": "https://t.co/XbPGf0YLNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078862667016753621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 573,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "日本时间已经到达7.20日了，所以我会首先在海外平台发布我的Cosplay，我虽然长的不好看，但希望你们喜欢\n#素晴らしき日々 https://t.co/XbPGf0YLNS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 210,
+          "like_count": 3882,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3102
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-29T10:41:55.000Z",
+        "description": "我的名字是十二，今年十八岁，中国国籍，我很喜欢ACAね的音乐，可以来找我交友。",
+        "id": "1740684524646797312",
+        "location": "神奈川",
+        "name": "十...十二？",
+        "pinned_tweet_id": "2032726867619578152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831494679965396992/ZrCnpa58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 258,
+          "like_count": 1834,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "juunisuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078363704543125880",
+    "created_at": "2026-07-18T10:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078433820915724362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2052769214126067722",
+          "start": 0,
+          "username": "asuka_shinji_67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078433820915724362",
+    "in_reply_to_user_id": "2052769214126067722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078363704543125880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asuka_shinji_67 好人还是多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078363704543125880",
+        "created_at": "2026-07-18T10:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078433820915724362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2052769214126067722",
+              "start": 0,
+              "username": "asuka_shinji_67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078433820915724362",
+        "in_reply_to_user_id": "2052769214126067722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078363704543125880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asuka_shinji_67 好人还是多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052769214126067722",
+        "conversation_id": "2078363704543125880",
+        "created_at": "2026-07-18T06:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078363704543125880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078363704543125880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是推友好🤤都很温柔喵\n之前认为推特上面全是见证区🤓\n是我狭隘了🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 161,
+          "like_count": 3408,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 2869
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-08T15:15:15.000Z",
+        "description": "不知道怎么写啊🤤",
+        "id": "2052769214126067722",
+        "location": "Osaka ",
+        "name": "关注TF喵🥵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078022323668758529/gQ9eeTqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 56,
+          "like_count": 2763,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "asuka_shinji_67",
+        "verified": false
+      }
+    ]
+  }
+}

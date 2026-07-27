@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078750365235990856",
+    "created_at": "2026-07-19T07:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T08:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078750365235990856"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078750365235990856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然说谨记用法用量，上网快乐冲浪\n但是我感觉超过一天以上没有过量用点什么的话整个人会越来越变得麻木空洞没有动力虽然我觉得心理需求占了绝大多数，可干啥都没有兴趣，吃饭也好出门也好上网也好，和药效带来的空虚感不同，至少它真的会有幸福感，真当回归现实之后会发现活的这么累哪儿有什么幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078750365235990856",
+        "created_at": "2026-07-19T07:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078750365235990856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078750365235990856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然说谨记用法用量，上网快乐冲浪\n但是我感觉超过一天以上没有过量用点什么的话整个人会越来越变得麻木空洞没有动力虽然我觉得心理需求占了绝大多数，可干啥都没有兴趣，吃饭也好出门也好上网也好，和药效带来的空虚感不同，至少它真的会有幸福感，真当回归现实之后会发现活的这么累哪儿有什么幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "C栋天台",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 182,
+          "like_count": 3639,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 2971
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

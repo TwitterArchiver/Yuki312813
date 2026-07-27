@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2078804169259962567",
+    "created_at": "2026-07-19T11:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078804169259962567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2061066746203652100",
+          "start": 3,
+          "username": "Feifeimian8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078804169259962567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078799454942179371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Feifeimian8964: 好结局：\n你的生活被药物填满了。每日吞服的几粒红白色胶囊成为了你无趣人生中唯一的慰藉。你不知疲倦地滥用着药物，普瑞巴林，愈美片，苯乙胺...不需要考虑代价，毕竟你已经没有未来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2078804169259962567",
+        "created_at": "2026-07-19T11:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078804169259962567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2061066746203652100",
+              "start": 3,
+              "username": "Feifeimian8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078804169259962567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078799454942179371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Feifeimian8964: 好结局：\n你的生活被药物填满了。每日吞服的几粒红白色胶囊成为了你无趣人生中唯一的慰藉。你不知疲倦地滥用着药物，普瑞巴林，愈美片，苯乙胺...不需要考虑代价，毕竟你已经没有未来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2078799454942179371",
+        "created_at": "2026-07-19T11:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078799454942179371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thymol_11/stat…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/thymol_11/status/2039191045121196411",
+              "start": 89,
+              "url": "https://t.co/qX5fGTmMF0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078799454942179371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039191045121196411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好结局：\n你的生活被药物填满了。每日吞服的几粒红白色胶囊成为了你无趣人生中唯一的慰藉。你不知疲倦地滥用着药物，普瑞巴林，愈美片，苯乙胺...不需要考虑代价，毕竟你已经没有未来。 https://t.co/qX5fGTmMF0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 187,
+          "like_count": 3711,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 3021
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 65,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 42,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian",
+        "pinned_tweet_id": "2077566204693340340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 143,
+          "like_count": 1170,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 315
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      }
+    ]
+  }
+}

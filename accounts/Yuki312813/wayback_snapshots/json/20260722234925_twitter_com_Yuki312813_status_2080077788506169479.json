@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2080044369613390182",
+    "created_at": "2026-07-22T23:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T00:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080077788506169479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003845262557827072",
+          "start": 0,
+          "username": "lizim493978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080077788506169479",
+    "in_reply_to_user_id": "2003845262557827072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080044369613390182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizim493978 ？？？不死鸟你停下来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_2080044361883283456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN3NU5sbcAAmf9l.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2080044369613390182",
+        "created_at": "2026-07-22T23:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080077788506169479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003845262557827072",
+              "start": 0,
+              "username": "lizim493978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080077788506169479",
+        "in_reply_to_user_id": "2003845262557827072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080044369613390182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizim493978 ？？？不死鸟你停下来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080044361883283456"
+          ]
+        },
+        "author_id": "2003845262557827072",
+        "conversation_id": "2080044369613390182",
+        "created_at": "2026-07-22T21:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080044369613390182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjAEWTu4TX",
+              "end": 47,
+              "expanded_url": "https://x.com/lizim493978/status/2080044369613390182/photo/1",
+              "media_key": "3_2080044361883283456",
+              "start": 24,
+              "url": "https://t.co/kjAEWTu4TX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080044369613390182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去我去买了无痛自杀我来了死不了我直接就炸缸了 https://t.co/kjAEWTu4TX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079722649282891777/Z1WbYktU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 266,
+          "like_count": 4538,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 3497
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-24T15:09:10.000Z",
+        "description": "太阳还会出来吗…",
+        "id": "2003845262557827072",
+        "name": "Dove.",
+        "pinned_tweet_id": "2075103322424607004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074545882113175552/FkKVCOGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 40,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 355
+        },
+        "url": "",
+        "username": "lizim493978",
+        "verified": false
+      }
+    ]
+  }
+}

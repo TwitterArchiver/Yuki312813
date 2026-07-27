@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079532137427222857",
+    "created_at": "2026-07-21T14:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079581716319006977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1596474007775158272",
+          "start": 0,
+          "username": "Shu10oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079581716319006977",
+    "in_reply_to_user_id": "1596474007775158272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079532137427222857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shu10oo 亲爱的怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079532137427222857",
+        "created_at": "2026-07-21T14:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079581716319006977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596474007775158272",
+              "start": 0,
+              "username": "Shu10oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079581716319006977",
+        "in_reply_to_user_id": "1596474007775158272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079532137427222857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shu10oo 亲爱的怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596474007775158272",
+        "conversation_id": "2079532137427222857",
+        "created_at": "2026-07-21T11:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079532137427222857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079532137427222857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来个人杀了我现在立刻马上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 244,
+          "like_count": 4303,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 3337
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-26T12:00:49.000Z",
+        "description": "不安。\n查成分互fo 社交障碍很严重抱歉\n闺蜜@Sssse9uv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "Sssse9uv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kismet90456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kismet90456",
+                "start": 0,
+                "url": "https://t.co/3gj2x8cJ9P"
+              }
+            ]
+          }
+        },
+        "id": "1596474007775158272",
+        "name": "作为不会悲伤的人类",
+        "pinned_tweet_id": "2051460103690449043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053864426764386304/XcegA562_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 123,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/3gj2x8cJ9P",
+        "username": "Shu10oo",
+        "verified": false
+      }
+    ]
+  }
+}

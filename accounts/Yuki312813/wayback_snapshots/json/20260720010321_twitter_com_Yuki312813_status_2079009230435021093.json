@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079009230435021093",
+    "created_at": "2026-07-20T01:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T02:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079009230435021093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2053188363566391296",
+          "start": 3,
+          "username": "ayahuasca8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079009230435021093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078809906380206231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayahuasca8964: 只有借著藥勁才敢說話啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079009230435021093",
+        "created_at": "2026-07-20T01:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079009230435021093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2053188363566391296",
+              "start": 3,
+              "username": "ayahuasca8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079009230435021093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078809906380206231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayahuasca8964: 只有借著藥勁才敢說話啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053188363566391296",
+        "conversation_id": "2078809906380206231",
+        "created_at": "2026-07-19T11:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078809906380206231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078809906380206231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只有借著藥勁才敢說話啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 210,
+          "like_count": 3862,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 3092
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-09T19:00:39.000Z",
+        "description": "死藤水改革歸來，看廣州禁毒土崩瓦解，化學極樂的日子終將到來。",
+        "id": "2053188363566391296",
+        "name": "Aya",
+        "pinned_tweet_id": "2056634860186530096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069508917999353856/8ij5Dnh__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 41,
+          "like_count": 9588,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 945
+        },
+        "url": "",
+        "username": "ayahuasca8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079850898352943393",
+    "created_at": "2026-07-23T01:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T02:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080106319839674430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1782410129012670464",
+          "start": 0,
+          "username": "ANDEL0426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080106319839674430",
+    "in_reply_to_user_id": "1782410129012670464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079850898352943393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ANDEL0426 还把人骗出来杀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079850890782232577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0dXZra0AE2EXO.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079850890744496128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0dXZibAAAKOnh.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079850898352943393",
+        "created_at": "2026-07-23T01:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080106319839674430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1782410129012670464",
+              "start": 0,
+              "username": "ANDEL0426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080106319839674430",
+        "in_reply_to_user_id": "1782410129012670464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079850898352943393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANDEL0426 还把人骗出来杀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079850890782232577",
+            "3_2079850890744496128"
+          ]
+        },
+        "author_id": "1782410129012670464",
+        "conversation_id": "2079850898352943393",
+        "created_at": "2026-07-22T08:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079850898352943393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PiesTWiiBm",
+              "end": 57,
+              "expanded_url": "https://x.com/ANDEL0426/status/2079850898352943393/photo/1",
+              "media_key": "3_2079850890782232577",
+              "start": 34,
+              "url": "https://t.co/PiesTWiiBm"
+            },
+            {
+              "display_url": "pic.x.com/PiesTWiiBm",
+              "end": 57,
+              "expanded_url": "https://x.com/ANDEL0426/status/2079850898352943393/photo/1",
+              "media_key": "3_2079850890744496128",
+              "start": 34,
+              "url": "https://t.co/PiesTWiiBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079850898352943393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1128,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样骗我然后给我发你那个大拇指是吧我操你妈我操你妈操你妈滚恶心猪头 https://t.co/PiesTWiiBm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 268,
+          "like_count": 4587,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 3521
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "生理心理性别女 iiii 非常恶俗\n我的小杯杯@yejiang81658637\n图片都是高p 纯绿🚪45\n推=qq空间 我想发啥就发啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "yejiang81658637"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "location": "海女美术大学",
+        "name": "ADadAD钙",
+        "pinned_tweet_id": "2075438978963239238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077258114861285376/4aDTDNIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 385,
+          "like_count": 1958,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 950
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false
+      }
+    ]
+  }
+}

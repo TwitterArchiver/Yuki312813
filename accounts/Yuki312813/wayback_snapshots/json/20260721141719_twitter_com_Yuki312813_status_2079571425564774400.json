@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079504120764145831",
+    "created_at": "2026-07-21T14:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079571425564774400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060108659385077760",
+          "start": 0,
+          "username": "SakuraAmesaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079571425564774400",
+    "in_reply_to_user_id": "2060108659385077760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079504120764145831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraAmesaki 懂你意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2079504086098173953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvh8tja4AE6iKN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079504120764145831",
+        "created_at": "2026-07-21T14:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079571425564774400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060108659385077760",
+              "start": 0,
+              "username": "SakuraAmesaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079571425564774400",
+        "in_reply_to_user_id": "2060108659385077760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079504120764145831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraAmesaki 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079504086098173953"
+          ]
+        },
+        "author_id": "2060108659385077760",
+        "conversation_id": "2079504120764145831",
+        "created_at": "2026-07-21T09:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079504120764145831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8EDjLXNHCl",
+              "end": 40,
+              "expanded_url": "https://x.com/SakuraAmesaki/status/2079504120764145831/photo/1",
+              "media_key": "3_2079504086098173953",
+              "start": 17,
+              "url": "https://t.co/8EDjLXNHCl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079504120764145831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这组数字让宅宅们想到了什么w～？ https://t.co/8EDjLXNHCl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 242,
+          "like_count": 4281,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 3320
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-28T21:20:23.000Z",
+        "description": "小天使请安！今天有在发病的同时好好照顾自己吗？ 18岁｜心理跨女🏳️‍⚧️，暂时无证无糖，未来可能会做变性手术｜主要玩单机游戏｜选择性回关，主要关注同类和同好｜精神状态不稳定会发些负能量，谨慎关注｜最好的姐姐@LoneStar6072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 104,
+                "username": "LoneStar6072"
+              }
+            ]
+          }
+        },
+        "id": "2060108659385077760",
+        "name": "超绝超可爱诗雨酱",
+        "pinned_tweet_id": "2079504120764145831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067337921745817600/wKeKB8Bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 109,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 530
+        },
+        "url": "",
+        "username": "SakuraAmesaki",
+        "verified": false
+      }
+    ]
+  }
+}
