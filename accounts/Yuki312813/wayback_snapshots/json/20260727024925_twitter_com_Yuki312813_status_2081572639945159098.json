@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081572639945159098",
+    "created_at": "2026-07-27T02:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081572639945159098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/azagombaby/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/azagombaby/status/2081406219881762963",
+          "start": 11,
+          "url": "https://t.co/9fYZaAA9DR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081572639945159098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081406219881762963",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼😂这他妈啥东西啊 https://t.co/9fYZaAA9DR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61196,
+        "height": 1082,
+        "media_key": "13_2081406054336798720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081406054336798720/img/zSMpcyHXqUDlRLYZ.jpg",
+        "public_metrics": {
+          "view_count": 1315320
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081406054336798720/vid/avc1/320x480/g1Y9Ulz3jRSoGZXC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081406054336798720/vid/avc1/480x720/oKV8xdXq60eJuoM9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081406054336798720/vid/avc1/720x1082/bm6frLet4Kvo1hpM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081406054336798720/pl/6ejziKbVdfjf9FkL.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081572639945159098",
+        "created_at": "2026-07-27T02:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081572639945159098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/azagombaby/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/azagombaby/status/2081406219881762963",
+              "start": 11,
+              "url": "https://t.co/9fYZaAA9DR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081572639945159098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081406219881762963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼😂这他妈啥东西啊 https://t.co/9fYZaAA9DR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081406054336798720"
+          ]
+        },
+        "author_id": "1890478416732012544",
+        "conversation_id": "2081406219881762963",
+        "created_at": "2026-07-26T15:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081406219881762963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpk02HckVl",
+              "end": 38,
+              "expanded_url": "https://x.com/azagombaby/status/2081406219881762963/video/1",
+              "media_key": "13_2081406054336798720",
+              "start": 15,
+              "url": "https://t.co/cpk02HckVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081406219881762963",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3886,
+          "impression_count": 2735360,
+          "like_count": 9091,
+          "quote_count": 446,
+          "reply_count": 620,
+          "retweet_count": 704
+        },
+        "reply_settings": "everyone",
+        "text": "Food is ready. https://t.co/cpk02HckVl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 298,
+          "like_count": 4943,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3669
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-14T19:09:25.000Z",
+        "description": "I heal, grow and glow🌸",
+        "id": "1890478416732012544",
+        "name": "Azagom",
+        "pinned_tweet_id": "2081406219881762963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890478536864956416/g6JVLdJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 426,
+          "like_count": 1200,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1713
+        },
+        "url": "",
+        "username": "azagombaby",
+        "verified": true
+      }
+    ]
+  }
+}

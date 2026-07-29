@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081972635517460805",
+    "created_at": "2026-07-28T05:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081972635517460805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2073218216579809280",
+          "start": 3,
+          "username": "mimikosama01"
+        },
+        {
+          "end": 28,
+          "id": "1489034449199190017",
+          "start": 18,
+          "username": "Pigeon_Yi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081972635517460805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081937760542486746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mimikosama01: @Pigeon_Yi 煞笔。我一个月没手冲了怎么没人报导我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081972635517460805",
+        "created_at": "2026-07-28T05:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081972635517460805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2073218216579809280",
+              "start": 3,
+              "username": "mimikosama01"
+            },
+            {
+              "end": 28,
+              "id": "1489034449199190017",
+              "start": 18,
+              "username": "Pigeon_Yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081972635517460805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081937760542486746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mimikosama01: @Pigeon_Yi 煞笔。我一个月没手冲了怎么没人报导我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073218216579809280",
+        "conversation_id": "2081690013516149093",
+        "created_at": "2026-07-28T03:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081937760542486746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489034449199190017",
+              "start": 0,
+              "username": "Pigeon_Yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081937760542486746",
+        "in_reply_to_user_id": "1489034449199190017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2305,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081690013516149093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pigeon_Yi 煞笔。我一个月没手冲了怎么没人报导我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "可以叫我岐哥 之前很傻逼现在很友善 其他的想好了再介绍 事一个一个一个解离鬼\n不混圈子因为我是傻福\n             对不起 谢谢你",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 328,
+          "like_count": 5385,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 3821
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-04T01:33:01.000Z",
+        "description": "苏州家里蹲宅女🥺前世@P3YCpHU4Kv19234",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "P3YCpHU4Kv19234"
+              }
+            ]
+          }
+        },
+        "id": "2073218216579809280",
+        "location": "苏州",
+        "name": "mimiko",
+        "pinned_tweet_id": "2080564967531798575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073218831745728512/HrV90DVp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 93,
+          "like_count": 1426,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "mimikosama01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T00:34:26.000Z",
+        "description": "摄影/绳子/数码P/架子鼓/HAM\n成分复杂，欢迎私信约绳/拍/扩列\n暂时是@jlxc2001的秘书（嗯）\n家养基米：@maoxianACT\n有很多奇怪的技能，全国可飞，偏好长三角\nEN/CN：OK\n日本语学习中（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "jlxc2001"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "maoxianACT"
+              }
+            ]
+          }
+        },
+        "id": "1489034449199190017",
+        "location": "香港/深圳/上海/你心里",
+        "name": "青空夏",
+        "pinned_tweet_id": "2055091696372003241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624302496905830400/dSYbbHpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 953,
+          "like_count": 11352,
+          "listed_count": 5,
+          "media_count": 842,
+          "tweet_count": 4883
+        },
+        "url": "",
+        "username": "Pigeon_Yi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081793904568078557",
+    "created_at": "2026-07-27T17:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081795249593311274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1317689258052710400",
+          "start": 0,
+          "username": "5oke_k29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081795249593311274",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081793904568078557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5oke_k29 耍起嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29000,
+        "height": 720,
+        "media_key": "13_2081793775563923456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081793775563923456/img/VeI1RjYh-h6Is5h7.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081793775563923456/vid/avc1/480x270/ts-EfNM5_xaeSSFk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081793775563923456/vid/avc1/640x360/wuwVdxmaZCjB3Bid.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081793775563923456/vid/avc1/1280x720/6lzH28ouEYKxt_3T.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081793775563923456/pl/By99G_YYfFzysiCn.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081793904568078557",
+        "created_at": "2026-07-27T17:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081795249593311274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081795249593311274",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081793904568078557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 耍起嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081793775563923456"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2081793904568078557",
+        "created_at": "2026-07-27T17:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081793904568078557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bg1eyK0mZ0",
+              "end": 43,
+              "expanded_url": "https://x.com/5oke_k29/status/2081793904568078557/video/1",
+              "media_key": "13_2081793775563923456",
+              "start": 20,
+              "url": "https://t.co/Bg1eyK0mZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081793904568078557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吸点睡觉 我真的很讨厌这刺鼻的辣的感觉 https://t.co/Bg1eyK0mZ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 321,
+          "like_count": 5183,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 3758
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 我没素质别他妈找骂 有多远死多远",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5448,
+          "following_count": 162,
+          "like_count": 984,
+          "listed_count": 11,
+          "media_count": 345,
+          "tweet_count": 2941
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

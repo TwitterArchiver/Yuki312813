@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2081233113615626240"
+      ],
+      "media_source_tweet_id": [
+        "2081233132141916442"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2081685282630558114",
+    "created_at": "2026-07-27T10:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081685282630558114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807121915879841792",
+          "start": 3,
+          "username": "sp1ritdesire"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uDJXbOG6nE",
+          "end": 41,
+          "expanded_url": "https://x.com/hardestgifs/status/2081233132141916442/photo/1",
+          "media_key": "16_2081233113615626240",
+          "start": 18,
+          "url": "https://t.co/uDJXbOG6nE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081685282630558114",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 498
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081343372573257833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sp1ritdesire: https://t.co/uDJXbOG6nE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "16_2081233113615626240",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOIGfW_W8AAa7KE.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOIGfW_W8AAa7KE.mp4"
+          }
+        ],
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2081233113615626240"
+          ]
+        },
+        "author_id": "412997648",
+        "conversation_id": "2081233132141916442",
+        "created_at": "2026-07-26T04:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081233132141916442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4vyiwEFNIu",
+              "end": 23,
+              "expanded_url": "https://x.com/hardestgifs/status/2081233132141916442/photo/1",
+              "media_key": "16_2081233113615626240",
+              "start": 0,
+              "url": "https://t.co/4vyiwEFNIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081233132141916442",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16855,
+          "impression_count": 4464238,
+          "like_count": 155956,
+          "quote_count": 1371,
+          "reply_count": 601,
+          "retweet_count": 25518
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4vyiwEFNIu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2081233113615626240"
+          ],
+          "media_source_tweet_id": [
+            "2081233132141916442"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081685282630558114",
+        "created_at": "2026-07-27T10:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081685282630558114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807121915879841792",
+              "start": 3,
+              "username": "sp1ritdesire"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDJXbOG6nE",
+              "end": 41,
+              "expanded_url": "https://x.com/hardestgifs/status/2081233132141916442/photo/1",
+              "media_key": "16_2081233113615626240",
+              "start": 18,
+              "url": "https://t.co/uDJXbOG6nE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081685282630558114",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 498
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081343372573257833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sp1ritdesire: https://t.co/uDJXbOG6nE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2081233113615626240"
+          ],
+          "media_source_tweet_id": [
+            "2081233132141916442"
+          ]
+        },
+        "author_id": "1807121915879841792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081343372573257833",
+        "created_at": "2026-07-26T11:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081343372573257833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDJXbOG6nE",
+              "end": 23,
+              "expanded_url": "https://x.com/hardestgifs/status/2081233132141916442/photo/1",
+              "media_key": "16_2081233113615626240",
+              "start": 0,
+              "url": "https://t.co/uDJXbOG6nE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081343372573257833",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 485,
+          "impression_count": 123125,
+          "like_count": 4496,
+          "quote_count": 49,
+          "reply_count": 8,
+          "retweet_count": 498
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uDJXbOG6nE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 305,
+          "like_count": 5086,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3706
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T18:40:25.000Z",
+        "description": "",
+        "id": "1807121915879841792",
+        "name": "✧･ﾟ*",
+        "pinned_tweet_id": "2078658696020636035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081665709625470976/xo-Z7QBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 63,
+          "like_count": 4095,
+          "listed_count": 2,
+          "media_count": 855,
+          "tweet_count": 4123
+        },
+        "url": "",
+        "username": "sp1ritdesire",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081355282110878115",
+    "created_at": "2026-07-27T02:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081574681044521471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1805486587666644992",
+          "start": 0,
+          "username": "Akebono__Yohira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081574681044521471",
+    "in_reply_to_user_id": "1805486587666644992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081355282110878115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akebono__Yohira 永远怀念"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2688,
+        "media_key": "3_2081355263500816385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJ1laxbEAEaOgq.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081355282110878115",
+        "created_at": "2026-07-27T02:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081574681044521471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805486587666644992",
+              "start": 0,
+              "username": "Akebono__Yohira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081574681044521471",
+        "in_reply_to_user_id": "1805486587666644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081355282110878115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akebono__Yohira 永远怀念"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081355263500816385"
+          ]
+        },
+        "author_id": "1805486587666644992",
+        "conversation_id": "2081355282110878115",
+        "created_at": "2026-07-26T12:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081355282110878115"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "中推讣告栏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L5MBuIBnL5",
+              "end": 53,
+              "expanded_url": "https://x.com/Akebono__Yohira/status/2081355282110878115/photo/1",
+              "media_key": "3_2081355263500816385",
+              "start": 30,
+              "url": "https://t.co/L5MBuIBnL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081355282110878115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2174,
+          "like_count": 47,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#中推讣告栏\n 死不可怕，死侍凉爽的夏夜，可供人无忧的安眠 https://t.co/L5MBuIBnL5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 298,
+          "like_count": 4945,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3673
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-25T06:22:20.000Z",
+        "description": "又做了，相同的梦。\n避难舱：@Akebono6sqrt249",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Akebono6sqrt249"
+              }
+            ]
+          }
+        },
+        "id": "1805486587666644992",
+        "location": "千島列島",
+        "name": "✱ YOHIRA ✿",
+        "pinned_tweet_id": "2071043134495375663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077414982162243584/1h-fqQpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 3243,
+          "like_count": 22797,
+          "listed_count": 1,
+          "media_count": 524,
+          "tweet_count": 4046
+        },
+        "url": "",
+        "username": "Akebono__Yohira",
+        "verified": false
+      }
+    ]
+  }
+}

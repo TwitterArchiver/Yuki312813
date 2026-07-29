@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081715066169369001",
+    "created_at": "2026-07-27T18:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T19:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081806171829403816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426441673454850051",
+          "start": 0,
+          "username": "SUI20BIUBIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081806171829403816",
+    "in_reply_to_user_id": "1426441673454850051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081715066169369001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SUI20BIUBIU 最礼貌脾气好之人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_2081715057784938496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOO80M7aYAAAWOK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081715066169369001",
+        "created_at": "2026-07-27T18:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081806171829403816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426441673454850051",
+              "start": 0,
+              "username": "SUI20BIUBIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081806171829403816",
+        "in_reply_to_user_id": "1426441673454850051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081715066169369001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SUI20BIUBIU 最礼貌脾气好之人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081715057784938496"
+          ]
+        },
+        "author_id": "1426441673454850051",
+        "conversation_id": "2081715066169369001",
+        "created_at": "2026-07-27T12:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081715066169369001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/72Ov73AWcT",
+              "end": 112,
+              "expanded_url": "https://x.com/SUI20BIUBIU/status/2081715066169369001/photo/1",
+              "media_key": "3_2081715057784938496",
+              "start": 89,
+              "url": "https://t.co/72Ov73AWcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081715066169369001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 892,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为我还是需要匿名把对话挂出来，可能就是想阐述一下自己的感受，也不想莫名其妙收到一些恶意的评论了，毕竟我的确什么都没有做˚ʚ₍ ᐢ. ̫ .ᐢ ₎ɞ˚这样的私信真的会让我伤心 https://t.co/72Ov73AWcT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 323,
+          "like_count": 5250,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 3776
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-14T07:13:05.000Z",
+        "description": "这里sui 堆废话号不定时掉落照片和摸鱼 喜欢杀戮尖塔和pjsk˚ʚ₍ ᐢ. ̫ .ᐢ ₎ɞ˚",
+        "id": "1426441673454850051",
+        "name": "不敢换昵称了",
+        "pinned_tweet_id": "1883480529913430384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782714880266731522/OsyYGqWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3989,
+          "following_count": 654,
+          "like_count": 32561,
+          "listed_count": 14,
+          "media_count": 181,
+          "tweet_count": 4554
+        },
+        "url": "",
+        "username": "SUI20BIUBIU",
+        "verified": false
+      }
+    ]
+  }
+}

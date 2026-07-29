@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081813651552637038",
+    "created_at": "2026-07-27T18:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T19:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081813651552637038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1387989413985230860",
+          "start": 3,
+          "username": "Keshuichong111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081813651552637038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081583843384123507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Keshuichong111: 我确实有m倾向 但是不要真的把我当狗玩呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081813651552637038",
+        "created_at": "2026-07-27T18:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081813651552637038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1387989413985230860",
+              "start": 3,
+              "username": "Keshuichong111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081813651552637038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081583843384123507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Keshuichong111: 我确实有m倾向 但是不要真的把我当狗玩呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1387989413985230860",
+        "conversation_id": "2081583843384123507",
+        "created_at": "2026-07-27T03:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081583843384123507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081583843384123507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4508,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我确实有m倾向 但是不要真的把我当狗玩呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 324,
+          "like_count": 5275,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 3787
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-30T04:37:30.000Z",
+        "description": "🚪88",
+        "id": "1387989413985230860",
+        "name": "瞌睡虫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077070649621901312/WyQyqc99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3302,
+          "following_count": 176,
+          "like_count": 703,
+          "listed_count": 13,
+          "media_count": 20,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "Keshuichong111",
+        "verified": false
+      }
+    ]
+  }
+}

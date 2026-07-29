@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081548933017563549",
+    "created_at": "2026-07-27T01:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T02:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081548933017563549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuukiwtf/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/kuukiwtf/status/2081527097173082407",
+          "start": 24,
+          "url": "https://t.co/WXXJbP4ogQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081548933017563549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081527097173082407",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人类能不能不要用精子跟卵子玩合成大煞笔的游戏了 https://t.co/WXXJbP4ogQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081548933017563549",
+        "created_at": "2026-07-27T01:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081548933017563549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukiwtf/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kuukiwtf/status/2081527097173082407",
+              "start": 24,
+              "url": "https://t.co/WXXJbP4ogQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081548933017563549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081527097173082407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类能不能不要用精子跟卵子玩合成大煞笔的游戏了 https://t.co/WXXJbP4ogQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2081527097173082407",
+        "created_at": "2026-07-26T23:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081527097173082407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YoruHeartpath/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/YoruHeartpath/status/2081315420636930109",
+              "start": 24,
+              "url": "https://t.co/NJIoSFqCP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081527097173082407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081315420636930109",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类能不能不要用精子跟卵子玩合成大煞笔的游戏了 https://t.co/NJIoSFqCP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 295,
+          "like_count": 4888,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3643
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 416,
+          "like_count": 5993,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1072
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

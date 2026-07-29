@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2079705754068774942",
+    "created_at": "2026-07-22T00:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T01:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079721768667730431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079721768667730431",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079705754068774942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 拿铁宝宝有点小调皮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079705746540027904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNyZW5PbYAAsiFr.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079705754068774942",
+        "created_at": "2026-07-22T00:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079721768667730431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079721768667730431",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079705754068774942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 拿铁宝宝有点小调皮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079705746540027904"
+          ]
+        },
+        "author_id": "1956958284310818816",
+        "conversation_id": "2079705754068774942",
+        "created_at": "2026-07-21T23:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079705754068774942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DMuvIU2wPB",
+              "end": 40,
+              "expanded_url": "https://x.com/qian67068/status/2079705754068774942/photo/1",
+              "media_key": "3_2079705746540027904",
+              "start": 17,
+              "url": "https://t.co/DMuvIU2wPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079705754068774942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，某些玩笑我还是开的太过分了呀 https://t.co/DMuvIU2wPB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 254,
+          "like_count": 4379,
+          "listed_count": 0,
+          "media_count": 358,
+          "tweet_count": 3403
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "无糖MtX💛🤍💜🖤半家長黨 | 泛性恋 | 精神状态不佳 | 称小千就好\n它/it\n简/繁/en\n不ban真人 常发布nsfw，满脑子黄色废料 \n分身@qian68069\n在互联网攻受可切的触手娘\n愛所有人，但不会愛人 \n学习🎹ing，爱鱼韵、回春丹，研究各种电子软硬件。1.77m57kg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "qian68069"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "name": "🏳️‍⚧️Qian触手小千🏳️‍🌈",
+        "pinned_tweet_id": "2079037318103703982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 1067,
+          "like_count": 7421,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 2481
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": true
+      }
+    ]
+  }
+}

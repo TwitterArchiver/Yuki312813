@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081663258172490189",
+    "created_at": "2026-07-27T08:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081664154654392586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2068709144853708800",
+          "start": 0,
+          "username": "okxdkadLa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081664154654392586",
+    "in_reply_to_user_id": "2068709144853708800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081663676776603771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@okxdkadLa 秦彻你在哪？😭😭😭秦彻家里进狼了😨😨😨秦彻😭❤️不要丢下我😩😩😩😭😭😭我一直都在你身边😏🥰我永远都不会丢下你🤗🤗秦彻你在哪？😭😭😭秦彻家里进狼了秦彻️不要丢下我我一直都在你身边🥰我永远都不会丢下你秦彻你在哪？秦彻家里进狼了秦彻️不要丢下我我一直都在你身边🥰我永远都不会丢下你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081663258172490189",
+        "created_at": "2026-07-27T08:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081664154654392586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2068709144853708800",
+              "start": 0,
+              "username": "okxdkadLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081664154654392586",
+        "in_reply_to_user_id": "2068709144853708800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081663676776603771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@okxdkadLa 秦彻你在哪？😭😭😭秦彻家里进狼了😨😨😨秦彻😭❤️不要丢下我😩😩😩😭😭😭我一直都在你身边😏🥰我永远都不会丢下你🤗🤗秦彻你在哪？😭😭😭秦彻家里进狼了秦彻️不要丢下我我一直都在你身边🥰我永远都不会丢下你秦彻你在哪？秦彻家里进狼了秦彻️不要丢下我我一直都在你身边🥰我永远都不会丢下你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068709144853708800",
+        "conversation_id": "2081663258172490189",
+        "created_at": "2026-07-27T08:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081663676776603771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081663676776603771",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081663258172490189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 秦彻家里进狼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 303,
+          "like_count": 5013,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3689
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-21T14:55:11.000Z",
+        "description": "乐子人/混沌中立/les\n0.5 🌈",
+        "id": "2068709144853708800",
+        "name": "ShA_b1_M2",
+        "pinned_tweet_id": "2081636467580018768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122067123220480/C-tgOHc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 108,
+          "like_count": 1140,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "okxdkadLa",
+        "verified": false
+      }
+    ]
+  }
+}

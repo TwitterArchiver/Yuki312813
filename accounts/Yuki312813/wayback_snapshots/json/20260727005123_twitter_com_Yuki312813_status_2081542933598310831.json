@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081542933598310831",
+    "created_at": "2026-07-27T00:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T01:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081542933598310831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2050173111761514496",
+          "start": 3,
+          "username": "TheLast1Plato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081542933598310831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081012439215415734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheLast1Plato: 以吸毒od为荣的毒虫都去死吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081542933598310831",
+        "created_at": "2026-07-27T00:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081542933598310831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2050173111761514496",
+              "start": 3,
+              "username": "TheLast1Plato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081542933598310831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081012439215415734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheLast1Plato: 以吸毒od为荣的毒虫都去死吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050173111761514496",
+        "conversation_id": "2081012439215415734",
+        "created_at": "2026-07-25T13:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081012439215415734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081012439215415734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10829,
+          "like_count": 85,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "以吸毒od为荣的毒虫都去死吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 289,
+          "like_count": 4852,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3631
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T11:20:26.000Z",
+        "description": "1i/4i｜switch\n无三观无底线最恶臭顺直女\n看我推文破防可以毕业我 骂我就是急\n没照片丑的没礼貌的私信等着挨我枪子\n互关可加v",
+        "id": "2050173111761514496",
+        "name": "执行官",
+        "pinned_tweet_id": "2079843596447174849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077084873097969664/SMGjvAeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 21,
+          "like_count": 109,
+          "listed_count": 5,
+          "media_count": 38,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "TheLast1Plato",
+        "verified": false
+      }
+    ]
+  }
+}

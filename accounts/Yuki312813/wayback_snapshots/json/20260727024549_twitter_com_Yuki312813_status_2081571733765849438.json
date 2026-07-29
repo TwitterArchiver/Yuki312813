@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081571733765849438",
+    "created_at": "2026-07-27T02:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081571733765849438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/duoaisuana/sta…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/duoaisuana/status/2081485890761691600",
+          "start": 44,
+          "url": "https://t.co/ri3hQ5AJjZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081571733765849438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081485890761691600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果我说话不包含网络热梗下三路性骚扰骂人地域黑的时候你还觉得我很有趣的话，那你太包容了 https://t.co/ri3hQ5AJjZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081571733765849438",
+        "created_at": "2026-07-27T02:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081571733765849438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duoaisuana/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/duoaisuana/status/2081485890761691600",
+              "start": 44,
+              "url": "https://t.co/ri3hQ5AJjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081571733765849438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081485890761691600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我说话不包含网络热梗下三路性骚扰骂人地域黑的时候你还觉得我很有趣的话，那你太包容了 https://t.co/ri3hQ5AJjZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056307790264590336",
+        "conversation_id": "2081485890761691600",
+        "created_at": "2026-07-26T21:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081485890761691600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081485890761691600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我说话不包含网络热梗下三路性骚扰骂人地域黑的时候你还觉得我很有趣的话，那你太包容了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 297,
+          "like_count": 4936,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3667
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-18T09:36:23.000Z",
+        "description": "又封号了  💊🔪🩸 最近爱发伤感文案\n爱人@c10n3_f\n老婆3.0 @lyxz738\n喜欢的人@xxxixixmwt @boqiaoahm4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "lyxz738"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "xxxixixmwt"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "boqiaoahm4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 0,
+                "url": "https://t.co/u5ZQlDChqF"
+              }
+            ]
+          }
+        },
+        "id": "2056307790264590336",
+        "name": "小酸3.0 （巡回好友）",
+        "pinned_tweet_id": "2080218564511023143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079409125084295168/6KQZscEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 88,
+          "like_count": 210,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/u5ZQlDChqF",
+        "username": "duoaisuana",
+        "verified": false
+      }
+    ]
+  }
+}

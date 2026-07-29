@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081369209221886372",
+    "created_at": "2026-07-27T10:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081690894684832177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1771468770827272192",
+          "start": 0,
+          "username": "na7777777a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081690894684832177",
+    "in_reply_to_user_id": "1771468770827272192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081369209221886372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@na7777777a 身残志坚这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11999,
+        "height": 1280,
+        "media_key": "13_2081369180151144448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081369180151144448/img/XtLMF1NQ_-TXC22y.jpg",
+        "public_metrics": {
+          "view_count": 41
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081369180151144448/vid/avc1/320x568/KmUYQmXAHfCL3JRv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081369180151144448/vid/avc1/480x852/g92j1FPLgaiIg7Gb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081369180151144448/vid/avc1/720x1280/CVfNp2U9kqVEF63t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081369180151144448/pl/_yyf6JmsVmqgUEN8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081369209221886372",
+        "created_at": "2026-07-27T10:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081690894684832177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1771468770827272192",
+              "start": 0,
+              "username": "na7777777a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081690894684832177",
+        "in_reply_to_user_id": "1771468770827272192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081369209221886372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@na7777777a 身残志坚这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081369180151144448"
+          ]
+        },
+        "author_id": "1771468770827272192",
+        "conversation_id": "2081369209221886372",
+        "created_at": "2026-07-26T13:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081369209221886372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFnZv6hJ7d",
+              "end": 32,
+              "expanded_url": "https://x.com/na7777777a/status/2081369209221886372/video/1",
+              "media_key": "13_2081369180151144448",
+              "start": 9,
+              "url": "https://t.co/uFnZv6hJ7d"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2081369209221886372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "艰难的下七层楼。 https://t.co/uFnZv6hJ7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 306,
+          "like_count": 5104,
+          "listed_count": 0,
+          "media_count": 367,
+          "tweet_count": 3720
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-23T09:27:30.000Z",
+        "description": "无性别 双相情感障碍持有者 oder maimai与致幻剂激推 日本語を勉強中です 同成分互fo！",
+        "id": "1771468770827272192",
+        "location": "南京",
+        "name": "松坂砂糖koi",
+        "pinned_tweet_id": "2068474477600715113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904424090397724672/xyZN0s1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 274,
+          "like_count": 1724,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "na7777777a",
+        "verified": false
+      }
+    ]
+  }
+}

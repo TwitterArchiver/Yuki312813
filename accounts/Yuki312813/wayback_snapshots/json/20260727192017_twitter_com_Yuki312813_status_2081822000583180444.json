@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081820984731210001",
+    "created_at": "2026-07-27T19:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T20:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081822000583180444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1951668659052773376",
+          "start": 0,
+          "username": "tellM3Yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081822000583180444",
+    "in_reply_to_user_id": "1951668659052773376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081821824107917620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tellM3Yy 不要差我啊啊啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081820984731210001",
+        "created_at": "2026-07-27T19:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081822000583180444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1951668659052773376",
+              "start": 0,
+              "username": "tellM3Yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081822000583180444",
+        "in_reply_to_user_id": "1951668659052773376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081821824107917620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tellM3Yy 不要差我啊啊啊啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951668659052773376",
+        "conversation_id": "2081820984731210001",
+        "created_at": "2026-07-27T19:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081821824107917620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081821824107917620",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081821479986172005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 我有一根大鸡吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 324,
+          "like_count": 5281,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 3795
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-02T15:37:35.000Z",
+        "description": "ฅ(៸៸᳐⁃⩊⁃៸៸᳐)ฅ有🚪不线下（互fo free)｜互fo查成分只和同类互fo😌｜提问箱📦 https://t.co/iZiUXYlUVy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tomoko123",
+                "end": 72,
+                "expanded_url": "https://ngl.link/tomoko123",
+                "start": 49,
+                "url": "https://t.co/iZiUXYlUVy"
+              }
+            ]
+          }
+        },
+        "id": "1951668659052773376",
+        "name": "伤心苹果",
+        "pinned_tweet_id": "2077561884065366523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951668905598185472/jyyrcEYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 233,
+          "like_count": 653,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 397
+        },
+        "url": "",
+        "username": "tellM3Yy",
+        "verified": false
+      }
+    ]
+  }
+}

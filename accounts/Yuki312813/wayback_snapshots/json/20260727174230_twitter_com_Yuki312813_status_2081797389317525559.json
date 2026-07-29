@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081697715285872824",
+    "created_at": "2026-07-27T17:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081797389317525559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1456872541952229379",
+          "start": 0,
+          "username": "txqv3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081797389317525559",
+    "in_reply_to_user_id": "1456872541952229379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081697715285872824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@txqv3 洁哥不要啦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2081697680385069056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOtAtEbUAAu17R.jpg",
+        "width": 3024
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2081697704355495936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOtCGXbAAAjQQ3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081697715285872824",
+        "created_at": "2026-07-27T17:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081797389317525559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1456872541952229379",
+              "start": 0,
+              "username": "txqv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081797389317525559",
+        "in_reply_to_user_id": "1456872541952229379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081697715285872824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@txqv3 洁哥不要啦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081697680385069056",
+            "3_2081697704355495936"
+          ]
+        },
+        "author_id": "1456872541952229379",
+        "conversation_id": "2081697715285872824",
+        "created_at": "2026-07-27T11:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:59:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081695978474885623",
+          "2081697715285872824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ubPjtWRoms",
+              "end": 35,
+              "expanded_url": "https://x.com/txqv3/status/2081697715285872824/photo/1",
+              "media_key": "3_2081697680385069056",
+              "start": 12,
+              "url": "https://t.co/ubPjtWRoms"
+            },
+            {
+              "display_url": "pic.x.com/ubPjtWRoms",
+              "end": 35,
+              "expanded_url": "https://x.com/txqv3/status/2081697715285872824/photo/1",
+              "media_key": "3_2081697704355495936",
+              "start": 12,
+              "url": "https://t.co/ubPjtWRoms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081697715285872824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 230,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洁哥是好女孩啦，看看福 https://t.co/ubPjtWRoms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 322,
+          "like_count": 5193,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 3761
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-06T06:34:26.000Z",
+        "description": "涩涩高手梦梦，进群自由交流XP，不涩的不给过，看置顶，亮点里是我的作品，可以直接给梦梦发自己的变态涩涩哦😋，给点门槛费和自主吧，梦梦穷死了😢，给我钱我什么都会做的）",
+        "id": "1456872541952229379",
+        "location": "未知",
+        "name": "躲在被子里的梦梦",
+        "pinned_tweet_id": "2058423290138329200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975479370476363779/b9hRy7Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 739,
+          "like_count": 73226,
+          "listed_count": 7,
+          "media_count": 1714,
+          "tweet_count": 21335
+        },
+        "url": "",
+        "username": "txqv3",
+        "verified": true
+      }
+    ]
+  }
+}

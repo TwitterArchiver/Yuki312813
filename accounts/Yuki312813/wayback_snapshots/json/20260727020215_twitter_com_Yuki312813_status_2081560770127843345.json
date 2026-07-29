@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081560770127843345",
+    "created_at": "2026-07-27T02:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081560770127843345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/entivv14xiRcrd…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/entivv14xiRcrd/status/2081415401326457026",
+          "start": 12,
+          "url": "https://t.co/O1JPYPhiOI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081560770127843345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081415401326457026",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是，被掐真的好舒服 https://t.co/O1JPYPhiOI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081560770127843345",
+        "created_at": "2026-07-27T02:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081560770127843345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/entivv14xiRcrd…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/entivv14xiRcrd/status/2081415401326457026",
+              "start": 12,
+              "url": "https://t.co/O1JPYPhiOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081560770127843345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081415401326457026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是，被掐真的好舒服 https://t.co/O1JPYPhiOI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056401506791026689",
+        "conversation_id": "2081415401326457026",
+        "created_at": "2026-07-26T16:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081415401326457026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081415401326457026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我、我感觉、被掐真的好舒服、被咬好舒服被扇好舒服、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 296,
+          "like_count": 4906,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3653
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-18T15:49:48.000Z",
+        "description": "我喜欢温柔的人 同类来和我互fo呀\n🐼我喜欢熊猫～\n来匿名提问我👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entivv14xirxrd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/entivv14xirxrd",
+                "start": 0,
+                "url": "https://t.co/xm6SjMmQ1w"
+              }
+            ]
+          }
+        },
+        "id": "2056401506791026689",
+        "location": "春",
+        "name": "なみだ",
+        "pinned_tweet_id": "2081402299138642347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081196846391734272/I2SqZBCN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 85,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 509
+        },
+        "url": "https://t.co/xm6SjMmQ1w",
+        "username": "entivv14xiRcrd",
+        "verified": false
+      }
+    ]
+  }
+}

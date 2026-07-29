@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081582945161392530",
+    "created_at": "2026-07-27T08:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081665170078904686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874458926558961664",
+          "start": 0,
+          "username": "DaiianaVez69773"
+        },
+        {
+          "end": 25,
+          "id": "1594063170464845824",
+          "start": 17,
+          "username": "kunba31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081665170078904686",
+    "in_reply_to_user_id": "1874458926558961664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081582945161392530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaiianaVez69773 @kunba31 已完成😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081582945161392530",
+        "created_at": "2026-07-27T08:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081665170078904686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874458926558961664",
+              "start": 0,
+              "username": "DaiianaVez69773"
+            },
+            {
+              "end": 25,
+              "id": "1594063170464845824",
+              "start": 17,
+              "username": "kunba31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081665170078904686",
+        "in_reply_to_user_id": "1874458926558961664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081582945161392530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaiianaVez69773 @kunba31 已完成😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874458926558961664",
+        "conversation_id": "2081582945161392530",
+        "created_at": "2026-07-27T03:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081582945161392530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1594063170464845824",
+              "start": 0,
+              "username": "kunba31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081582945161392530",
+        "in_reply_to_user_id": "1594063170464845824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@kunba31 这个是我兄弟啊药理大师，大家点点关注。他会回fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 303,
+          "like_count": 5020,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3691
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-01T14:14:55.000Z",
+        "description": "08 infj-t 双性恋 双相情感障碍、重度焦虑 服药治疗中 🚬💊 音乐 jrock/噪音/盯鞋/黑金残死旋死血碾/电子/ボカロ/jpop/emo/地下udg 是个九年二次元小资历/cult片/舞萌dx/拉康派精神分析 会回fo喜欢的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ouoshizego",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ouoshizego",
+                "start": 0,
+                "url": "https://t.co/EAnsMRl5JL"
+              }
+            ]
+          }
+        },
+        "id": "1874458926558961664",
+        "location": "ぺんてるに行きました",
+        "name": "矢澤源義かまってちゃん🔋🎸",
+        "pinned_tweet_id": "2059308590339678354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908777584210714625/L-fqHbRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 362,
+          "like_count": 18015,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 1999
+        },
+        "url": "https://t.co/EAnsMRl5JL",
+        "username": "DaiianaVez69773",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T20:21:02.000Z",
+        "description": "随便打一些词条\n直男|欢迎互℉\n电波/人卫全套/全科医学/药学/有机化学/\n高浓度宅/药品收藏癖/anti-od/日语学习中目前N3/PC音游/Python/C#/VS enjoyer/钢琴/编曲学习中/文学作品/爱啃教科书/爱听日电和日摇/喜欢F社/什么东西都沾一点\n如果你想要和我玩MC，那么我会和你一起玩GTNH",
+        "id": "1594063170464845824",
+        "location": "6C40.2/43.2/MG30.X/MB23.X/6A60",
+        "name": "M.D._GuozZ_OPI_H4Te",
+        "pinned_tweet_id": "2081524906521743451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081511125808738304/34RWyyMC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 63,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "kunba31",
+        "verified": false
+      }
+    ]
+  }
+}

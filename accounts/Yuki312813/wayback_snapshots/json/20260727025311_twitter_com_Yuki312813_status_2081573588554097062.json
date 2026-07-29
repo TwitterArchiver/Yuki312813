@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081573588554097062",
+    "created_at": "2026-07-27T02:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081573588554097062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rorolavsbex25/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/rorolavsbex25/status/2081445759539429596",
+          "start": 15,
+          "url": "https://t.co/fmR11DM0x3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081573588554097062",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081445759539429596",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰 https://t.co/fmR11DM0x3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081445754455965696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLH4r2XwAAoF_8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081445754460123136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLH4r3XMAAry9K.jpg",
+        "width": 1492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081573588554097062",
+        "created_at": "2026-07-27T02:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081573588554097062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rorolavsbex25/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/rorolavsbex25/status/2081445759539429596",
+              "start": 15,
+              "url": "https://t.co/fmR11DM0x3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081573588554097062",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081445759539429596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰 https://t.co/fmR11DM0x3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081445754455965696",
+            "3_2081445754460123136"
+          ]
+        },
+        "author_id": "2080357409826992128",
+        "conversation_id": "2081445759539429596",
+        "created_at": "2026-07-26T18:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081445759539429596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1noWYXrznf",
+              "end": 53,
+              "expanded_url": "https://x.com/rorolavsbex25/status/2081445759539429596/photo/1",
+              "media_key": "3_2081445754455965696",
+              "start": 30,
+              "url": "https://t.co/1noWYXrznf"
+            },
+            {
+              "display_url": "pic.x.com/1noWYXrznf",
+              "end": 53,
+              "expanded_url": "https://x.com/rorolavsbex25/status/2081445759539429596/photo/1",
+              "media_key": "3_2081445754460123136",
+              "start": 30,
+              "url": "https://t.co/1noWYXrznf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081445759539429596",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 686,
+          "impression_count": 23184,
+          "like_count": 6077,
+          "quote_count": 14,
+          "reply_count": 55,
+          "retweet_count": 750
+        },
+        "reply_settings": "everyone",
+        "text": "fake fake not real makeup sfx https://t.co/1noWYXrznf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 298,
+          "like_count": 4945,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3672
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-23T18:25:31.000Z",
+        "description": "she/her 16\n@truefoxcel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "truefoxcel"
+              }
+            ]
+          }
+        },
+        "id": "2080357409826992128",
+        "name": "roro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081424599795838976/1sZ0q1qU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 6,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "rorolavsbex25",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081663258172490189",
+    "created_at": "2026-07-27T18:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T19:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081806973050503632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1895084164418088960",
+          "start": 0,
+          "username": "codecoco002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081806973050503632",
+    "in_reply_to_user_id": "1895084164418088960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081806564957339938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codecoco002 我去，不早说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081663258172490189",
+        "created_at": "2026-07-27T18:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081806973050503632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1895084164418088960",
+              "start": 0,
+              "username": "codecoco002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081806973050503632",
+        "in_reply_to_user_id": "1895084164418088960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081806564957339938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codecoco002 我去，不早说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895084164418088960",
+        "conversation_id": "2081663258172490189",
+        "created_at": "2026-07-27T18:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081806564957339938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081806564957339938",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081663258172490189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 所以你是有顏色的狼\n等於色狼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 324,
+          "like_count": 5252,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 3779
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-27T12:11:02.000Z",
+        "description": "OD／負面／自傷／憂鬱症／多重人格／邊緣型人格障礙／解離／沉迷二次元\n最喜歡超天醬了啾♡絕對絕對要成為這個時代的超天醬 ! 想要許願永遠生活在夢裡，最討厭現實世界\n拯救所有厭惡現實之人的網路天使此刻降臨✝️只需要看著我就好了呦\n✝️一起升天✝️",
+        "id": "1895084164418088960",
+        "name": "✝️糖糖✝️あめちゃん",
+        "pinned_tweet_id": "2039074952796856651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046116610306662400/1S5IdjJA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 30,
+          "like_count": 1993,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "codecoco002",
+        "verified": false
+      }
+    ]
+  }
+}

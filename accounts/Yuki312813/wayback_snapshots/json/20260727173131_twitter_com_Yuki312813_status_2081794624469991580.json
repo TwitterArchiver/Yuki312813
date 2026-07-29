@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081774957042794922",
+    "created_at": "2026-07-27T17:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081794624469991580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685845250802327552",
+          "start": 0,
+          "username": "hateuuetah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081794624469991580",
+    "in_reply_to_user_id": "1685845250802327552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081774957042794922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hateuuetah 其实和好朋友玩根本不在意这些，主要是想和朋友玩这种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081774957042794922",
+        "created_at": "2026-07-27T17:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081794624469991580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685845250802327552",
+              "start": 0,
+              "username": "hateuuetah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081794624469991580",
+        "in_reply_to_user_id": "1685845250802327552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081774957042794922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hateuuetah 其实和好朋友玩根本不在意这些，主要是想和朋友玩这种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685845250802327552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "2081774957042794922",
+        "created_at": "2026-07-27T16:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081774957042794922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081774957042794922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我打王者荣耀这么菜逼都有好多人想和我打，到底是为什么，我真的很害怕坑死你们然后被骂死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 319,
+          "like_count": 5180,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 3757
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-31T02:50:20.000Z",
+        "description": "不要试图骚扰一个神",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/daydreamers2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/daydreamers2",
+                "start": 0,
+                "url": "https://t.co/29jaP4i5si"
+              }
+            ]
+          }
+        },
+        "id": "1685845250802327552",
+        "location": "原创轻奢小众账号",
+        "name": "hateu",
+        "pinned_tweet_id": "2081390608967471334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081721407331794944/XoYk4E6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 37,
+          "like_count": 706,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 697
+        },
+        "url": "https://t.co/29jaP4i5si",
+        "username": "hateuuetah",
+        "verified": false
+      }
+    ]
+  }
+}

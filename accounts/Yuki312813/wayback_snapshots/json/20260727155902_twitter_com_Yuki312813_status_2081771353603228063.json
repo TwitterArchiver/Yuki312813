@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081770948513140910",
+    "created_at": "2026-07-27T15:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081771353603228063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2077919234445692928",
+          "start": 0,
+          "username": "wozubbdelyta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081771353603228063",
+    "in_reply_to_user_id": "2077919234445692928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081770948513140910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wozubbdelyta 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081770948513140910",
+        "created_at": "2026-07-27T15:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081771353603228063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2077919234445692928",
+              "start": 0,
+              "username": "wozubbdelyta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081771353603228063",
+        "in_reply_to_user_id": "2077919234445692928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081770948513140910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wozubbdelyta 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077919234445692928",
+        "conversation_id": "2081770948513140910",
+        "created_at": "2026-07-27T15:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081770948513140910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081770948513140910",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朱雨辰傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 318,
+          "like_count": 5153,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 3747
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-17T00:52:06.000Z",
+        "description": "我是霖，19号，不是冷暴力是被gban了\n性别是末影人\n我喜欢吃辣条\ngban妈妈@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "2077919234445692928",
+        "name": "19.霖，我很牛逼",
+        "pinned_tweet_id": "2081032971189117085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081030070030991360/bOh588dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 53,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "wozubbdelyta",
+        "verified": false
+      }
+    ]
+  }
+}

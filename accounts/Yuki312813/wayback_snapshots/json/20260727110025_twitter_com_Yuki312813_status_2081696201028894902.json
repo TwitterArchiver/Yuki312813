@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081641158934237282",
+    "created_at": "2026-07-27T11:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081696201028894902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1650059885328093184",
+          "start": 0,
+          "username": "hhh050397731003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081696201028894902",
+    "in_reply_to_user_id": "1650059885328093184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081641158934237282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhh050397731003 🐱🐱❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081641158934237282",
+        "created_at": "2026-07-27T11:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081696201028894902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650059885328093184",
+              "start": 0,
+              "username": "hhh050397731003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081696201028894902",
+        "in_reply_to_user_id": "1650059885328093184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081641158934237282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhh050397731003 🐱🐱❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650059885328093184",
+        "conversation_id": "2081641158934237282",
+        "created_at": "2026-07-27T07:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081641158934237282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081641158934237282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 313,
+          "like_count": 5124,
+          "listed_count": 0,
+          "media_count": 367,
+          "tweet_count": 3730
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-23T08:52:12.000Z",
+        "description": "私はcece、中国語ok/日本語を勉強中...\n素晴らしき日々、仮面ライダーが好き\n最近涼宮ハルヒにハマってww古ハル最高！\n交友歓迎！よろしく~",
+        "id": "1650059885328093184",
+        "name": "我想要玩galgame",
+        "pinned_tweet_id": "1748377354295296126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808137021116108803/sGXA3wHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 246,
+          "like_count": 7412,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "hhh050397731003",
+        "verified": false
+      }
+    ]
+  }
+}

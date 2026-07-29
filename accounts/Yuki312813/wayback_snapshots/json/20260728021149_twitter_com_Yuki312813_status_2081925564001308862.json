@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081925557936398336"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081925564001308862",
+    "created_at": "2026-07-28T02:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081925564001308862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969385737213612032",
+          "start": 3,
+          "username": "wng1126285"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NIGnR1djqw",
+          "end": 52,
+          "expanded_url": "https://x.com/Yuki312813/status/2081925564001308862/photo/1",
+          "media_key": "3_2081925557936398336",
+          "start": 29,
+          "url": "https://t.co/NIGnR1djqw"
+        },
+        {
+          "display_url": "x.com/wng1126285/sta…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/wng1126285/status/2081914475222098372",
+          "start": 53,
+          "url": "https://t.co/qHKRRNSEb2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081925564001308862",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081914475222098372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孤帆 @wng1126285 · 7月12日\n\n看看奶子 https://t.co/NIGnR1djqw https://t.co/qHKRRNSEb2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 352,
+        "media_key": "3_2081925557936398336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR8Q7GbIAAQ9B-.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081925557936398336"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081925564001308862",
+        "created_at": "2026-07-28T02:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081925564001308862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1969385737213612032",
+              "start": 3,
+              "username": "wng1126285"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIGnR1djqw",
+              "end": 52,
+              "expanded_url": "https://x.com/Yuki312813/status/2081925564001308862/photo/1",
+              "media_key": "3_2081925557936398336",
+              "start": 29,
+              "url": "https://t.co/NIGnR1djqw"
+            },
+            {
+              "display_url": "x.com/wng1126285/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/wng1126285/status/2081914475222098372",
+              "start": 53,
+              "url": "https://t.co/qHKRRNSEb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081925564001308862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081914475222098372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孤帆 @wng1126285 · 7月12日\n\n看看奶子 https://t.co/NIGnR1djqw https://t.co/qHKRRNSEb2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969385737213612032",
+        "conversation_id": "2081905306146345188",
+        "created_at": "2026-07-28T01:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081914475222098372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2063169843671793664",
+              "start": 0,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081914475222098372",
+        "in_reply_to_user_id": "2063169843671793664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081905306146345188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercyvxv 你不是天使，你是傻B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 328,
+          "like_count": 5355,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 3808
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-20T12:58:55.000Z",
+        "description": "",
+        "id": "1969385737213612032",
+        "name": "孤帆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969394749154213893/Z0UrMGSv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 27,
+          "like_count": 542,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "wng1126285",
+        "verified": false
+      }
+    ]
+  }
+}

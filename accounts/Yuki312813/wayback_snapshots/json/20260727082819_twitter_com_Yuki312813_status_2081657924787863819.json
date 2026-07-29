@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081617985043837121",
+    "created_at": "2026-07-27T08:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081657924787863819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2077919234445692928",
+          "start": 0,
+          "username": "wozubbdelyta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081657924787863819",
+    "in_reply_to_user_id": "2077919234445692928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081617985043837121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wozubbdelyta 富公打法😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14975,
+        "height": 1280,
+        "media_key": "13_2081617941280489472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081617941280489472/img/2bjn-0noLWZtCZg7.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081617941280489472/vid/avc1/320x568/S5IyiDWGHDexnCjd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081617941280489472/vid/avc1/480x852/cSDxVG9eZ4zVwVAC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081617941280489472/vid/avc1/720x1280/GNUu0ZgMYPnC7UCw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081617941280489472/pl/-46ujIv81iEikz7C.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081617985043837121",
+        "created_at": "2026-07-27T08:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081657924787863819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2077919234445692928",
+              "start": 0,
+              "username": "wozubbdelyta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081657924787863819",
+        "in_reply_to_user_id": "2077919234445692928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081617985043837121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wozubbdelyta 富公打法😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081617941280489472"
+          ]
+        },
+        "author_id": "2077919234445692928",
+        "conversation_id": "2081617985043837121",
+        "created_at": "2026-07-27T05:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081617985043837121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BSue2zHSi6",
+              "end": 36,
+              "expanded_url": "https://x.com/wozubbdelyta/status/2081617985043837121/video/1",
+              "media_key": "13_2081617941280489472",
+              "start": 13,
+              "url": "https://t.co/BSue2zHSi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081617985043837121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "霖真的可以三口一个巧乐兹 https://t.co/BSue2zHSi6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 298,
+          "like_count": 4979,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 3682
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-17T00:52:06.000Z",
+        "description": "我是霖，19号，不是冷暴力是被gban了\n性别是末影人\n我喜欢吃辣条\ngban妈妈@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "2077919234445692928",
+        "name": "19.霖，我很牛逼",
+        "pinned_tweet_id": "2081032971189117085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081030070030991360/bOh588dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 51,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "wozubbdelyta",
+        "verified": false
+      }
+    ]
+  }
+}
