@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082123399938420823",
+    "created_at": "2026-07-28T16:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082146365271060496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033316131772170240",
+          "start": 0,
+          "username": "siliang481"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082146365271060496",
+    "in_reply_to_user_id": "2033316131772170240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082123399938420823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siliang481 o坤呀😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082123399938420823",
+        "created_at": "2026-07-28T16:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082146365271060496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033316131772170240",
+              "start": 0,
+              "username": "siliang481"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082146365271060496",
+        "in_reply_to_user_id": "2033316131772170240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082123399938420823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siliang481 o坤呀😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033316131772170240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2082123399938420823",
+        "created_at": "2026-07-28T15:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082123399938420823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuki312813/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Yuki312813/status/2081918357176283181",
+              "start": 17,
+              "url": "https://t.co/G9kAiZWXMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082123399938420823",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081918357176283181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "岐哥能不能黑幕我我被幽灵ban了 https://t.co/G9kAiZWXMV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起\n@Yuki281331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 343,
+          "like_count": 5639,
+          "listed_count": 0,
+          "media_count": 375,
+          "tweet_count": 3909
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T22:55:26.000Z",
+        "description": "我是烬夏，你可以叫我小烬。\n🌈0.5p/11年/🔪💊🚬🍺/推当空间发\n（受）暴力傾向？/時常發表一些重女言論\n发言很跳脱/主页要素过多\n除了顺直其他欢迎互fo\n請多來我的提問箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jin_0704",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jin_0704",
+                "start": 0,
+                "url": "https://t.co/92mH9fUa3z"
+              }
+            ]
+          }
+        },
+        "id": "2033316131772170240",
+        "name": "你眼睛的面積一定小於湖",
+        "pinned_tweet_id": "2045670982095163482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044747986090242048/U9VgLkaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 305,
+          "like_count": 4221,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/92mH9fUa3z",
+        "username": "siliang481",
+        "verified": false
+      }
+    ]
+  }
+}

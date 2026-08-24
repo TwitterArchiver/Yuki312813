@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081622147806683566",
+    "created_at": "2026-07-27T17:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081795713353351403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077402753723441152",
+          "start": 0,
+          "username": "Jitian8of4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081795713353351403",
+    "in_reply_to_user_id": "2077402753723441152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081622147806683566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jitian8of4 买麻为啥不找兔子🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081622139153879041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONoToDbEAEkcoP.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081622147806683566",
+        "created_at": "2026-07-27T17:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081795713353351403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077402753723441152",
+              "start": 0,
+              "username": "Jitian8of4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081795713353351403",
+        "in_reply_to_user_id": "2077402753723441152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081622147806683566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jitian8of4 买麻为啥不找兔子🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081622139153879041"
+          ]
+        },
+        "author_id": "2077402753723441152",
+        "conversation_id": "2081622147806683566",
+        "created_at": "2026-07-27T06:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T07:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081622147806683566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uexGpfn7mY",
+              "end": 41,
+              "expanded_url": "https://x.com/Jitian8of4/status/2081622147806683566/photo/1",
+              "media_key": "3_2081622139153879041",
+              "start": 18,
+              "url": "https://t.co/uexGpfn7mY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081622147806683566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这傻逼就是个死全家的骗子骗了我六百 https://t.co/uexGpfn7mY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 322,
+          "like_count": 5184,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 3760
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-15T14:40:10.000Z",
+        "description": "精神不安定，爱od的章鱼",
+        "id": "2077402753723441152",
+        "name": "タコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077772265614446593/eRNyS-RH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 65,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Jitian8of4",
+        "verified": false
+      }
+    ]
+  }
+}

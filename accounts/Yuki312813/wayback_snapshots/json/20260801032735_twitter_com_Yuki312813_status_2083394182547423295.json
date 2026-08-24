@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2083258523878899797",
+    "created_at": "2026-08-01T03:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083394182547423295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2056307790264590336",
+          "start": 0,
+          "username": "duoaisuana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083394182547423295",
+    "in_reply_to_user_id": "2056307790264590336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083258523878899797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duoaisuana 吓我一跳释放忍术👿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2083258523878899797",
+        "created_at": "2026-08-01T03:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083394182547423295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2056307790264590336",
+              "start": 0,
+              "username": "duoaisuana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083394182547423295",
+        "in_reply_to_user_id": "2056307790264590336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083258523878899797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duoaisuana 吓我一跳释放忍术👿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056307790264590336",
+        "conversation_id": "2083258523878899797",
+        "created_at": "2026-07-31T18:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083258523878899797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083258523878899797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太痛苦了 太痛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki281331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 408,
+          "like_count": 6308,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 4131
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-18T09:36:23.000Z",
+        "description": "💊🔪🩸 地雷女\n我太痛苦了我太痛苦了我太痛苦了\n爱人@c10n3_f\n老婆3.0 @lyxz738",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lyxz738"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 0,
+                "url": "https://t.co/u5ZQlDBJB7"
+              }
+            ]
+          }
+        },
+        "id": "2056307790264590336",
+        "name": "小酸3.0 （巡回好友）",
+        "pinned_tweet_id": "2080218564511023143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079409125084295168/6KQZscEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 82,
+          "like_count": 240,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/u5ZQlDBJB7",
+        "username": "duoaisuana",
+        "verified": false
+      }
+    ]
+  }
+}

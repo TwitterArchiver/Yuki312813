@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082420328547172606",
+    "created_at": "2026-07-29T12:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082445947360186529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039398734962761728",
+          "start": 0,
+          "username": "MISTERK0937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082445947360186529",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082420328547172606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MISTERK0937 去学校带同学一起耍起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082420328547172606",
+        "created_at": "2026-07-29T12:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082445947360186529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "MISTERK0937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082445947360186529",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082420328547172606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MISTERK0937 去学校带同学一起耍起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2082420328547172606",
+        "created_at": "2026-07-29T10:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082420328547172606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082420328547172606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "八月份每天都耍起，等开学就戒断戒死在学校"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起\n@Yuki281331 异格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 367,
+          "like_count": 5843,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 3971
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "本质毒区精神病\n炮友o友宝宝主人妈妈@Bryophyta02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Bryophyta02"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/curse37",
+                "end": 23,
+                "expanded_url": "https://ngl.link/curse37",
+                "start": 0,
+                "url": "https://t.co/BoOyx5gTDQ"
+              }
+            ]
+          }
+        },
+        "id": "2039398734962761728",
+        "location": "坤",
+        "name": "Curse✝",
+        "pinned_tweet_id": "2082372910061330660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082169865146949632/CxpDCaV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 379,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 931
+        },
+        "url": "https://t.co/BoOyx5gTDQ",
+        "username": "MISTERK0937",
+        "verified": false
+      }
+    ]
+  }
+}

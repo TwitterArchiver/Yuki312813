@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2083161589956661291",
+    "created_at": "2026-07-31T12:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083163129928876315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1679905283068555265",
+          "start": 0,
+          "username": "yuda8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083163129928876315",
+    "in_reply_to_user_id": "1679905283068555265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083162927394353639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuda8964 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2083161589956661291",
+        "created_at": "2026-07-31T12:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083163129928876315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1679905283068555265",
+              "start": 0,
+              "username": "yuda8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083163129928876315",
+        "in_reply_to_user_id": "1679905283068555265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083162927394353639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda8964 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679905283068555265",
+        "conversation_id": "2083161589956661291",
+        "created_at": "2026-07-31T12:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083162927394353639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083162927394353639",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083161589956661291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 给我看一眼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki281331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 399,
+          "like_count": 6207,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 4093
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-14T17:26:53.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者  极端主义  嗑大了会说胡话  梗图  请随便骚扰我  二代目",
+        "id": "1679905283068555265",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083105920935149568/hvKKueha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 67,
+          "like_count": 319,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "yuda8964",
+        "verified": false
+      }
+    ]
+  }
+}

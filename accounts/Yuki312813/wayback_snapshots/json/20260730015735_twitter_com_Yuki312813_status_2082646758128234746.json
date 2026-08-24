@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082630424921288997",
+    "created_at": "2026-07-30T01:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T02:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082646758128234746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947327250065682432",
+          "start": 0,
+          "username": "heh539574652613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082646758128234746",
+    "in_reply_to_user_id": "1947327250065682432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082646316904309006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heh539574652613 不看状态栏的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082630424921288997",
+        "created_at": "2026-07-30T01:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082646758128234746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947327250065682432",
+              "start": 0,
+              "username": "heh539574652613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082646758128234746",
+        "in_reply_to_user_id": "1947327250065682432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082646316904309006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heh539574652613 不看状态栏的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947327250065682432",
+        "conversation_id": "2082630424921288997",
+        "created_at": "2026-07-30T01:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082646316904309006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082646316904309006",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082630424921288997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 歧哥别老盗图了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki281331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 371,
+          "like_count": 5943,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 4017
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-21T16:06:24.000Z",
+        "description": "",
+        "id": "1947327250065682432",
+        "name": "heh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072731511825260544/UFBhDi2V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 28,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "heh539574652613",
+        "verified": false
+      }
+    ]
+  }
+}

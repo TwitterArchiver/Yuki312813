@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082090660547703073",
+    "created_at": "2026-07-28T14:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082105610821365857"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082105610821365857",
+    "in_reply_to_user_id": "2008420775204896768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082090660547703073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已举报，地雷女受死吧😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2082090650829533184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUSamDbMAA6bvg.jpg",
+        "width": 2136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082090660547703073",
+        "created_at": "2026-07-28T14:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082105610821365857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082105610821365857",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082090660547703073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已举报，地雷女受死吧😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082090650829533184"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082090660547703073",
+        "created_at": "2026-07-28T13:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082090660547703073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/doSLPjUfOZ",
+              "end": 52,
+              "expanded_url": "https://x.com/Yuki312813/status/2082090660547703073/photo/1",
+              "media_key": "3_2082090650829533184",
+              "start": 29,
+              "url": "https://t.co/doSLPjUfOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082090660547703073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Mercy的号掉了我操，我还在回复他的推文呢发现回不了😨 https://t.co/doSLPjUfOZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 337,
+          "like_count": 5518,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 3865
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

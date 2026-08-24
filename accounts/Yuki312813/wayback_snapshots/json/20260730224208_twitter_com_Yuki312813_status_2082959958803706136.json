@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082490413131452904",
+    "created_at": "2026-07-30T22:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T23:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082959958803706136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1631871471680372737",
+          "start": 0,
+          "username": "Kik7410_"
+        },
+        {
+          "end": 19,
+          "id": "2058029942198374400",
+          "start": 10,
+          "username": "yudia666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082959958803706136",
+    "in_reply_to_user_id": "1631871471680372737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082940467273175466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kik7410_ @yudia666 OK！谢谢🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082490413131452904",
+        "created_at": "2026-07-30T22:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T23:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082959958803706136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1631871471680372737",
+              "start": 0,
+              "username": "Kik7410_"
+            },
+            {
+              "end": 19,
+              "id": "2058029942198374400",
+              "start": 10,
+              "username": "yudia666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082959958803706136",
+        "in_reply_to_user_id": "1631871471680372737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082940467273175466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kik7410_ @yudia666 OK！谢谢🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631871471680372737",
+        "conversation_id": "2082490413131452904",
+        "created_at": "2026-07-30T21:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082940467273175466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            },
+            {
+              "end": 21,
+              "id": "2058029942198374400",
+              "start": 12,
+              "username": "yudia666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082940467273175466",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082504698578509832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 @yudia666 少量多次用，隔一两个小时这样子！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki281331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 397,
+          "like_count": 6071,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 4072
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-04T04:17:45.000Z",
+        "description": "我的语言表达能力很差精神状态很混乱",
+        "id": "1631871471680372737",
+        "location": "爱",
+        "name": "我珍惜你的方式错了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066233994782662656/Q5gfBTkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 76,
+          "like_count": 7799,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 2680
+        },
+        "url": "",
+        "username": "Kik7410_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者 极端主义 嗑大了会说胡话 梗图  请随便骚扰我 220fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuda21436",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuda21436",
+                "start": 0,
+                "url": "https://t.co/BUKnKIH0FA"
+              }
+            ]
+          }
+        },
+        "id": "2058029942198374400",
+        "location": "محافظة شرق الدولة الإسلامية",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️",
+        "pinned_tweet_id": "2071924273778921875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 212,
+          "like_count": 26179,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/BUKnKIH0FA",
+        "username": "yudia666",
+        "verified": false
+      }
+    ]
+  }
+}

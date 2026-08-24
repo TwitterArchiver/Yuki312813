@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082103167731617832",
+    "created_at": "2026-07-28T13:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082103167731617832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/todorokidoya1/…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/todorokidoya1/status/2082099106802254213",
+          "start": 97,
+          "url": "https://t.co/yc2xTStEIc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082103167731617832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082099106802254213",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起👮🏻叔叔，我自己自我反省，我不该紫餐和欧滴，已上交小刀和药。我以后不会再进病群，和别人讨论敏感内容，我以后好好学习，天天向上，努力考上个好学校！我爱🇨🇳感谢妈妈让我出生在了一个有爱的世界 https://t.co/yc2xTStEIc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082103167731617832",
+        "created_at": "2026-07-28T13:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082103167731617832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/todorokidoya1/…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/todorokidoya1/status/2082099106802254213",
+              "start": 97,
+              "url": "https://t.co/yc2xTStEIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082103167731617832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082099106802254213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起👮🏻叔叔，我自己自我反省，我不该紫餐和欧滴，已上交小刀和药。我以后不会再进病群，和别人讨论敏感内容，我以后好好学习，天天向上，努力考上个好学校！我爱🇨🇳感谢妈妈让我出生在了一个有爱的世界 https://t.co/yc2xTStEIc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946149148878852096",
+        "conversation_id": "2082099106802254213",
+        "created_at": "2026-07-28T13:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082099106802254213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chenpui2/statu…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/chenpui2/status/2082096883326136416",
+              "start": 97,
+              "url": "https://t.co/cK2oIS8nqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082099106802254213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082096883326136416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "对不起👮🏻叔叔，我自己自我反省，我不该紫餐和欧滴，已上交小刀和药。我以后不会再进病群，和别人讨论敏感内容，我以后好好学习，天天向上，努力考上个好学校！我爱🇨🇳感谢妈妈让我出生在了一个有爱的世界 https://t.co/cK2oIS8nqN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 331,
+          "like_count": 5518,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 3863
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "如此懦弱…\n\n小号@o0omftft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "o0omftft"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "location": "绘画世界",
+        "name": "0o0",
+        "pinned_tweet_id": "2079931487265374536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 580,
+          "like_count": 57719,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 4011
+        },
+        "url": "",
+        "username": "todorokidoya1",
+        "verified": true
+      }
+    ]
+  }
+}

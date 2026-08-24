@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082113402332217843",
+    "created_at": "2026-07-28T14:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082117028077543460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685845250802327552",
+          "start": 0,
+          "username": "hateuuetah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082117028077543460",
+    "in_reply_to_user_id": "1685845250802327552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082116597339287939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hateuuetah 那更美味了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082113402332217843",
+        "created_at": "2026-07-28T14:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082117028077543460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685845250802327552",
+              "start": 0,
+              "username": "hateuuetah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082117028077543460",
+        "in_reply_to_user_id": "1685845250802327552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082116597339287939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hateuuetah 那更美味了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685845250802327552",
+        "conversation_id": "2082113402332217843",
+        "created_at": "2026-07-28T14:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082116597339287939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082116597339287939",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082116388202872891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 其实这就是我，我就长这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 339,
+          "like_count": 5592,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 3887
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-31T02:50:20.000Z",
+        "description": "宇宙无敌至尊爆炸邪恶的神一个",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/daydreamers2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/daydreamers2",
+                "start": 0,
+                "url": "https://t.co/29jaP4hxCK"
+              }
+            ]
+          }
+        },
+        "id": "1685845250802327552",
+        "location": "原创轻奢小众账号",
+        "name": "hateu",
+        "pinned_tweet_id": "2081390608967471334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081721407331794944/XoYk4E6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 39,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/29jaP4hxCK",
+        "username": "hateuuetah",
+        "verified": false
+      }
+    ]
+  }
+}

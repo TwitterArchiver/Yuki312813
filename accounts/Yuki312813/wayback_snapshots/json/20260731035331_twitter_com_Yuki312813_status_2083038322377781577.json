@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082519910757064777",
+    "created_at": "2026-07-31T03:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083038322377781577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047767566840365057",
+          "start": 0,
+          "username": "forgetsq67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083038322377781577",
+    "in_reply_to_user_id": "2047767566840365057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082976637117730989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@forgetsq67 可能是节奏太大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082519910757064777",
+        "created_at": "2026-07-31T03:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083038322377781577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047767566840365057",
+              "start": 0,
+              "username": "forgetsq67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083038322377781577",
+        "in_reply_to_user_id": "2047767566840365057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082976637117730989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@forgetsq67 可能是节奏太大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047767566840365057",
+        "conversation_id": "2082519910757064777",
+        "created_at": "2026-07-30T23:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082976637117730989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082976637117730989",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082519910757064777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 为啥突然be了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki281331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 403,
+          "like_count": 6100,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 4078
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-24T20:00:54.000Z",
+        "description": "☕️🥞",
+        "id": "2047767566840365057",
+        "name": "inkash",
+        "pinned_tweet_id": "2081895180920324558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083009174682644480/eZSG4ZeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 78,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "forgetsq67",
+        "verified": false
+      }
+    ]
+  }
+}

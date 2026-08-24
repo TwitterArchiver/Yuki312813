@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082728079517225298",
+    "created_at": "2026-07-30T14:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082835348015722816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1340283470304591873",
+          "start": 0,
+          "username": "magatropy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082835348015722816",
+    "in_reply_to_user_id": "1340283470304591873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082766825503461480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@magatropy 还真是得看个人体质🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082728079517225298",
+        "created_at": "2026-07-30T14:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082835348015722816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1340283470304591873",
+              "start": 0,
+              "username": "magatropy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082835348015722816",
+        "in_reply_to_user_id": "1340283470304591873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082766825503461480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magatropy 还真是得看个人体质🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340283470304591873",
+        "conversation_id": "2082728079517225298",
+        "created_at": "2026-07-30T09:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082766825503461480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082766825503461480",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082728079517225298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 太看人了...自己的體質是佐匹和唑吡坦1t就會很舒服 2t就能出來(佐匹克隆可能需要3-4\n)...反而美 白兔 這種怎麼吃都只是頭暈想吐...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki281331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 390,
+          "like_count": 6044,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 4059
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-19T13:12:00.000Z",
+        "description": "emeōto",
+        "id": "1340283470304591873",
+        "name": "禍尾栖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078381771402719232/UJ84xQZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 151,
+          "like_count": 17603,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "magatropy",
+        "verified": true
+      }
+    ]
+  }
+}

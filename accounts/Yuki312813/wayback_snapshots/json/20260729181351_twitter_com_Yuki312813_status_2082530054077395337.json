@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082441509144604871",
+    "created_at": "2026-07-29T18:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082530054077395337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660848372675395584",
+          "start": 0,
+          "username": "Goldendream7721"
+        },
+        {
+          "end": 28,
+          "id": "2039692584990224384",
+          "start": 17,
+          "username": "laiduanshf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082530054077395337",
+    "in_reply_to_user_id": "1660848372675395584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082503748535074881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldendream7721 @laiduanshf 还有会员制餐厅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082441509144604871",
+        "created_at": "2026-07-29T18:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082530054077395337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660848372675395584",
+              "start": 0,
+              "username": "Goldendream7721"
+            },
+            {
+              "end": 28,
+              "id": "2039692584990224384",
+              "start": 17,
+              "username": "laiduanshf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082530054077395337",
+        "in_reply_to_user_id": "1660848372675395584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082503748535074881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldendream7721 @laiduanshf 还有会员制餐厅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660848372675395584",
+        "conversation_id": "2082441509144604871",
+        "created_at": "2026-07-29T16:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082503748535074881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039692584990224384",
+              "start": 0,
+              "username": "laiduanshf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082503748535074881",
+        "in_reply_to_user_id": "2039692584990224384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082441509144604871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laiduanshf 其实是高档餐厅服务员为两名美食家制作特制布丁时不小心失误把原材料弄到客人身上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起\n@Yuki281331 异格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 367,
+          "like_count": 5896,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 3995
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-23T03:22:20.000Z",
+        "description": "你好，头顶到脚底大约是180cm，体重50万吨以下0.5kg以上，约莫是一个125斤。纯天然无添加剂。🚪25，以上",
+        "id": "1660848372675395584",
+        "location": "比奇堡花园小区07栋21号",
+        "name": "起司猫猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048013999049158656/Badm7EKZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 327,
+          "like_count": 12274,
+          "listed_count": 5,
+          "media_count": 70,
+          "tweet_count": 456
+        },
+        "url": "",
+        "username": "Goldendream7721",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T13:13:12.000Z",
+        "description": "发点有意思的图 | 互fo私信",
+        "id": "2039692584990224384",
+        "name": "来段神回复",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055163365434310656/xg7NrWlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3566,
+          "following_count": 565,
+          "like_count": 8,
+          "listed_count": 9,
+          "media_count": 443,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "laiduanshf",
+        "verified": true
+      }
+    ]
+  }
+}

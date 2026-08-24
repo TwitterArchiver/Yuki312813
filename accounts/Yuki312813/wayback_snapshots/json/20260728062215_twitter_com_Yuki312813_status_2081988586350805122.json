@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081918357176283181",
+    "created_at": "2026-07-28T06:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081988586350805122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2068709144853708800",
+          "start": 0,
+          "username": "okxdkadLa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081988586350805122",
+    "in_reply_to_user_id": "2068709144853708800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081987029920100497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@okxdkadLa 太坏了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081918357176283181",
+        "created_at": "2026-07-28T06:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081988586350805122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2068709144853708800",
+              "start": 0,
+              "username": "okxdkadLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081988586350805122",
+        "in_reply_to_user_id": "2068709144853708800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081987029920100497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@okxdkadLa 太坏了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068709144853708800",
+        "conversation_id": "2081918357176283181",
+        "created_at": "2026-07-28T06:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081987029920100497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081987029920100497",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081918357176283181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 我来拉低中奖率😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "可以叫我岐哥 之前很傻逼现在很友善 其他的想好了再介绍 事一个一个一个解离鬼\n不混圈子因为我是傻福\n             对不起 谢谢你\n愿黑星照常升起",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 329,
+          "like_count": 5436,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 3836
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-21T14:55:11.000Z",
+        "description": "乐子人/混沌中立/les\n0.5 🌈",
+        "id": "2068709144853708800",
+        "name": "ShA_b1_M2",
+        "pinned_tweet_id": "2081636467580018768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122067123220480/C-tgOHc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 112,
+          "like_count": 1217,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "okxdkadLa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082461796196311388",
+    "created_at": "2026-07-29T14:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082473214215860514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685845250802327552",
+          "start": 0,
+          "username": "hateuuetah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082473214215860514",
+    "in_reply_to_user_id": "1685845250802327552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082461796196311388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hateuuetah 这野人魔了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2608,
+        "media_key": "3_2082461787681968128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZj9mkb0AAKuTb.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082461796196311388",
+        "created_at": "2026-07-29T14:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082473214215860514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685845250802327552",
+              "start": 0,
+              "username": "hateuuetah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082473214215860514",
+        "in_reply_to_user_id": "1685845250802327552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082461796196311388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hateuuetah 这野人魔了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082461787681968128"
+          ]
+        },
+        "author_id": "1685845250802327552",
+        "conversation_id": "2082461796196311388",
+        "created_at": "2026-07-29T13:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082461796196311388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9BGeIheHpw",
+              "end": 27,
+              "expanded_url": "https://x.com/hateuuetah/status/2082461796196311388/photo/1",
+              "media_key": "3_2082461787681968128",
+              "start": 4,
+              "url": "https://t.co/9BGeIheHpw"
+            },
+            {
+              "display_url": "x.com/pckym0214/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/pckym0214/status/2082451629903946130",
+              "start": 28,
+              "url": "https://t.co/w2Pvqbotc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082461796196311388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082451629903946130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你咋了 https://t.co/9BGeIheHpw https://t.co/w2Pvqbotc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起\n@Yuki281331 异格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 367,
+          "like_count": 5875,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 3975
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-31T02:50:20.000Z",
+        "description": "宇宙无敌至尊爆炸邪恶的神一个",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/daydreamers2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/daydreamers2",
+                "start": 0,
+                "url": "https://t.co/29jaP4hxCK"
+              }
+            ]
+          }
+        },
+        "id": "1685845250802327552",
+        "location": "原创轻奢小众账号",
+        "name": "hateu",
+        "pinned_tweet_id": "2081390608967471334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081721407331794944/XoYk4E6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 42,
+          "like_count": 781,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 773
+        },
+        "url": "https://t.co/29jaP4hxCK",
+        "username": "hateuuetah",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082210461181943808"
+      ],
+      "media_source_tweet_id": [
+        "2082441509144604871"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082530000411271399",
+    "created_at": "2026-07-29T18:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082530000411271399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039692584990224384",
+          "start": 3,
+          "username": "laiduanshf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QzjOpclnok",
+          "end": 39,
+          "expanded_url": "https://x.com/laiduanshf/status/2082441509144604871/photo/1",
+          "media_key": "3_2082210461181943808",
+          "start": 16,
+          "url": "https://t.co/QzjOpclnok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082530000411271399",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082441509144604871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laiduanshf: https://t.co/QzjOpclnok"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2082210461181943808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOV_YeZaIAAqWFo.jpg",
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082210461181943808"
+          ]
+        },
+        "author_id": "2039692584990224384",
+        "conversation_id": "2082441509144604871",
+        "created_at": "2026-07-29T12:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082441509144604871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QzjOpclnok",
+              "end": 23,
+              "expanded_url": "https://x.com/laiduanshf/status/2082441509144604871/photo/1",
+              "media_key": "3_2082210461181943808",
+              "start": 0,
+              "url": "https://t.co/QzjOpclnok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082441509144604871",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5247,
+          "like_count": 152,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QzjOpclnok"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082210461181943808"
+          ],
+          "media_source_tweet_id": [
+            "2082441509144604871"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082530000411271399",
+        "created_at": "2026-07-29T18:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082530000411271399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039692584990224384",
+              "start": 3,
+              "username": "laiduanshf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QzjOpclnok",
+              "end": 39,
+              "expanded_url": "https://x.com/laiduanshf/status/2082441509144604871/photo/1",
+              "media_key": "3_2082210461181943808",
+              "start": 16,
+              "url": "https://t.co/QzjOpclnok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082530000411271399",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082441509144604871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laiduanshf: https://t.co/QzjOpclnok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起\n@Yuki281331 异格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 367,
+          "like_count": 5896,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 3994
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-02T13:13:12.000Z",
+        "description": "发点有意思的图 | 互fo私信",
+        "id": "2039692584990224384",
+        "name": "来段神回复",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055163365434310656/xg7NrWlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3566,
+          "following_count": 565,
+          "like_count": 8,
+          "listed_count": 9,
+          "media_count": 443,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "laiduanshf",
+        "verified": true
+      }
+    ]
+  }
+}

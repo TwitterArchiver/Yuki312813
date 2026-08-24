@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082401195889705086",
+    "created_at": "2026-07-29T11:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082431377778049519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2059326143640276992",
+          "start": 0,
+          "username": "Huhiosc3x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082431377778049519",
+    "in_reply_to_user_id": "2059326143640276992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082401195889705086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhiosc3x 超级拼装"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10366,
+        "height": 1280,
+        "media_key": "13_2082401140680126464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082401140680126464/img/PgBeFpNHPfDJWtC9.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082401140680126464/vid/avc1/320x568/GJZyJ0262OZASQe3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082401140680126464/vid/avc1/480x852/UMvOSSPpdvcRfmyy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082401140680126464/vid/avc1/720x1280/JLGsXK2cCEzLsaHN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082401140680126464/pl/bF2fqrl8Jq6HnPhg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082401195889705086",
+        "created_at": "2026-07-29T11:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082431377778049519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2059326143640276992",
+              "start": 0,
+              "username": "Huhiosc3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082431377778049519",
+        "in_reply_to_user_id": "2059326143640276992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082401195889705086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhiosc3x 超级拼装"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082401140680126464"
+          ]
+        },
+        "author_id": "2059326143640276992",
+        "conversation_id": "2082401195889705086",
+        "created_at": "2026-07-29T09:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082401195889705086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWKerP1IlC",
+              "end": 34,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082401195889705086/video/1",
+              "media_key": "13_2082401140680126464",
+              "start": 11,
+              "url": "https://t.co/SWKerP1IlC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082401195889705086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是个很方便的镜梳！ https://t.co/SWKerP1IlC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起\n@Yuki281331 第二人格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 365,
+          "like_count": 5818,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 3966
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T17:32:17.000Z",
+        "description": "可以叫我hh｜同类互fo大欢迎｜被禁评了回复用引用｜餐券顺女，友跨｜清了波没有回关的如果有误清请务必私信告知我！不会单取任何人！",
+        "id": "2059326143640276992",
+        "name": "Huhio",
+        "pinned_tweet_id": "2079937945122001070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059327200395190273/aPIop2p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 162,
+          "like_count": 1095,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 850
+        },
+        "url": "",
+        "username": "Huhiosc3x",
+        "verified": false
+      }
+    ]
+  }
+}

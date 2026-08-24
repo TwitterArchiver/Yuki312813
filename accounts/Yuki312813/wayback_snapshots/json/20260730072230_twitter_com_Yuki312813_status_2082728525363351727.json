@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082728525363351727",
+    "created_at": "2026-07-30T07:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082728525363351727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/servernaya_/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/servernaya_/status/2082720985497887037",
+          "start": 18,
+          "url": "https://t.co/5BH5RyQOHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082728525363351727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082720985497887037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药物滥用很爽，我们必须吸毒、亲爱的 https://t.co/5BH5RyQOHz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082728525363351727",
+        "created_at": "2026-07-30T07:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082728525363351727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/servernaya_/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/servernaya_/status/2082720985497887037",
+              "start": 18,
+              "url": "https://t.co/5BH5RyQOHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082728525363351727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082720985497887037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物滥用很爽，我们必须吸毒、亲爱的 https://t.co/5BH5RyQOHz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "714526440218304512",
+        "conversation_id": "2082720985497887037",
+        "created_at": "2026-07-30T06:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082720985497887037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082720985497887037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物滥用很爽，我们必须吸毒、亲爱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki281331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 378,
+          "like_count": 6002,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 4041
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-28T18:55:53.000Z",
+        "description": "Down the rabbit hole",
+        "id": "714526440218304512",
+        "location": "北京精神卫生所",
+        "name": "Anna Berglund",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079541221249474560/-mNA6s0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 80,
+          "like_count": 4595,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 506
+        },
+        "url": "",
+        "username": "servernaya_",
+        "verified": false
+      }
+    ]
+  }
+}

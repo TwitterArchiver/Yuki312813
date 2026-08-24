@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081446980543451303",
+    "created_at": "2026-07-30T01:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T02:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082632791595049372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2077049654676746240",
+          "start": 0,
+          "username": "ycbztus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082632791595049372",
+    "in_reply_to_user_id": "2077049654676746240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081446980543451303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ycbztus 我靠吓尿了😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081446973216104448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLI_oFboAATuzL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081446973224456192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLI_oHbEAAPcPl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081446973190852608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLI_n_aUAAlrJZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081446980543451303",
+        "created_at": "2026-07-30T01:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082632791595049372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2077049654676746240",
+              "start": 0,
+              "username": "ycbztus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082632791595049372",
+        "in_reply_to_user_id": "2077049654676746240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081446980543451303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ycbztus 我靠吓尿了😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081446973216104448",
+            "3_2081446973224456192",
+            "3_2081446973190852608"
+          ]
+        },
+        "author_id": "2077049654676746240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081446980543451303",
+        "created_at": "2026-07-26T18:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081446980543451303"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "slittwt"
+            },
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "shedtwt"
+            },
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "shrtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhIySeCsrt",
+              "end": 53,
+              "expanded_url": "https://x.com/ycbztus/status/2081446980543451303/photo/1",
+              "media_key": "3_2081446973216104448",
+              "start": 30,
+              "url": "https://t.co/UhIySeCsrt"
+            },
+            {
+              "display_url": "pic.x.com/UhIySeCsrt",
+              "end": 53,
+              "expanded_url": "https://x.com/ycbztus/status/2081446980543451303/photo/1",
+              "media_key": "3_2081446973224456192",
+              "start": 30,
+              "url": "https://t.co/UhIySeCsrt"
+            },
+            {
+              "display_url": "pic.x.com/UhIySeCsrt",
+              "end": 53,
+              "expanded_url": "https://x.com/ycbztus/status/2081446980543451303/photo/1",
+              "media_key": "3_2081446973190852608",
+              "start": 30,
+              "url": "https://t.co/UhIySeCsrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081446980543451303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 139,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#slittwt #shedtwt #shrtwt 一二三 https://t.co/UhIySeCsrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki281331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 371,
+          "like_count": 5916,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 4011
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-14T15:18:47.000Z",
+        "description": "愛割割愛嗑嗑 直fo我爱你",
+        "id": "2077049654676746240",
+        "name": "ycbz",
+        "pinned_tweet_id": "2081418356020879609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081462708986359809/Bmkt-PM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 21,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "ycbztus",
+        "verified": true
+      }
+    ]
+  }
+}

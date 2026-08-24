@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082147708618567717",
+    "created_at": "2026-07-28T22:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T23:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082231875926732890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1389396065485398018",
+          "start": 0,
+          "username": "Yily_cici"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082231875926732890",
+    "in_reply_to_user_id": "1389396065485398018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082147708618567717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yily_cici wow这套裙子好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082147697990254592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVGTLSbQAAIfz6.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082147708618567717",
+        "created_at": "2026-07-28T22:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082231875926732890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1389396065485398018",
+              "start": 0,
+              "username": "Yily_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082231875926732890",
+        "in_reply_to_user_id": "1389396065485398018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082147708618567717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yily_cici wow这套裙子好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082147697990254592"
+          ]
+        },
+        "author_id": "1389396065485398018",
+        "conversation_id": "2082147708618567717",
+        "created_at": "2026-07-28T16:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082147708618567717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sUQJmKKxX",
+              "end": 27,
+              "expanded_url": "https://x.com/Yily_cici/status/2082147708618567717/photo/1",
+              "media_key": "3_2082147697990254592",
+              "start": 4,
+              "url": "https://t.co/3sUQJmKKxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082147708618567717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1565,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷饭。 https://t.co/3sUQJmKKxX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "@Cecey33 好朋友\n愿黑星照常升起\n@Yuki281331 第二人格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Cecey33"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 355,
+          "like_count": 5673,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 3921
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-04T01:47:03.000Z",
+        "description": "有时候话多有点吵。如果打扰到你了请给我屏蔽掉。对不起。oxo \n owo请礼貌私信 选回 互关可加v",
+        "id": "1389396065485398018",
+        "location": "你的身边。",
+        "name": "窒息的生活。",
+        "pinned_tweet_id": "2081905696757686330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081497059312721920/vD8ix7nL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 30,
+          "like_count": 1504,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "Yily_cici",
+        "verified": false
+      }
+    ]
+  }
+}

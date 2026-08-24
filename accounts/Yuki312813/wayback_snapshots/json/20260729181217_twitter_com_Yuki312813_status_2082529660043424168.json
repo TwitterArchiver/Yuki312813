@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082529660043424168",
+    "created_at": "2026-07-29T18:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082529660043424168"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082529660043424168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "万分感谢你愿意驻足聆听，对不起哦\n愤怒本就是人心无法互通而生出的裂痕\n倘若所有人共享同样的痛楚，同样的悸动，隔阂自然消散，纷争便不复存在\n互相体会伤痛，彼此包容，万众一心融为一体——这才是爱的真谛\n谢谢愿意理解我的想法，对不起，倘若你无法认同，那么，我只能逼迫你一同感受了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082529660043424168",
+        "created_at": "2026-07-29T18:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082529660043424168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082529660043424168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "万分感谢你愿意驻足聆听，对不起哦\n愤怒本就是人心无法互通而生出的裂痕\n倘若所有人共享同样的痛楚，同样的悸动，隔阂自然消散，纷争便不复存在\n互相体会伤痛，彼此包容，万众一心融为一体——这才是爱的真谛\n谢谢愿意理解我的想法，对不起，倘若你无法认同，那么，我只能逼迫你一同感受了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起\n@Yuki281331 异格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 367,
+          "like_count": 5896,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 3993
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

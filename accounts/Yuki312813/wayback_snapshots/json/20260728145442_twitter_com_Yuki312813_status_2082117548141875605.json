@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082105402934820985",
+    "created_at": "2026-07-28T14:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T15:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082117548141875605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1961527547344424962",
+          "start": 0,
+          "username": "sh7099222799018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082117548141875605",
+    "in_reply_to_user_id": "1961527547344424962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082116608743600287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sh7099222799018 不是，我估计是有什么帖子被举报了才封的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082105402934820985",
+        "created_at": "2026-07-28T14:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082117548141875605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961527547344424962",
+              "start": 0,
+              "username": "sh7099222799018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082117548141875605",
+        "in_reply_to_user_id": "1961527547344424962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082116608743600287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sh7099222799018 不是，我估计是有什么帖子被举报了才封的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961527547344424962",
+        "conversation_id": "2082105402934820985",
+        "created_at": "2026-07-28T14:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082116608743600287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008420775204896768",
+              "start": 0,
+              "username": "Yuki312813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082116608743600287",
+        "in_reply_to_user_id": "2008420775204896768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082105402934820985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki312813 不是这个真的可以封啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 339,
+          "like_count": 5594,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 3888
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-29T20:33:16.000Z",
+        "description": "=施迤/十一/shuyo 丨 只互fo喜欢的丨中国人丨当朋友圈发丨 不聊骚不聊黄 丨 不要为了互fo而关注我 丨 全网最有素质的人 丨 🈚🚪不加联系方式 丨 匿名提问↙ 丨 异性恋谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shuyo07221",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shuyo07221",
+                "start": 0,
+                "url": "https://t.co/xcFdcg9NVV"
+              }
+            ]
+          }
+        },
+        "id": "1961527547344424962",
+        "location": "7.2km",
+        "name": "施迤_shuyo@無言購読アカウント",
+        "pinned_tweet_id": "2081096510176149653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078372729171120128/MYYMjF51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 30,
+          "like_count": 2227,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1157
+        },
+        "url": "https://t.co/xcFdcg9NVV",
+        "username": "sh7099222799018",
+        "verified": false
+      }
+    ]
+  }
+}

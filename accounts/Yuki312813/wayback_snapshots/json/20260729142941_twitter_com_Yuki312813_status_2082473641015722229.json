@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082473631918235648"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082473641015722229",
+    "created_at": "2026-07-29T14:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082473641015722229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2070471603503423488",
+          "start": 7,
+          "username": "pckym0214"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qp7qrfrZMC",
+          "end": 54,
+          "expanded_url": "https://x.com/Yuki312813/status/2082473641015722229/photo/1",
+          "media_key": "3_2082473631918235648",
+          "start": 31,
+          "url": "https://t.co/qp7qrfrZMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082473641015722229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以pc吗🥺 @pckym0214  · 1小时\n\npc吗🥺 https://t.co/qp7qrfrZMC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 731,
+        "media_key": "3_2082473631918235648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZuvByaoAAwCf2.jpg",
+        "width": 1634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082473631918235648"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082473641015722229",
+        "created_at": "2026-07-29T14:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082473641015722229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2070471603503423488",
+              "start": 7,
+              "username": "pckym0214"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qp7qrfrZMC",
+              "end": 54,
+              "expanded_url": "https://x.com/Yuki312813/status/2082473641015722229/photo/1",
+              "media_key": "3_2082473631918235648",
+              "start": 31,
+              "url": "https://t.co/qp7qrfrZMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082473641015722229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以pc吗🥺 @pckym0214  · 1小时\n\npc吗🥺 https://t.co/qp7qrfrZMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起\n@Yuki281331 异格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 367,
+          "like_count": 5875,
+          "listed_count": 0,
+          "media_count": 380,
+          "tweet_count": 3976
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-26T11:40:04.000Z",
+        "description": "",
+        "id": "2070471603503423488",
+        "name": "可以 pc 吗🥺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081485928183578624/d7ddDtvo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 16,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "pckym0214",
+        "verified": false
+      }
+    ]
+  }
+}

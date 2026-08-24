@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082392730685329798",
+    "created_at": "2026-07-29T16:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082505624253014262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1671184573198131200",
+          "start": 0,
+          "username": "Rainmoon0721"
+        },
+        {
+          "end": 26,
+          "id": "1953528457339834368",
+          "start": 14,
+          "username": "redraft2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082505624253014262",
+    "in_reply_to_user_id": "1671184573198131200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082487623256547832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainmoon0721 @redraft2000 刷怪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082392730685329798",
+        "created_at": "2026-07-29T16:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082505624253014262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1671184573198131200",
+              "start": 0,
+              "username": "Rainmoon0721"
+            },
+            {
+              "end": 26,
+              "id": "1953528457339834368",
+              "start": 14,
+              "username": "redraft2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082505624253014262",
+        "in_reply_to_user_id": "1671184573198131200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082487623256547832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainmoon0721 @redraft2000 刷怪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671184573198131200",
+        "conversation_id": "2082392730685329798",
+        "created_at": "2026-07-29T15:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082487623256547832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953528457339834368",
+              "start": 0,
+              "username": "redraft2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082487623256547832",
+        "in_reply_to_user_id": "1953528457339834368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082392730685329798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redraft2000 你家是江浙沪大老板还是广东深圳几套房 你妈给你供到二十大几供你吃喝供你读书还要给你买药还要自己掏大几十万给你做手术 你知道这些钱你父母要赚多久吗 你有靠自己赚一分钱不 既然这么恨你妈赶紧断绝母子关系吧\n  你他妈也别给跨性别招黑了 看到跨性别都是你这种脑残我以后就放心的骂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起\n@Yuki281331 异格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 367,
+          "like_count": 5891,
+          "listed_count": 0,
+          "media_count": 380,
+          "tweet_count": 3987
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-20T15:53:57.000Z",
+        "description": "生理男/心理男/泛性恋/age:17/ip:🌐🇨🇳\n你喜欢我＝我喜欢你🥰\n有心理疾病/脑子不太正常/休学中\n暂时不od自残\n不及时回复抱歉\n唯一爱好:玩fps游戏(cs2/瓦/洲但是是一个本质菜逼\n政治立场为降临派😇人类自愿灭绝计划支持者\nx目前用得不太熟练 正在慢慢学习中📖\n懒得充蓝v了 一分钱不想给msk爆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ra1nm00n",
+                "end": 23,
+                "expanded_url": "https://t.me/Ra1nm00n",
+                "start": 0,
+                "url": "https://t.co/APcoUKwYqX"
+              }
+            ]
+          }
+        },
+        "id": "1671184573198131200",
+        "location": "江西南昌",
+        "name": "雨月Ugetsu🌧️🌙",
+        "pinned_tweet_id": "2081931655607181492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081280403210723328/OECbufRX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 189,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/APcoUKwYqX",
+        "username": "Rainmoon0721",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T18:47:53.000Z",
+        "description": "乘风好去，长空万里～",
+        "id": "1953528457339834368",
+        "name": "红筏🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968102545693528064/qrdJgaBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 123,
+          "like_count": 6492,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 2637
+        },
+        "url": "",
+        "username": "redraft2000",
+        "verified": false
+      }
+    ]
+  }
+}

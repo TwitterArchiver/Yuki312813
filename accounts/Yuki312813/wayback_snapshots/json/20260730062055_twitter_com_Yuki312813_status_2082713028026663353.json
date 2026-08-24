@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082713019273117696"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082460007325725132",
+    "created_at": "2026-07-30T06:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082713028026663353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1252387221849747456",
+          "start": 0,
+          "username": "akane3203"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aConyxoxew",
+          "end": 40,
+          "expanded_url": "https://x.com/Yuki312813/status/2082713028026663353/photo/1",
+          "media_key": "3_2082713019273117696",
+          "start": 17,
+          "url": "https://t.co/aConyxoxew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082713028026663353",
+    "in_reply_to_user_id": "1252387221849747456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082460007325725132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akane3203 可以pc吗 https://t.co/aConyxoxew"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 731,
+        "media_key": "3_2082713019273117696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdIdNLbAAAQglB.jpg",
+        "width": 1634
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2082459993857761280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZiVMDaoAAxaJW.jpg",
+        "width": 523
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2082459993891360768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZiVMLbUAAacPK.jpg",
+        "width": 527
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082713019273117696"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082460007325725132",
+        "created_at": "2026-07-30T06:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082713028026663353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1252387221849747456",
+              "start": 0,
+              "username": "akane3203"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aConyxoxew",
+              "end": 40,
+              "expanded_url": "https://x.com/Yuki312813/status/2082713028026663353/photo/1",
+              "media_key": "3_2082713019273117696",
+              "start": 17,
+              "url": "https://t.co/aConyxoxew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082713028026663353",
+        "in_reply_to_user_id": "1252387221849747456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082460007325725132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akane3203 可以pc吗 https://t.co/aConyxoxew"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082459993857761280",
+            "3_2082459993891360768"
+          ]
+        },
+        "author_id": "1252387221849747456",
+        "conversation_id": "2082460007325725132",
+        "created_at": "2026-07-29T13:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082460007325725132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C4wQ6gB7NO",
+              "end": 39,
+              "expanded_url": "https://x.com/akane3203/status/2082460007325725132/photo/1",
+              "media_key": "3_2082459993857761280",
+              "start": 16,
+              "url": "https://t.co/C4wQ6gB7NO"
+            },
+            {
+              "display_url": "pic.x.com/C4wQ6gB7NO",
+              "end": 39,
+              "expanded_url": "https://x.com/akane3203/status/2082460007325725132/photo/1",
+              "media_key": "3_2082459993891360768",
+              "start": 16,
+              "url": "https://t.co/C4wQ6gB7NO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082460007325725132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2294,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这人咋了啊你们看他主页笑惨我了 https://t.co/C4wQ6gB7NO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki281331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 380,
+          "like_count": 5990,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 4034
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-21T00:02:48.000Z",
+        "description": "这是一个可怜的女孩 喜欢我就给我点钱入门帮帮我",
+        "id": "1252387221849747456",
+        "location": "问坐标20r 除入门外不回复其他消息",
+        "name": "茜",
+        "pinned_tweet_id": "2055315876455309787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999091299325018112/N2KsIt8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 36,
+          "like_count": 370,
+          "listed_count": 5,
+          "media_count": 279,
+          "tweet_count": 2375
+        },
+        "url": "",
+        "username": "akane3203",
+        "verified": false
+      }
+    ]
+  }
+}

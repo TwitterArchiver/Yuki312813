@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082496196585902145",
+    "created_at": "2026-07-29T15:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082496196585902145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mi059945865966…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/mi0599458659662/status/2082484445521870973",
+          "start": 20,
+          "url": "https://t.co/P2oVjCEQ9P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082496196585902145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082484445521870973",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一步一跪一磕头 祝推特的傻逼立刻死全家 https://t.co/P2oVjCEQ9P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082496196585902145",
+        "created_at": "2026-07-29T15:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082496196585902145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mi059945865966…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/mi0599458659662/status/2082484445521870973",
+              "start": 20,
+              "url": "https://t.co/P2oVjCEQ9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082496196585902145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082484445521870973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一步一跪一磕头 祝推特的傻逼立刻死全家 https://t.co/P2oVjCEQ9P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025288475206189056",
+        "conversation_id": "2082484445521870973",
+        "created_at": "2026-07-29T15:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082484445521870973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082484445521870973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1046,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一步一跪一磕头 祝推特的傻逼立刻死全家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起\n@Yuki281331 异格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 367,
+          "like_count": 5884,
+          "listed_count": 0,
+          "media_count": 380,
+          "tweet_count": 3981
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-21T19:16:29.000Z",
+        "description": "最爱变脸之人",
+        "id": "2025288475206189056",
+        "location": "1.3km",
+        "name": "T . T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081458447498063872/dZsVmSCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 3,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "mi0599458659662",
+        "verified": false
+      }
+    ]
+  }
+}

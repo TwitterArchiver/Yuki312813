@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2083115309784068497",
+    "created_at": "2026-07-31T08:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083115309784068497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1799070281048510464",
+          "start": 3,
+          "username": "houqiezhangyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083115309784068497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083090711323533452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @houqiezhangyu: 推特这个人机有病吗到底咋屏蔽啊一直说自己福黑不黑，谁问你福黑不黑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2083115309784068497",
+        "created_at": "2026-07-31T08:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083115309784068497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1799070281048510464",
+              "start": 3,
+              "username": "houqiezhangyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083115309784068497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083090711323533452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @houqiezhangyu: 推特这个人机有病吗到底咋屏蔽啊一直说自己福黑不黑，谁问你福黑不黑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799070281048510464",
+        "conversation_id": "2083090711323533452",
+        "created_at": "2026-07-31T07:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083090711323533452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083090711323533452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推特这个人机有病吗到底咋屏蔽啊一直说自己福黑不黑，谁问你福黑不黑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki281331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 396,
+          "like_count": 6179,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 4088
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-07T13:26:03.000Z",
+        "description": "丑逼一个，在网络上找找存在感，三分钟热度。记忆力特别差。有的时候都不记得自己是个人了。所以对我任何的言语攻击都无用，您骂我，您辱女。我骂您，我虐畜",
+        "id": "1799070281048510464",
+        "name": "鼠哥，梦想活了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077991060656230400/upZKzLrz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 97,
+          "like_count": 1925,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "houqiezhangyu",
+        "verified": false
+      }
+    ]
+  }
+}

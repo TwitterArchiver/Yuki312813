@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082091684796723206",
+    "created_at": "2026-07-28T13:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082101802061967484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044236966254821377",
+          "start": 0,
+          "username": "QiuFu161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082101802061967484",
+    "in_reply_to_user_id": "2044236966254821377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082091684796723206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuFu161 好吓人🙀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3714,
+        "media_key": "3_2082091657798008833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUTVNTawAEQ1sh.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3364,
+        "media_key": "3_2082091671681142784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUTWBBakAA_YXQ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082091684796723206",
+        "created_at": "2026-07-28T13:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082101802061967484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044236966254821377",
+              "start": 0,
+              "username": "QiuFu161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082101802061967484",
+        "in_reply_to_user_id": "2044236966254821377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082091684796723206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuFu161 好吓人🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082091657798008833",
+            "3_2082091671681142784"
+          ]
+        },
+        "author_id": "2044236966254821377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082091684796723206",
+        "created_at": "2026-07-28T13:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082091684796723206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dx9xQZQyh1",
+              "end": 40,
+              "expanded_url": "https://x.com/QiuFu161/status/2082091684796723206/photo/1",
+              "media_key": "3_2082091657798008833",
+              "start": 17,
+              "url": "https://t.co/Dx9xQZQyh1"
+            },
+            {
+              "display_url": "pic.x.com/Dx9xQZQyh1",
+              "end": 40,
+              "expanded_url": "https://x.com/QiuFu161/status/2082091684796723206/photo/1",
+              "media_key": "3_2082091671681142784",
+              "start": 17,
+              "url": "https://t.co/Dx9xQZQyh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082091684796723206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁要吃\n\n又香又脆爱了爱了😋 https://t.co/Dx9xQZQyh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 331,
+          "like_count": 5501,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 3859
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-15T02:11:16.000Z",
+        "description": "ododod，冲刺冲刺冲刺//原推号@chuyinweilai114@06auser@06auser1\n//单推全球最伟大倒车帝总加速师庆丰包子铺主席、包共中央总书记、中央包委主席、包委联指总指挥习近平//我是一个傻逼🍥",
+        "id": "2044236966254821377",
+        "name": "yice",
+        "pinned_tweet_id": "2076555415127835052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075301904578650112/x1XfixFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 127,
+          "like_count": 881,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "QiuFu161",
+        "verified": false
+      }
+    ]
+  }
+}

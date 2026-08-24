@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2083170792028684681",
+    "created_at": "2026-07-31T12:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083170792028684681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1970865362368610304",
+          "start": 3,
+          "username": "Brandy322512322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083170792028684681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083169848037892147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Brandy322512322: 你赢了 你磕的药小众而猎奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2083170792028684681",
+        "created_at": "2026-07-31T12:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083170792028684681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1970865362368610304",
+              "start": 3,
+              "username": "Brandy322512322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083170792028684681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083169848037892147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Brandy322512322: 你赢了 你磕的药小众而猎奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970865362368610304",
+        "conversation_id": "2083169848037892147",
+        "created_at": "2026-07-31T12:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083169848037892147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083169848037892147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你赢了 你磕的药小众而猎奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki281331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 401,
+          "like_count": 6226,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 4099
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:58:20.000Z",
+        "description": "无我梦中                                                                                                    前世:@Donna1054957和@otxiashu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Donna1054957"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "otxiashu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/rAxtcjtivs"
+              }
+            ]
+          }
+        },
+        "id": "1970865362368610304",
+        "location": "沃尔库塔-5",
+        "name": "Ryoshu",
+        "pinned_tweet_id": "2082932544400769207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082721937508405249/1eGSC0rG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 32,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/rAxtcjtivs",
+        "username": "Brandy322512322",
+        "verified": false
+      }
+    ]
+  }
+}

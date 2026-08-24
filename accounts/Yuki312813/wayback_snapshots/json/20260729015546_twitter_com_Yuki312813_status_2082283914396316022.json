@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082015245191762299",
+    "created_at": "2026-07-29T01:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082283914396316022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1803370127041191942",
+          "start": 0,
+          "username": "cheansnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082283914396316022",
+    "in_reply_to_user_id": "1803370127041191942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082015245191762299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheansnow 真的很傻逼，让人没有和他聊下去的欲望"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082015237600075777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTN094aYAEqYZN.jpg",
+        "width": 830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082015245191762299",
+        "created_at": "2026-07-29T01:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082283914396316022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1803370127041191942",
+              "start": 0,
+              "username": "cheansnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082283914396316022",
+        "in_reply_to_user_id": "1803370127041191942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082015245191762299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheansnow 真的很傻逼，让人没有和他聊下去的欲望"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082015237600075777"
+          ]
+        },
+        "author_id": "1803370127041191942",
+        "conversation_id": "2082015245191762299",
+        "created_at": "2026-07-28T08:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082015245191762299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgsrPn4tDz",
+              "end": 54,
+              "expanded_url": "https://x.com/cheansnow/status/2082015245191762299/photo/1",
+              "media_key": "3_2082015237600075777",
+              "start": 31,
+              "url": "https://t.co/DgsrPn4tDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082015245191762299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5130,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得这个表情包极其恶心  令人生理不适 以为很幽默是吗.. https://t.co/DgsrPn4tDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起\n@Yuki281331 第二人格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 357,
+          "like_count": 5713,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 3933
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-19T10:12:08.000Z",
+        "description": "Apogee. / INFP-T",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apogee26549",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apogee26549",
+                "start": 0,
+                "url": "https://t.co/1PHLNCWbEM"
+              }
+            ]
+          }
+        },
+        "id": "1803370127041191942",
+        "name": "Chean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082033097537982464/EeE-ZpPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 169,
+          "like_count": 13351,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/1PHLNCWbEM",
+        "username": "cheansnow",
+        "verified": false
+      }
+    ]
+  }
+}

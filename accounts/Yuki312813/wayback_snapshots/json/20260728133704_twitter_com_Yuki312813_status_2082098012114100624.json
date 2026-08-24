@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2081302356910809218",
+    "created_at": "2026-07-28T13:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082098012114100624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1706409948236611585",
+          "start": 0,
+          "username": "nyarlathotep084"
+        },
+        {
+          "end": 33,
+          "id": "1805486587666644992",
+          "start": 17,
+          "username": "Akebono__Yohira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082098012114100624",
+    "in_reply_to_user_id": "1706409948236611585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081524699595514102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyarlathotep084 @Akebono__Yohira 每日小男孩笑话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2081302356910809218",
+        "created_at": "2026-07-28T13:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082098012114100624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1706409948236611585",
+              "start": 0,
+              "username": "nyarlathotep084"
+            },
+            {
+              "end": 33,
+              "id": "1805486587666644992",
+              "start": 17,
+              "username": "Akebono__Yohira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082098012114100624",
+        "in_reply_to_user_id": "1706409948236611585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081524699595514102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyarlathotep084 @Akebono__Yohira 每日小男孩笑话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706409948236611585",
+        "conversation_id": "2081302356910809218",
+        "created_at": "2026-07-26T23:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081524699595514102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805486587666644992",
+              "start": 0,
+              "username": "Akebono__Yohira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081524699595514102",
+        "in_reply_to_user_id": "1805486587666644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1348,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081302356910809218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akebono__Yohira 这真的不是神父设计的吗 \n一边透一边喊着主的名字,十字架都省了\n架起无罪的孩子,锁住他的手脚 为其过上后布 为其缚上麻绳所织的桂冠 闭上眼睛听着架上人儿的哀嚎,挺起下身的朗努基斯之枪 刺穿圣体 滴滴血液渗出 我从来没有与神靠的那么近 原谅我孩子,你需带走我身上的罪孽 而你将会在不久登上天堂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 329,
+          "like_count": 5488,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 3855
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-25T20:47:06.000Z",
+        "description": "请问你见过不死人先生了吗？莉耶芙一直在找他呢~\n莉耶芙把那个一直黏着他、烦死人了的金发独臂跟踪狂杀掉啦~一直哭哭啼啼地说什么一辈子的誓言，莉耶芙一句都听不懂，吵死啦，所以把她的脑袋和那些怪话一起砍掉了~\n\n啊，对了，咱把她漂亮的斗篷抢走了哦~反正她已经用不上了，留给莉耶芙不是刚刚好吗？\n\n你看，莉耶芙是不是很可爱~",
+        "id": "1706409948236611585",
+        "location": "卡达斯的黑王座/箱庭/都市郊区的星空",
+        "name": "只是迷途的莉耶芙哦",
+        "pinned_tweet_id": "2080829594819596416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080740548181192704/D_MN6CaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 160,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "nyarlathotep084",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T06:22:20.000Z",
+        "description": "又做了，相同的梦。\n避难舱：@Akebono6sqrt249",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Akebono6sqrt249"
+              }
+            ]
+          }
+        },
+        "id": "1805486587666644992",
+        "location": "千島列島",
+        "name": "✱ YOHIRA ✿",
+        "pinned_tweet_id": "2071043134495375663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077414982162243584/1h-fqQpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 3250,
+          "like_count": 23088,
+          "listed_count": 1,
+          "media_count": 539,
+          "tweet_count": 4099
+        },
+        "url": "",
+        "username": "Akebono__Yohira",
+        "verified": false
+      }
+    ]
+  }
+}

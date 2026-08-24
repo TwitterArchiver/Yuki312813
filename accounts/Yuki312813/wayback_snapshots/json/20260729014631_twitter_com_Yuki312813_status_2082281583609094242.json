@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082274644544070102",
+    "created_at": "2026-07-29T01:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082281583609094242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1674372721726357504",
+          "start": 0,
+          "username": "rosy15811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082281583609094242",
+    "in_reply_to_user_id": "1674372721726357504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082274644544070102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rosy15811 地达西尼是真的没用，还不如开劳拉氯硝这种，上次那个傻逼医生给我开地达西尼一看价格贵得要死，我马上跑路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082274644544070102",
+        "created_at": "2026-07-29T01:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082281583609094242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1674372721726357504",
+              "start": 0,
+              "username": "rosy15811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082281583609094242",
+        "in_reply_to_user_id": "1674372721726357504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082274644544070102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rosy15811 地达西尼是真的没用，还不如开劳拉氯硝这种，上次那个傻逼医生给我开地达西尼一看价格贵得要死，我马上跑路"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674372721726357504",
+        "conversation_id": "2082274644544070102",
+        "created_at": "2026-07-29T01:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082274644544070102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082274644544070102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这医生纯纯他妈拿我试药来了，地达西尼加喹硫平加锂盐，开药之前能不能跟我讲一声开什么药啊他妈的喹硫平我吃了静坐不能啊，地达西尼还尼玛贵得要死一百一盒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "愿黑星照常升起\n@Yuki281331 第二人格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 356,
+          "like_count": 5698,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 3928
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-29T11:02:39.000Z",
+        "description": "讨厌你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kasumi60",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kasumi60",
+                "start": 0,
+                "url": "https://t.co/vAXfGSs7OY"
+              }
+            ]
+          }
+        },
+        "id": "1674372721726357504",
+        "location": "Hong Kong",
+        "name": "安慶",
+        "pinned_tweet_id": "2078461638211231960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078499077910900738/YbNJ8PeX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 61,
+          "like_count": 7940,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/vAXfGSs7OY",
+        "username": "rosy15811",
+        "verified": false
+      }
+    ]
+  }
+}

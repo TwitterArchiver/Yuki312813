@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082672058484584449"
+      ]
+    },
+    "author_id": "2008420775204896768",
+    "conversation_id": "2082672069024870474",
+    "created_at": "2026-07-30T03:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082672069024870474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6tEJNtCHlz",
+          "end": 52,
+          "expanded_url": "https://x.com/Yuki312813/status/2082672069024870474/photo/1",
+          "media_key": "3_2082672058484584449",
+          "start": 29,
+          "url": "https://t.co/6tEJNtCHlz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082672069024870474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别发雪图了，马斯克当寻🩸猎犬给上个月的给缉拿了，很恐怖的 https://t.co/6tEJNtCHlz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2082672058484584449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcjM-Wa8AE2QZK.jpg",
+        "width": 2136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082672058484584449"
+          ]
+        },
+        "author_id": "2008420775204896768",
+        "conversation_id": "2082672069024870474",
+        "created_at": "2026-07-30T03:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082672069024870474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6tEJNtCHlz",
+              "end": 52,
+              "expanded_url": "https://x.com/Yuki312813/status/2082672069024870474/photo/1",
+              "media_key": "3_2082672058484584449",
+              "start": 29,
+              "url": "https://t.co/6tEJNtCHlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082672069024870474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别发雪图了，马斯克当寻🩸猎犬给上个月的给缉拿了，很恐怖的 https://t.co/6tEJNtCHlz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Yuki281331",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Yuki281331"
+              }
+            ]
+          }
+        },
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2081918357176283181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080084562248429568/-EQjYsGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 376,
+          "like_count": 5958,
+          "listed_count": 0,
+          "media_count": 382,
+          "tweet_count": 4022
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}
