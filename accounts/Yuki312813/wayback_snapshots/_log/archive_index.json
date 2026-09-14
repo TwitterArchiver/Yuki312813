@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-14T08:04:07",
+  "last_updated": "2026-09-14T08:04:27",
   "html": {
     "https://web.archive.org/web/20260715101445if_/https://twitter.com/Yuki312813/status/2077336056190419166": {
       "status": "done",
@@ -15189,13 +15189,13 @@
       "last_updated": "2026-08-24T09:40:56"
     },
     "https://pbs.twimg.com/profile_images/2077991060656230400/upZKzLrz_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260731085926_twitter_com_Yuki312813_status_2083115309784068497.json"
       ],
-      "last_updated": "2026-08-24T09:41:02",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260731085926if_/https://pbs.twimg.com/profile_images/2077991060656230400/upZKzLrz_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f6e83ffc350>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 2
+      "last_updated": "2026-09-14T08:04:27",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260731085926if_/https://pbs.twimg.com/profile_images/2077991060656230400/upZKzLrz_normal.jpg",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg": {
       "status": "done",
@@ -33899,7 +33899,7 @@
       "last_updated": "2026-08-24T09:40:56"
     },
     "20260731085926_twitter_com_Yuki312813_status_2083115309784068497.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -33908,7 +33908,7 @@
           "https://pbs.twimg.com/profile_images/2077991060656230400/upZKzLrz_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-14T08:04:07",
+      "last_updated": "2026-09-14T08:04:27",
       "miss_count": 2
     },
     "20260731094420_twitter_com_Yuki312813_status_2083126608110764190.json": {
